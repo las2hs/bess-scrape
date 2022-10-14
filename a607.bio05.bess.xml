@@ -1,0 +1,1694 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../../../xml/schema/BESS.rng" type="xml"?>
+
+<BESS>
+	<textAnalyzed>
+		<collectionID>a607</collectionID>
+		<biographyID>05</biographyID>
+		<URI>a607.bio05.bess.xml</URI>
+		<author>Charlotte M. Yonge</author>
+		<title>Lady Georgiana Fullerton, Mrs Stretton, Anne Manning</title>
+		<personaName>Lady Georgiana Fullerton, Mrs. Stretton, Anne Manning</personaName>
+	</textAnalyzed>
+	
+	<analysis>
+		<personaType>Writer</personaType>
+		
+		<!-- Begin Stage of Life -->
+		<stageOfLife>
+			<textUnitRangeReference>
+				<start>2</start>
+				<end>3</end>
+			</textUnitRangeReference>
+			<name>beginning</name>
+			<note>
+				<p>Begin Persona 1</p>
+			</note>
+		</stageOfLife>
+		
+		<stageOfLife>
+			<textUnitReference>4</textUnitReference>
+			<name>middle</name>
+		</stageOfLife>
+		
+		<stageOfLife>
+			<textUnitRangeReference>
+				<start>5</start>
+				<end>10</end>
+			</textUnitRangeReference>
+			<name>culmination</name>
+			<note>
+				<p>End Persona 1</p>
+			</note>
+		</stageOfLife>
+		
+		<stageOfLife>
+			<textUnitRangeReference>
+				<start>11</start>
+				<end>13</end>
+			</textUnitRangeReference>
+			<name>middle</name>
+			<note>
+				<p>Begin Persona 2</p>
+			</note>
+		</stageOfLife>
+		
+		<stageOfLife>
+			<textUnitReference>14</textUnitReference>
+			<name>end</name>
+		</stageOfLife>
+		
+		<stageOfLife>
+			<textUnitRangeReference>
+				<start>16</start>
+				<end>21</end>
+			</textUnitRangeReference>
+			<name>beginning</name>
+		</stageOfLife>
+		
+		<stageOfLife>
+			<textUnitRangeReference>
+				<start>22</start>
+				<end>24</end>
+			</textUnitRangeReference>
+			<name>middle</name>
+		</stageOfLife>
+		
+		<stageOfLife>
+			<textUnitReference>25</textUnitReference>
+			<name>end</name>
+			<note>
+				<p>End Persona 2</p>
+			</note>
+		</stageOfLife>
+		
+		<stageOfLife>
+			<textUnitRangeReference>
+				<start>26</start>
+				<end>31</end>
+			</textUnitRangeReference>
+			<name>beginning</name>
+			<note>
+				<p>Begin Persona 3</p>
+			</note>
+		</stageOfLife>
+		
+		<stageOfLife>
+			<textUnitReference>32</textUnitReference>
+			<name>middle</name>
+		</stageOfLife>
+		
+		<stageOfLife>
+			<textUnitRangeReference>
+				<start>33</start>
+				<end>35</end>
+			</textUnitRangeReference>
+			<name>culmination</name>
+		</stageOfLife>
+		
+		<stageOfLife>
+			<textUnitRangeReference>
+				<start>36</start>
+				<end>37</end>
+			</textUnitRangeReference>
+			<name>middle</name>
+		</stageOfLife>
+		
+		<stageOfLife>
+			<textUnitReference>38</textUnitReference>
+			<name>end</name>
+			<note>
+				<p>End Persona 3</p>
+			</note>
+		</stageOfLife>
+		
+		<!-- Begin Events -->
+		<event>
+			<textUnitReference>2</textUnitReference>
+			<type>birth</type>
+			<dateSingle standardDate="1812-09-23">September 23, 1812</dateSingle>
+			<note>
+				<p>Begin Persona 1</p>
+			</note>
+		</event>
+		
+		<event>
+			<textUnitReference>2</textUnitReference>
+			<type>appointment to office</type>
+			<type>change of title or position</type>
+			<type>move to new country</type>
+			<locationSetting>France</locationSetting>
+			<locationSetting>city</locationSetting>
+			<locationStructure>government building</locationStructure>
+			<agentType>father</agentType>
+		</event>
+		
+		<event>
+			<textUnitReference>2</textUnitReference>
+			<type>party</type>
+			<agentType>mother</agentType>
+			<agentType>Society or elite</agentType>
+		</event>
+		
+		<event>
+			<textUnitRangeReference>
+				<start>2</start>
+				<end>3</end>
+			</textUnitRangeReference>
+			<type>childhood or upbringing</type>
+		</event>
+		
+		<event>
+			<textUnitRangeReference>
+				<start>2</start>
+				<end>4</end>
+			</textUnitRangeReference>
+			<type>travel, international</type>
+			<type>travel, government assignment</type>
+		</event>
+
+		<event>
+			<textUnitReference>4</textUnitReference>
+			<type>wedding</type>
+			<agentType>sister</agentType>
+			<dateSingle standardDate="1833">1833</dateSingle>
+		</event>
+
+		<event>
+			<textUnitReference>4</textUnitReference>
+			<type>wedding</type>
+			<type>marriage, voluntary</type>
+			<agentType>husband</agentType>
+			<dateSingle standardDate="1833-07-13">July 13, 1833</dateSingle>
+		</event>
+		
+		<event>
+			<textUnitReference>4</textUnitReference>
+			<type>quitting or resigning job</type>
+			<type>hired for job</type>
+			<type>move to new country</type>
+			<agentType>husband</agentType>
+			<locationSetting>France</locationSetting>
+			<locationSetting>city</locationSetting>
+			<locationStructure>government building</locationStructure>
+		</event>
+		
+		<event>
+			<textUnitReference>4</textUnitReference>
+			<type>childbirth</type>
+			<agentType>baby boy, persona's</agentType>
+			<dateSingle standardDate="1833">1833</dateSingle>
+			<season>winter</season>
+		</event>
+		
+		<event>
+			<textUnitReference>5</textUnitReference>
+			<type>retirement from job or position</type>
+			<dateSingle standardDate="1841">1841</dateSingle>
+			<agentType>father</agentType>
+		</event>
+		
+		<event>
+			<textUnitReference>5</textUnitReference>
+			<type>travel, international</type>
+			<type>travel, recreational</type>
+			<locationSetting>France</locationSetting>
+			<locationSetting>Italy</locationSetting>
+			<locationSetting>Germany</locationSetting>
+		</event>
+		
+		<event>
+			<textUnitReference>5</textUnitReference>
+			<type>conversion</type>
+			<type>religious rite</type>
+			<agentType>husband</agentType>
+		</event>
+		
+		<event>
+			<textUnitReference>5</textUnitReference>
+			<type>calling or vocation choice, considered</type>
+		</event>
+		
+		<event>
+			<textUnitReference>6</textUnitReference>
+			<type>writing novel</type>
+			<type>travel, international</type>
+			<locationSetting>Europe or Continent</locationSetting>
+			<locationStructure>hotel or inn</locationStructure>
+		</event>
+		
+		<event>
+			<textUnitReference>6</textUnitReference>
+			<type>consultation, advice</type>
+			<agentType>nobleman, named</agentType>
+			<agentType>male professional, named</agentType>
+		</event>
+		
+		<event>
+			<textUnitReference>7</textUnitReference>
+			<type>writing autobiography</type>
+			<type>confession</type>
+			<type>consultation, advice</type>
+			<agentType>clergyman or clergy</agentType>
+			<locationSetting>city</locationSetting>
+			<locationStructure>church</locationStructure>
+			<note>
+				<p>events of persona's novel described</p>
+			</note>
+		</event>
+		
+		<event>
+			<textUnitReference>7</textUnitReference>
+			<type>crime committed by persona</type>
+			<type>accident harming others</type>
+			<agentType>child or children, related</agentType>
+			<locationSetting>river</locationSetting>
+			<note>
+				<p>events of persona's novel described</p>
+			</note>
+		</event>
+		
+		<event>
+			<textUnitRangeReference>
+				<start>7</start>
+				<end>8</end>
+			</textUnitRangeReference>
+			<type>keeping secret</type>
+			<agentType>male relative, named, other</agentType>
+			<agentType>female servant, unnamed</agentType>
+			<note>
+				<p>events of persona's novel described</p>
+			</note>
+		</event>
+		
+		<event>
+			<textUnitReference>8</textUnitReference>
+			<type>marriage, arranged</type>
+			<type>marriage, voluntary</type>
+			<agentType>male relative, named, other</agentType>
+			<agentType>female servant, named</agentType>
+			<note>
+				<p>events of persona's novel described</p>
+			</note>
+		</event>
+		
+		<event>
+			<textUnitReference>8</textUnitReference>
+			<type>abandonment by partner, lover or friend</type>
+			<type>separation, informal</type>
+			<type>receiving letter or message</type>
+			<type>escape</type>
+			<agentType>male relative, named, other</agentType>
+			<agentType>husband</agentType>
+			<note>
+				<p>events of persona's novel described</p>
+			</note>
+		</event>
+		
+		<event>
+			<textUnitReference>8</textUnitReference>
+			<type>confession</type>
+			<type>illness, persona's</type>
+			<type>death, persona's</type>
+			<agentType>husband</agentType>
+			<agentType>aunt</agentType>
+			<agentType>female relative, named, other</agentType>
+			<locationSetting>city</locationSetting>
+			<locationStructure>church</locationStructure>
+			<note>
+				<p>events of persona's novel described</p>
+			</note>
+		</event>
+		
+		<event>
+			<textUnitReference>9</textUnitReference>
+			<type>death or loss of father</type>
+			<type>conversion</type>
+			<type>work accomplished, writing</type>
+			<type>publication</type>
+		</event>
+		
+		<event>
+			<textUnitReference>10</textUnitReference>
+			<type>publication</type>
+			<dateSingle standardDate="1852">1852</dateSingle>
+		</event>
+		
+		<event>
+			<textUnitReference>11</textUnitReference>
+			<type>move to new city, town, or village</type>
+			<locationStructure>estate, country house</locationStructure>
+		</event>
+		
+		<event>
+			<textUnitReference>11</textUnitReference>
+			<type>joining group</type>
+			<type>travel, military deployment</type>
+			<agentType>son, named</agentType>
+		</event>
+		
+		<event>
+			<textUnitReference>11</textUnitReference>
+			<type>illness, family</type>
+			<type>death or loss of child</type>
+			<dateSingle standardDate="1855-05-29">29th of May 1855</dateSingle>
+		</event>
+		
+		<event>
+			<textUnitReference>11</textUnitReference>
+			<type>grieving</type>
+			<type>charity, personal action</type>
+			<type>charity, village visiting</type>
+			<type>calling or vocation choice, considered</type>
+			<type>calling or vocation choice, decision</type>
+			<type>writing novel</type>
+			<type>writing religious tract</type>
+		</event>
+		
+		<event>
+			<textUnitReference>12</textUnitReference>
+			<type>writing novel</type>
+		</event>
+		
+		<event>
+			<textUnitReference>12</textUnitReference>
+			<type>writing letter</type>
+			<type>abandonment by partner, lover or friend</type>
+			<type>travel, military deployment</type>
+			<agentType>husband</agentType>
+			<locationSetting>France</locationSetting>
+			<locationSetting>city</locationSetting>
+			<note>
+				<p>plot of persona's novel described</p>
+			</note>
+		</event>
+		
+		<event>
+			<textUnitReference>13</textUnitReference>
+			<type>persecution, religious</type>
+			<agentType>people of certain era</agentType>
+			<note>
+				<p>plot of persona's novel described</p>
+			</note>
+		</event>
+		
+		<event>
+			<textUnitReference>13</textUnitReference>
+			<type>assignment or new responsibility</type>
+			<agentType>courtier</agentType>
+			<agentType>royalty, female</agentType>
+			<note>
+				<p>plot of persona's novel described</p>
+			</note>
+		</event>
+		
+		<event>
+			<textUnitReference>13</textUnitReference>
+			<type>violence between two or more others</type>
+			<type>escape</type>
+			<type>hiding other person</type>
+			<type>funeral</type>
+			<agentType>wife of famous man</agentType>
+			<agentType>royalty, male</agentType>
+			<agentType>noblewoman, named</agentType>
+			<locationSetting>Europe or Continent</locationSetting>
+			<note>
+				<p>plot of persona's novel described</p>
+			</note>
+		</event>
+		
+		<event>
+			<textUnitReference>12</textUnitReference>
+			<type>travel, international</type>
+			<type>mission, religious, foreign</type>
+			<type>death or loss of spouse</type>
+			<type>marriage, voluntary</type>
+			<agentType>wife of famous man</agentType>
+			<agentType>royalty, male</agentType>
+			<agentType>noblewoman, named</agentType>
+			<agentType>nobleman, named</agentType>
+			<agentType>daughter, named</agentType>
+			<locationSetting>United States, as traveler or immigrant</locationSetting>
+			<locationSetting>colony</locationSetting>
+			<note>
+				<p>plot of persona's novel described</p>
+			</note>
+		</event>
+		
+		<event>
+			<textUnitReference>12</textUnitReference>
+			<type>death or loss of spouse</type>
+			<type>death or loss of child</type>
+			<type>travel, international</type>
+			<type>return to previous home</type>
+			<agentType>wife of famous man</agentType>
+			<agentType>nobleman, named</agentType>
+			<agentType>daughter, named</agentType>
+			<locationSetting>Europe or Continent</locationSetting>
+			<locationSetting>European country, other named</locationSetting>
+			<locationSetting>city</locationSetting>
+			<note>
+				<p>plot of persona's novel described</p>
+			</note>
+		</event>
+		
+		<event>
+			<textUnitReference>14</textUnitReference>
+			<type>illness, persona's</type>
+			<type>death, persona's</type>
+			<dateSingle standardDate="1885-01-19">19th of January 1885</dateSingle>
+			<locationSetting>town</locationSetting>
+			<note>
+				<p>End Persona 1</p>
+			</note>
+		</event>
+		
+		<event>
+			<textUnitReference>15</textUnitReference>
+			<type>publication</type>
+			<note>
+				<p>Begin Persona 2</p>
+			</note>
+		</event>
+		
+		<event>
+			<textUnitReference>16</textUnitReference>
+			<type>birth</type>
+			<dateSingle standardDate="1812-11-25">25th of November, 1812</dateSingle>
+		</event>
+		
+		<event>
+			<textUnitRangeReference>
+				<start>16</start>
+				<end>21</end>
+			</textUnitRangeReference>
+			<type>childhood or upbringing</type>
+		</event>
+		
+		<event>
+			<textUnitReference>16</textUnitReference>
+			<type>adoption of child</type>
+			<agentType>aunt</agentType>
+			<agentType>sister</agentType>
+		</event>
+		
+		<event>
+			<textUnitReference>17</textUnitReference>
+			<type>visiting by agents</type>
+			<type>teaching children</type>
+			<agentType>sister</agentType>
+		</event>
+		
+		<event>
+			<textUnitReference>17</textUnitReference>
+			<type>care for siblings other than nursing</type>
+			<type>walking, recreational</type>
+			<type>rescue</type>
+			<agentType>siblings</agentType>
+			<agentType>animal, farm</agentType>
+		</event>
+		
+		<event>
+			<textUnitReference>18</textUnitReference>
+			<type>riot</type>
+			<type>travel, government assignment</type>
+			<type>conversation</type>
+			<agentType>people of occupational type</agentType>
+			<agentType>father</agentType>
+		</event>
+		
+		<event>
+			<textUnitReference>19</textUnitReference>
+			<type>accident harming others</type>
+			<type>operation, medical</type>
+			<type>nursing in family home</type>
+			<type>story_telling</type>
+			<type>death or loss of brother</type>
+			<agentType>brother, unnamed</agentType>
+		</event>
+		
+		<event>
+			<textUnitReference>19</textUnitReference>
+			<type>birth</type>
+			<agentType>sister, unnamed</agentType>
+			<timeOfDay>evening</timeOfDay>
+		</event>
+		
+		<event>
+			<textUnitReference>21</textUnitReference>
+			<type>education, attending boarding school</type>
+			<type>education, attending day school</type>
+			<type>education, untaught or lack of formal</type>
+			<type>teaching children</type>
+			<agentType>brothers, group, unnamed</agentType>
+			<agentType>siblings</agentType>
+			<agentType>father</agentType>
+		</event>
+		
+		<event>
+			<textUnitReference>21</textUnitReference>
+			<type>travel, international</type>
+			<type>mission, other</type>
+			<agentType>brother</agentType>
+		</event>
+		
+		<event>
+			<textUnitReference>22</textUnitReference>
+			<type>marriage, voluntary</type>
+			<type>death or loss of spouse</type>
+			<agentType>husband</agentType>
+		</event>
+		
+		<event>
+			<textUnitReference>22</textUnitReference>
+			<type>childcare</type>
+			<type>departure</type>
+			<type>education, attending boarding school</type>
+			<agentType>daughter, unnamed</agentType>
+			<agentType>sons, group, named</agentType>
+		</event>
+		
+		<event>
+			<textUnitReference>22</textUnitReference>
+			<type>writing for children</type>
+		</event>
+		
+		<event>
+			<textUnitRangeReference>
+				<start>23</start>
+				<end>24</end>
+			</textUnitRangeReference>
+			<type>writing novel</type>
+		</event>
+		
+		<event>
+			<textUnitReference>24</textUnitReference>
+			<type>writing autobiography</type>
+		</event>
+		
+		<event>
+			<textUnitReference>23</textUnitReference>
+			<type>death or loss of father</type>
+			<type>childcare</type>
+			<type>revolution</type>
+			<type>school, founding</type>
+			<agentType>mother</agentType>
+			<agentType>grandmother</agentType>
+			<note>
+				<p>events of persona's novel described</p>
+			</note>
+		</event>
+		
+		<event>
+			<textUnitReference>24</textUnitReference>
+			<type>election</type>
+			<locationSetting>Wales</locationSetting>
+			<note>
+				<p>events of persona's novel described</p>
+			</note>
+		</event>
+		
+		<event>
+			<textUnitReference>24</textUnitReference>
+			<type>marriage, arranged</type>
+			<type>obedience or submission</type>
+			<type>illness, family</type>
+			<type>nursing in family home</type>
+			<type>accident harming others</type>
+			<type>death or loss of spouse</type>
+			<type>marriage proposal refused</type>
+			<type>falling in love</type>
+			<agentType>friend</agentType>
+			<agentType>husband</agentType>
+			<agentType>lover, male, unnamed</agentType>
+		</event>
+		
+		<event>
+			<textUnitReference>25</textUnitReference>
+			<type>childcare</type>
+			<agentType>child or children, related</agentType>
+		</event>
+		
+		<event>
+			<textUnitReference>25</textUnitReference>
+			<type>marriage, voluntary</type>
+			<agentType>friend</agentType>
+			<dateSingle standardDate="1858">1858</dateSingle>
+		</event>
+		
+		<event>
+			<textUnitReference>25</textUnitReference>
+			<type>death or loss of spouse</type>
+			<dateSingle standardDate="1868">1868</dateSingle>
+			<agentType>husband</agentType>
+		</event>
+		
+		<event>
+			<textUnitReference>25</textUnitReference>
+			<type>death, persona's</type>
+			<dateSingle standardDate="1878-07-17">17th of July 1878</dateSingle>
+			<note>
+				<p>End Persona 2</p>
+			</note>
+		</event>
+		
+		<event>
+			<textUnitReference>26</textUnitReference>
+			<type>reading</type>
+			<note>
+				<p>Begin Persona 3</p>
+			</note>
+		</event>
+		
+		<event>
+			<textUnitRangeReference>
+				<start>26</start>
+				<end>28</end>
+			</textUnitRangeReference>
+			<type>childhood or upbringing</type>
+		</event>
+		
+		<event>
+			<textUnitReference>26</textUnitReference>
+			<type>procession or parade</type>
+			<agentType>royalty, male</agentType>
+			<agentType>royalty, female</agentType>
+			<locationSetting>city</locationSetting>
+			<locationStructure>hotel or inn</locationStructure>
+		</event>
+		
+		<event>
+			<textUnitReference>27</textUnitReference>
+			<type>education, private lessons</type>
+			<type>reading</type>
+			<type>education, arts</type>
+			<agentType>father</agentType>
+			<agentType>teacher</agentType>
+		</event>
+		
+		<event>
+			<textUnitReference>28</textUnitReference>
+			<type>move to new city, town, or village</type>
+			<locationSetting>open country</locationSetting>
+			<locationStructure>abbey</locationStructure>
+			<agentType>mother, unnamed</agentType>
+			<agentType>sisters, group, unnamed</agentType>
+		</event>
+		
+		<event>
+			<textUnitReference>28</textUnitReference>
+			<type>travel for calling or work</type>
+			<type>visiting by agents</type>
+			<agentType>father</agentType>
+		</event>
+		
+		<event>
+			<textUnitReference>28</textUnitReference>
+			<type>publication</type>
+			<type>publicity</type>
+			<type>money making</type>
+			<agentType>aunt</agentType>
+			<agentType>grandfather</agentType>
+		</event>
+		
+		<event>
+			<textUnitReference>29</textUnitReference>
+			<type>writing other</type>
+			<locationSetting>town</locationSetting>
+		</event>
+		
+		<event>
+			<textUnitRangeReference>
+				<start>29</start>
+				<end>30</end>
+			</textUnitRangeReference>
+			<type>conversation</type>
+			<type>recognition, spoken praise</type>
+			<agentType>father</agentType>
+		</event>
+		
+		<event>
+			<textUnitReference>32</textUnitReference>
+			<type>death or loss of sister</type>
+			<type>illness, family</type>
+			<type>death or loss of mother</type>
+		</event>
+		
+		<event>
+			<textUnitReference>32</textUnitReference>
+			<type>travel, short distance or frequent</type>
+			<agentType>sisters, group, unnamed</agentType>
+			<locationSetting>town</locationSetting>
+			<locationStructure>hotel or inn</locationStructure>
+			<locationStructure>cottage</locationStructure>
+			<season>winter</season>
+			<season>summer</season>
+		</event>
+		
+		<event>
+			<textUnitReference>32</textUnitReference>
+			<type>visiting by agents</type>
+			<type>travel for calling or work</type>
+			<agentType>father</agentType>
+		</event>
+		
+		<event>
+			<textUnitReference>32</textUnitReference>
+			<type>education, arts</type>
+			<type>painting, amateur</type>
+			<type>writing scientific</type>
+			<locationSetting>open country</locationSetting>
+		</event>
+		
+		<event>
+			<textUnitReference>33</textUnitReference>
+			<type>writing novel</type>
+			<type>reading</type>
+			<type>sending letter or message</type>
+			<type>business, starting</type>
+			<agentType>sisters, group, unnamed</agentType>
+			<agentType>brother, unnamed</agentType>
+			<locationSetting>Australia</locationSetting>
+		</event>
+		
+		<event>
+			<textUnitReference>33</textUnitReference>
+			<type>publication</type>
+			<agentType>manager or agent in profession</agentType>
+			<dateSingle standardDate="1849">1849</dateSingle>
+		</event>
+		
+		<event>
+			<textUnitReference>34</textUnitReference>
+			<type>controversy in politics</type>
+			<type>learning language</type>
+			<type>writing autobiography</type>
+			<type>childhood or upbringing</type>
+			<type>service to family, housekeeping</type>
+			<type>visiting by agents</type>
+			<type>falling in love</type>
+			<type>borrowing, lending money</type>
+			<type>marriage, voluntary</type>
+			<type>move to new city, town, or village</type>
+			<type>return to previous home</type>
+			<type>visiting by agents</type>
+			<type>consultation, advice</type>
+			<type>divorce</type>
+			<type>forgiveness</type>
+			<agentType>daughters, group, unnamed</agentType>
+			<agentType>wife of famous man</agentType>
+			<agentType>mother, unnamed</agentType>
+			<agentType>father, unnamed</agentType>
+			<agentType>relatives unspecified</agentType>
+			<locationSetting>open country</locationSetting>
+			<locationSetting>city</locationSetting>
+			<note>
+				<p>events of persona's novel described</p>
+			</note>
+		</event>
+		
+		<event>
+			<textUnitRangeReference>
+				<start>35</start>
+				<end>37</end>
+			</textUnitRangeReference>
+			<type>publication</type>
+			<type>writing novel</type>
+		</event>
+		
+		<event>
+			<textUnitRangeReference>
+				<start>35</start>
+				<end>36</end>
+			</textUnitRangeReference>
+			<type>writing autobiography</type>
+			<agentType>daughter, named</agentType>
+			<agentType>famous man</agentType>
+			<note>
+				<p>events of persona's novel described</p>
+			</note>
+		</event>
+		
+		<event>
+			<textUnitReference>37</textUnitReference>
+			<type>illness, recurrent or epidemic</type>
+			<note>
+				<p>events of persona's novel described</p>
+			</note>
+		</event>
+		
+		<event>
+			<textUnitReference>37</textUnitReference>
+			<type>drowning</type>
+			<type>rescue</type>
+			<agentType>male servant, unnamed</agentType>
+			<agentType>girl, unrelated, named</agentType>
+			<locationSetting>city</locationSetting>
+			<note>
+				<p>events of persona's novel described</p>
+			</note>
+		</event>
+		
+		<event>
+			<textUnitReference>38</textUnitReference>
+			<type>writing letter</type>
+			<agentType>friend</agentType>
+		</event>
+		
+		<event>
+			<textUnitReference>38</textUnitReference>
+			<type>writing autobiography</type>
+			<type>illness, persona's</type>
+			<agentType>sisters, group, unnamed</agentType>
+			<dateSingle standardDate="1854">1854</dateSingle>
+		</event>
+		
+		<event>
+			<textUnitReference>38</textUnitReference>
+			<type>death, persona's</type>
+			<dateSingle standardDate="1879-09-14">14th of September, 1879</dateSingle>
+		</event>
+		
+		<!-- Begin Persona Description -->
+		<personaDescription>
+			<textUnitReference>1</textUnitReference>
+			<type>devout</type>
+			<note>
+				<p>Persona 1</p>
+			</note>
+		</personaDescription>
+		
+		<personaDescription>
+			<textUnitReference>1</textUnitReference>
+			<type>calm</type>
+			<type>loving</type>
+			<type>happy</type>
+			<note>
+				<p>Persona 2</p>
+			</note>
+		</personaDescription>
+		
+		<personaDescription>
+			<textUnitReference>2</textUnitReference>
+			<type>well_born</type>
+			<type>well_bred or brought up</type>
+			<type>dedicated or devoted</type>
+			<note>
+				<p>Begin Persona 1</p>
+			</note>
+		</personaDescription>
+		
+		<personaDescription>
+			<textUnitReference>3</textUnitReference>
+			<type>learned, languages</type>
+			<type>happy</type>
+			<type>dutiful</type>
+			<type>young</type>
+		</personaDescription>
+		
+		<personaDescription>
+			<textUnitReference>4</textUnitReference>
+			<type>young</type>
+		</personaDescription>
+		
+		<personaDescription>
+			<textUnitReference>5</textUnitReference>
+			<type>religious in practice, observant</type>
+			<type>dutiful</type>
+		</personaDescription>
+		
+		<personaDescription>
+			<textUnitReference>10</textUnitReference>
+			<type>skillful</type>
+			<type>well_bred or brought up</type>
+		</personaDescription>
+		
+		<personaDescription>
+			<textUnitReference>11</textUnitReference>
+			<type>grieving</type>
+			<type>dedicated or devoted</type>
+			<type>playful</type>
+			<type>curious</type>
+			<type>charming</type>
+			<type>charitable</type>
+		</personaDescription>
+		
+		<personaDescription>
+			<textUnitReference>14</textUnitReference>
+			<type>loving</type>
+			<type>cheerful</type>
+			<type>self-sacrificing</type>
+			<type>devout</type>
+			<type>holy or angelic</type>
+			<note>
+				<p>End Persona 1</p>
+			</note>
+		</personaDescription>
+		
+		<personaDescription>
+			<textUnitReference>21</textUnitReference>
+			<type>happy</type>
+			<note>
+				<p>Begin Persona 2</p>
+			</note>
+		</personaDescription>
+		
+		<personaDescription>
+			<textUnitReference>22</textUnitReference>
+			<type>dedicated or devoted</type>
+			<type>lonely</type>
+		</personaDescription>
+		
+		<personaDescription>
+			<textUnitReference>25</textUnitReference>
+			<type>charming</type>
+			<type>young</type>
+			<type>playful</type>
+			<type>lively</type>
+			<type>maternal or nurturing</type>
+			<note>
+				<p>End Persona 2</p>
+			</note>
+		</personaDescription>
+		
+		<personaDescription>
+			<textUnitReference>27</textUnitReference>
+			<type>learned, science</type>
+			<type>lacking talent</type>
+			<type>dutiful</type>
+			<type>persistent</type>
+			<type>studious</type>
+			<note>
+				<p>Begin Persona 3</p>
+			</note>
+		</personaDescription>
+		
+		<personaDescription>
+			<textUnitReference>28</textUnitReference>
+			<type>honest</type>
+		</personaDescription>
+		
+		<personaDescription>
+			<textUnitReference>31</textUnitReference>
+			<type>young</type>
+			<type>inexperienced</type>
+		</personaDescription>
+		
+		<personaDescription>
+			<textUnitReference>32</textUnitReference>
+			<type>grieving</type>
+			<type>skilled, in occupation</type>
+			<type>learned, science</type>
+			<type>artistic</type>
+		</personaDescription>
+		
+		<personaDescription>
+			<textUnitReference>34</textUnitReference>
+			<type>famous</type>
+			<type>innovative, pioneering</type>
+		</personaDescription>
+		
+		<personaDescription>
+			<textUnitReference>35</textUnitReference>
+			<type>skilled, in occupation</type>
+			<type>studious</type>
+		</personaDescription>
+		
+		<personaDescription>
+			<textUnitReference>37</textUnitReference>
+			<type>methodical or disciplined</type>
+			<type>gentle</type>
+			<type>charitable</type>
+			<type>devout</type>
+		</personaDescription>
+		
+		<personaDescription>
+			<textUnitReference>38</textUnitReference>
+			<type>kind</type>
+			<type>charming</type>
+		</personaDescription>
+		
+		<!-- Begin Topos -->
+		<topos>
+			<textUnitReference>1</textUnitReference>
+			<type>character as destiny, career foretold</type>
+			<type>inspiration, literary or artistic</type>
+			<type>faith</type>
+			<type>memory</type>
+			<type>test or trial, spiritual</type>
+			<type>attachment, family bonding or not</type>
+		</topos>
+		
+		<topos>
+			<textUnitRangeReference>
+				<start>2</start>
+				<end>3</end>
+			</textUnitRangeReference>
+			<type>family, class or status</type>
+			<type>family, occupation of parents or ancestors</type>
+			<type>class as narrator's generalization</type>
+			<type>class as persona's encounter with others</type>
+			<type>duty</type>
+			<type>influence, emotional effect on peers</type>
+			<note>
+				<p>Begin Persona 1</p>
+			</note>
+		</topos>
+		
+		<topos>
+			<textUnitReference>4</textUnitReference>
+			<type>motherhood</type>
+		</topos>
+		
+		<topos>
+			<textUnitReference>5</textUnitReference>
+			<type>family, occupation of parents or ancestors</type>
+			<type>custom or tradition</type>
+			<type>influence, converting others to faith</type>
+			<type>doubt of faith</type>
+			<type>family restricts vocation</type>
+			<type>conversion</type>
+		</topos>
+		
+		<topos>
+			<textUnitReference>6</textUnitReference>
+			<type>charity</type>
+			<type>sacrifice or renunciation of self-interest or desire</type>
+			<type>inspiration, literary or artistic</type>
+			<type>association with great man or men</type>
+			<type>talent discovered in new activity</type>
+			<type>influence, emotional effect on peers</type>
+		</topos>
+		
+		<topos>
+			<textUnitReference>7</textUnitReference>
+			<type>despair</type>
+			<type>secrecy</type>
+			<type>physical contact with child or children, unspecified</type>
+			<type>failure as persona's misconduct or flaw</type>
+			<note>
+				<p>topos of persona's novel described</p>
+			</note>
+		</topos>
+		
+		<topos>
+			<textUnitReference>8</textUnitReference>
+			<type>pride</type>
+			<type>jealousy</type>
+			<type>solitude, escape from others</type>
+			<type>dying or deathbed</type>
+			<type>faith</type>
+			<note>
+				<p>topos of persona's novel described</p>
+			</note>
+		</topos>
+		
+		<topos>
+			<textUnitReference>9</textUnitReference>
+			<type>talent discovered in new activity</type>
+			<type>influence, emotional effect on peers</type>
+			<type>faith</type>
+			<type>religion, prejudice or hostility against Catholics</type>
+		</topos>
+		
+		<topos>
+			<textUnitReference>10</textUnitReference>
+			<type>fame in lifetime</type>
+			<type>exoticism</type>
+			<type>race as narrator's generalization</type>
+			<type>hypocrisy</type>
+			<type>religion, prejudice or hostility against Protestants</type>
+			<type>national character, persona's birth country</type>
+			<type>national character of other countries visited, adopted</type>
+			<type>taste</type>
+		</topos>
+		
+		<topos>
+			<textUnitReference>11</textUnitReference>
+			<type>work as social service</type>
+			<type>charity</type>
+			<type>poverty</type>
+			<type>influence, emotional effect on peers</type>
+			<type>influence, converting others to faith</type>
+		</topos>
+		
+		<topos>
+			<textUnitReference>12</textUnitReference>
+			<type>inspiration, literary or artistic</type>
+			<type>abandonment</type>
+			<type>motherhood</type>
+			<type>elocution, correct or proper language</type>
+		</topos>
+		
+		<topos>
+			<textUnitReference>13</textUnitReference>
+			<type>religion, prejudice or hostility against Catholics</type>
+			<type>domestic violence</type>
+			<type>solitude, escape from others</type>
+			<type>motherhood</type>
+			<type>influence, converting others to faith</type>
+			<type>race as narrator's generalization</type>
+			<note>
+				<p>topos of persona's novel described</p>
+			</note>
+		</topos>
+		
+		<topos>
+			<textUnitReference>14</textUnitReference>
+			<type>charity</type>
+			<type>faith</type>
+			<type>fame in lifetime</type>
+			<type>dying or deathbed</type>
+			<note>
+				<p>End Persona 1</p>
+			</note>
+		</topos>
+		
+		<topos>
+			<textUnitRangeReference>
+				<start>15</start>
+				<end>16</end>
+			</textUnitRangeReference>
+			<type>inspiration, literary or artistic</type>
+			<type>attachment, family bonding or not</type>
+			<type>motherhood</type>
+			<note>
+				<p>Begin Persona 2</p>
+			</note>
+		</topos>
+		
+		<topos>
+			<textUnitReference>15</textUnitReference>
+			<type>nature, response to</type>
+			<type>adversity</type>
+		</topos>
+		
+		<topos>
+			<textUnitReference>16</textUnitReference>
+			<type>family, class or status</type>
+			<type>family, occupation of parents or ancestors</type>
+		</topos>
+		
+		<topos>
+			<textUnitReference>17</textUnitReference>
+			<type>class as persona's encounter with others</type>
+			<type>influence on children, gender unspecified</type>
+			<type>influence, changing behavior of working women</type>
+			<type>physical contact with child or children, unspecified</type>
+			<type>skill in emergency or crisis</type>
+			<type>adventure</type>
+		</topos>
+		
+		<topos>
+			<textUnitReference>18</textUnitReference>
+			<type>influence, changing behavior of working men</type>
+			<type>attachment, family bonding or not</type>
+		</topos>
+		
+		<topos>
+			<textUnitReference>19</textUnitReference>
+			<type>attachment, family bonding or not</type>
+			<type>skill in emergency or crisis</type>
+			<type>dying or deathbed</type>
+		</topos>
+		
+		<topos>
+			<textUnitReference>20</textUnitReference>
+			<type>jealousy</type>
+			<type>motherhood</type>
+		</topos>
+		
+		<topos>
+			<textUnitReference>21</textUnitReference>
+			<type>gender restricts activity</type>
+		</topos>
+		
+		<topos>
+			<textUnitReference>22</textUnitReference>
+			<type>solitude, loneliness</type>
+			<type>attachment, family bonding or not</type>
+		</topos>
+		
+		<topos>
+			<textUnitReference>23</textUnitReference>
+			<type>motherhood</type>
+			<type>Empire</type>
+			<type>class as narrator's generalization</type>
+			<type>education advocacy</type>
+			<type>child abuse</type>
+			<note>
+				<p>topos of persona's novel described</p>
+			</note>
+		</topos>
+		
+		<topos>
+			<textUnitReference>24</textUnitReference>
+			<type>romance</type>
+			<type>jealousy</type>
+			<note>
+				<p>topos of persona's novel described</p>
+			</note>
+		</topos>
+		
+		<topos>
+			<textUnitRangeReference>
+				<start>24</start>
+				<end>25</end>
+			</textUnitRangeReference>
+			<type>inspiration, literary or artistic</type>
+			<type>memory</type>
+		</topos>
+		
+		<topos>
+			<textUnitReference>25</textUnitReference>
+			<type>motherhood</type>
+			<type>attachment, family bonding or not</type>
+			<note>
+				<p>End Persona 2</p>
+			</note>
+		</topos>
+		
+		<topos>
+			<textUnitReference>26</textUnitReference>
+			<type>memory</type>
+			<type>inspiration, literary or artistic</type>
+			<type>family, class or status</type>
+			<type>family, occupation of parents or ancestors</type>
+			<note>
+				<p>Begin Persona 3</p>
+			</note>
+		</topos>
+		
+		<topos>
+			<textUnitReference>27</textUnitReference>
+			<type>influence on girls</type>
+			<type>genius</type>
+			<type>freedom</type>
+		</topos>
+		
+		<topos>
+			<textUnitReference>28</textUnitReference>
+			<type>attachment, family bonding or not</type>
+			<type>calling or vocation</type>
+		</topos>
+		
+		<topos>
+			<textUnitReference>30</textUnitReference>
+			<type>attachment, family bonding or not</type>
+			<type>calling or vocation</type>
+		</topos>
+		
+		<topos>
+			<textUnitRangeReference>
+				<start>32</start>
+				<end>37</end>
+			</textUnitRangeReference>
+			<type>inspiration, literary or artistic</type>
+			<type>talent in practiced activity</type>
+		</topos>
+		
+		<topos>
+			<textUnitReference>33</textUnitReference>
+			<type>Empire</type>
+		</topos>
+		
+		<topos>
+			<textUnitRangeReference>
+				<start>34</start>
+				<end>35</end>
+			</textUnitRangeReference>
+			<type>fame in lifetime</type>
+		</topos>
+		
+		<topos>
+			<textUnitReference>34</textUnitReference>
+			<type>association with great man or men</type>
+			<type>attachment, family bonding or not</type>
+			<type>romance</type>
+			<type>vanity in appearance, dress</type>
+			<type>debt</type>
+			<type>defiance of family</type>
+			<type>prudery, Puritanism</type>
+			<type>abandonment</type>
+			<type>regret</type>
+			<note>
+				<p>topos of persona's novel described</p>
+			</note>
+		</topos>
+		
+		<topos>
+			<textUnitReference>37</textUnitReference>
+			<type>class as persona's encounter with others</type>
+			<type>test or trial, physical</type>
+			<note>
+				<p>topos of persona's novel described</p>
+			</note>
+		</topos>
+		
+		<topos>
+			<textUnitReference>37</textUnitReference>
+			<type>faith</type>
+			<type>taste</type>
+		</topos>
+		
+		<topos>
+			<textUnitReference>38</textUnitReference>
+			<type>dying or deathbed</type>
+		</topos>
+		
+		<!-- Begin Discourse -->
+		<discourse>
+			<textUnitReference>1</textUnitReference>
+			<type>summary, more, much or all life in less prose</type>
+			<type>allusion to female, persona's contemporary</type>
+			<type>analogy to other woman, unnamed, identity implied</type>
+			<type>comparison of environments</type>
+			<type>list or parataxis</type>
+		</discourse>
+		
+		<discourse>
+			<textUnitReference>2</textUnitReference>
+			<type>foreign phrase</type>
+			<type>example, explicit illustration of claim</type>
+			<type>historiography, narration of historical events</type>
+			<type>time measured as persona's age</type>
+			<type>description of a kind of people or society (not individual)</type>
+			<type>description of agent or identified set of agents</type>
+			<type>idiom or cliche</type>
+			<note>
+				<p>Begin Persona 1</p>
+			</note>
+		</discourse>
+		
+		<discourse>
+			<textUnitReference>3</textUnitReference>
+			<type>allusion to previous biographer</type>
+		</discourse>
+		
+		<discourse>
+			<textUnitReference>4</textUnitReference>
+			<type>prospective or foreshadowing</type>
+			<type>foreign phrase</type>
+		</discourse>
+		
+		<discourse>
+			<textUnitReference>5</textUnitReference>
+			<type>prospective or foreshadowing</type>
+			<type>allusion to male, persona's contemporary</type>
+			<type>focalization, attributing motives</type>
+			<type>figureOrImage, heart</type>
+		</discourse>
+		
+		<discourse>
+			<textUnitRangeReference>
+				<start>5</start>
+				<end>10</end>
+			</textUnitRangeReference>
+			<type>literary analysis</type>
+		</discourse>
+		
+		<discourse>
+			<textUnitReference>6</textUnitReference>
+			<type>speech, reported not quoted</type>
+			<type>time measured as persona's age</type>
+			<type>figureOrImage, heart</type>
+			<type>focalization, attributing motives</type>
+			<type>evaluation</type>
+			<type>perspective or point of view</type>
+		</discourse>
+		
+		<discourse>
+			<textUnitRangeReference>
+				<start>7</start>
+				<end>8</end>
+			</textUnitRangeReference>
+			<type>present tense</type>
+		</discourse>
+		
+		<discourse>
+			<textUnitReference>8</textUnitReference>
+			<type>direct address, use of we</type>
+			<type>focalization, attributing feelings</type>
+			<type>figureOrImage, science or technology</type>
+		</discourse>
+		
+		<discourse>
+			<textUnitReference>9</textUnitReference>
+			<type>evaluation</type>
+			<type>figureOrImage, bird</type>
+		</discourse>
+		
+		<discourse>
+			<textUnitReference>10</textUnitReference>
+			<type>figureOrImage, ocean or sea</type>
+			<type>idiom or cliche</type>
+			<type>evaluation</type>
+			<type>example, explicit illustration of claim</type>
+		</discourse>
+		
+		<discourse>
+			<textUnitReference>11</textUnitReference>
+			<type>historiography, narration of historical events</type>
+			<type>narratives as simultaneous in real time</type>
+			<type>focalization, attributing thoughts</type>
+		</discourse>
+		
+		<discourse>
+			<textUnitReference>12</textUnitReference>
+			<type>foreign phrase</type>
+			<type>evaluation</type>
+			<type>narrator's positive orientation</type>
+		</discourse>
+		
+		<discourse>
+			<textUnitReference>13</textUnitReference>
+			<type>evaluation</type>
+			<type>narrator's negativity</type>
+			<type>allusion to historical woman</type>
+			<type>allusion to historical man</type>
+		</discourse>
+		
+		<discourse>
+			<textUnitReference>14</textUnitReference>
+			<type>retrospective</type>
+			<type>evaluation</type>
+			<type>figureOrImage, saint</type>
+			<note>
+				<p>End Persona 1</p>
+			</note>
+		</discourse>
+		
+		<discourse>
+			<textUnitReference>15</textUnitReference>
+			<type>evaluation</type>
+			<type>narratives as simultaneous in real time</type>
+			<type>description of environment</type>
+			<type>comparison of environments</type>
+			<type>figureOrImage, flower</type>
+			<type>metaphor, extended</type>
+			<type>quotation, poetry</type>
+			<type>periods or times compared</type>
+		</discourse>
+		
+		<discourse>
+			<textUnitRangeReference>
+				<start>15</start>
+				<end>16</end>
+			</textUnitRangeReference>
+			<type>literary analysis</type>
+		</discourse>
+		
+		<discourse>
+			<textUnitRangeReference>
+				<start>16</start>
+				<end>17</end>
+			</textUnitRangeReference>
+			<type>description of agent or identified set of agents</type>
+		</discourse>
+		
+		<discourse>
+			<textUnitRangeReference>
+				<start>17</start>
+				<end>19</end>
+			</textUnitRangeReference>
+			<type>childhood anecdote, character predicted</type>
+		</discourse>
+		
+		<discourse>
+			<textUnitReference>17</textUnitReference>
+			<type>humor</type>
+			<type>quotation, agent's speech, unique</type>
+			<type>description of environment</type>
+		</discourse>
+		
+		<discourse>
+			<textUnitReference>18</textUnitReference>
+			<type>historiography, narration of historical events</type>
+			<type>speech, reported not quoted</type>
+		</discourse>
+		
+		<discourse>
+			<textUnitReference>19</textUnitReference>
+			<type>versions of story compared, disputed</type>
+		</discourse>
+		
+		<discourse>
+			<textUnitReference>20</textUnitReference>
+			<type>quotation, agent's speech, unique</type>
+			<type>figureOrImage, flower</type>
+			<type>metaphor, extended</type>
+		</discourse>
+		
+		<discourse>
+			<textUnitReference>21</textUnitReference>
+			<type>periods or times compared</type>
+			<type>allusion to male, persona's contemporary</type>
+			<type>evidence of life missing</type>
+			<type>speculation, alternative outcomes, &quot;if&quot;</type>
+			<type>prospective or foreshadowing</type>
+		</discourse>
+		
+		<discourse>
+			<textUnitReference>22</textUnitReference>
+			<type>time measured as persona's age</type>
+			<type>focalization, attributing motives</type>
+		</discourse>
+		
+		<discourse>
+			<textUnitRangeReference>
+				<start>23</start>
+				<end>24</end>
+			</textUnitRangeReference>
+			<type>literary analysis</type>
+			<type>evaluation</type>
+		</discourse>
+		
+		<discourse>
+			<textUnitReference>23</textUnitReference>
+			<type>direct address, use of we</type>
+			<type>humor</type>
+		</discourse>
+		
+		<discourse>
+			<textUnitReference>24</textUnitReference>
+			<type>quotation, unidentified</type>
+			<type>emphasis in typeface, punctuation</type>
+			<type>idiom or cliche</type>
+			<type>irony</type>
+		</discourse>
+		
+		<discourse>
+			<textUnitReference>25</textUnitReference>
+			<type>evaluation</type>
+			<type>analepsis, shift of scene to previous time</type>
+			<type>historiography, narration of historical events</type>
+			<type>description of agent or identified set of agents</type>
+			<type>list or parataxis</type>
+			<type>euphemism</type>
+			<note>
+				<p>End Persona 2</p>
+			</note>
+		</discourse>
+		
+		<discourse>
+			<textUnitReference>26</textUnitReference>
+			<type>focalization, attributing thoughts</type>
+			<type>allusion to female, persona's contemporary</type>
+			<type>analogy to other woman, unnamed, identity implied</type>
+			<type>allusion to historical woman</type>
+			<type>historiography, narration of historical events</type>
+			<type>time measured as persona's age</type>
+			<type>figureOrImage, sound or noise</type>
+			<note>
+				<p>Begin Persona 4</p>
+			</note>
+		</discourse>
+		
+		<discourse>
+			<textUnitReference>27</textUnitReference>
+			<type>description of agent or identified set of agents</type>
+			<type>evaluation</type>
+			<type>focalization, attributing perception</type>
+		</discourse>
+		
+		<discourse>
+			<textUnitReference>28</textUnitReference>
+			<type>idiom or cliche</type>
+			<type>time measured as persona's age</type>
+			<type>evaluation</type>
+			<type>speech, reported not quoted</type>
+			<type>description of agent or identified set of agents</type>
+		</discourse>
+		
+		<discourse>
+			<textUnitReference>29</textUnitReference>
+			<type>figureOrImage, synecdoche or metonymy</type>
+			<type>quotation, persona speech, unique</type>
+		</discourse>
+		
+		<discourse>
+			<textUnitReference>30</textUnitReference>
+			<type>quotation, agent's speech, unique</type>
+		</discourse>
+		
+		<discourse>
+			<textUnitReference>31</textUnitReference>
+			<type>quotation, persona writings about self</type>
+			<type>figureOrImage, plant</type>
+		</discourse>
+		
+		<discourse>
+			<textUnitReference>32</textUnitReference>
+			<type>evaluation</type>
+			<type>personification, concept or value</type>
+		</discourse>
+		
+		<discourse>
+			<textUnitReference>33</textUnitReference>
+			<type>evidence of life missing</type>
+			<type>allusion to previous biographer</type>
+			<type>narrator's research noted</type>
+			<type>allusion to male, persona's contemporary</type>
+		</discourse>
+		
+		<discourse>
+			<textUnitRangeReference>
+				<start>34</start>
+				<end>37</end>
+			</textUnitRangeReference>
+			<type>literary analysis</type>
+			<type>evaluation</type>
+		</discourse>
+		
+		<discourse>
+			<textUnitReference>34</textUnitReference>
+			<type>idiom or cliche</type>
+			<type>quotation, persona writings fiction</type>
+			<type>figureOrImage, other</type>
+			<type>present tense</type>
+		</discourse>
+		
+		<discourse>
+			<textUnitReference>35</textUnitReference>
+			<type>personification, inanimate object</type>
+		</discourse>
+		
+		<discourse>
+			<textUnitReference>36</textUnitReference>
+			<type>quotation, persona writings about self</type>
+			<type>periods or times compared</type>
+		</discourse>
+		
+		<discourse>
+			<textUnitReference>37</textUnitReference>
+			<type>evaluation</type>
+		</discourse>
+		
+		<discourse>
+			<textUnitReference>38</textUnitReference>
+			<type>evaluation</type>
+		</discourse>
+		
+	</analysis>
+</BESS>
+

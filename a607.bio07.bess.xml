@@ -1,0 +1,798 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../../../xml/schema/BESS.rng" type="xml"?>
+
+<BESS>
+	<textAnalyzed>
+		<collectionID>a607</collectionID>
+		<biographyID>07</biographyID>
+		<URI>a607.bio07.bess.xml</URI>
+		<author>Mrs. McQuoid</author>
+		<title>Julia Kavanagh, Amelia Blandford Edwards by Mrs. Macquoid</title>
+		<personaName>Julia Kavanagh</personaName>
+		<personaName>Amelia Blandford Edwards</personaName>
+	</textAnalyzed>
+	
+	<analysis>
+		<personaType>Writer</personaType>
+		
+		<!-- Begin Stage of Life -->
+		
+		<stageOfLife>
+			<textUnitRangeReference>
+				<start>4</start>
+				<end>5</end>
+			</textUnitRangeReference>
+			<name>beginning</name>
+		</stageOfLife>
+		
+		<stageOfLife>
+			<textUnitRangeReference>
+				<start>5</start>
+				<end>6</end>
+			</textUnitRangeReference>
+			<name>middle</name>
+		</stageOfLife>
+		
+		<stageOfLife>
+			<textUnitRangeReference>
+				<start>5</start>
+				<end>6</end>
+			</textUnitRangeReference>
+			<name>culmination</name>
+		</stageOfLife>
+		
+		<stageOfLife>
+			<textUnitReference>7</textUnitReference>
+			<name>beginning</name>
+		</stageOfLife>
+		
+		<stageOfLife>
+			<textUnitReference>30</textUnitReference>
+			<name>end</name>
+		</stageOfLife>
+		
+		<stageOfLife>
+			<textUnitReference>30</textUnitReference>
+			<name>after</name>
+		</stageOfLife>
+		
+		<stageOfLife>
+			<textUnitReference>93</textUnitReference>
+			<name>beginning</name>
+		</stageOfLife>
+		
+		<stageOfLife>
+			<textUnitRangeReference>
+				<start>93</start>
+				<end>96</end>
+			</textUnitRangeReference>
+			<name>middle</name>
+		</stageOfLife>
+		
+		
+		<!-- Begin Events -->
+		<event>
+			<textUnitReference>4</textUnitReference>
+			<type>birth</type>
+			<dateSingle standardDate="1824">1824</dateSingle>
+		</event>
+		
+		<event>
+			<textUnitReference>4</textUnitReference>
+			<type>death, persona's</type>
+		</event>
+		
+		<event>
+			<textUnitReference>5</textUnitReference>
+			<type>assignment or new responsibility</type>
+			<type>writing journalism</type>
+			<type>publication</type>
+			<type>writing for children</type>
+			<type>writing novel</type>
+		</event>
+		
+		<event>
+			<textUnitReference>5</textUnitReference>
+			<type>writing biography</type>
+			<type>publication</type>
+			<type>recognition, spoken praise</type>
+		</event>
+		
+		<event>
+			<textUnitReference>6</textUnitReference>
+			<type>publication</type>
+			<dateSingle standardDate="1848">1848</dateSingle>
+		</event>
+		
+		<event>
+			<textUnitReference>6</textUnitReference>
+			<type>departure</type>
+			<type>project, new organization</type>
+			<agentType>character, fictional or imaginary</agentType>
+			<locationStructure>orphanage</locationStructure>
+		</event>
+		
+		<event>
+			<textUnitReference>7</textUnitReference>
+			<type>birth</type>
+			<type>childhood or upbringing</type>
+			<locationSetting>Ireland</locationSetting>
+		</event>
+		
+		<event>
+			<textUnitReference>7</textUnitReference>
+			<type>childhood or upbringing</type>
+			<locationSetting>France</locationSetting>
+		</event>
+		
+		<event>
+			<textUnitReference>14</textUnitReference>
+			<type>building construction</type>
+			<type>argument, person-to-person</type>
+		</event>
+		
+		<event>
+			<textUnitReference>15</textUnitReference>
+			<type>cooking</type>
+			<type>fire</type>
+			<agentType>female servant, named</agentType>
+		</event>
+		
+		<event>
+			<textUnitRangeReference>
+				<start>17</start>
+				<end>22</end>
+			</textUnitRangeReference>
+			<type>conversation</type>
+		</event>
+		
+		<event>
+			<textUnitReference>21</textUnitReference>
+			<type>music, singing</type>
+		</event>
+		
+		<event>
+			<textUnitReference>23</textUnitReference>
+			<type>threat</type>
+		</event>
+		
+		<event>
+			<textUnitReference>24</textUnitReference>
+			<type>food, feeding or eating</type>
+		</event>
+		
+		<event>
+			<textUnitReference>25</textUnitReference>
+			<type>sleeping</type>
+			<type>waking</type>
+		</event>
+		
+		<event>
+			<textUnitReference>26</textUnitReference>
+			<type>violence between two or more others</type>
+		</event>
+		
+		<event>
+			<textUnitReference>27</textUnitReference>
+			<type>rescue</type>
+			<type>working as paid occupation</type>
+		</event>
+		
+		<event>
+			<textUnitReference>30</textUnitReference>
+			<type>death, persona's</type>
+			<locationSetting>France</locationSetting>
+			<locationSetting>city</locationSetting>
+		</event>
+		
+		<event>
+			<textUnitReference>34</textUnitReference>
+			<type>move to new city, town, or village</type>
+			<locationStructure>carriage</locationStructure>
+			<agentType>character, fictional or imaginary</agentType>
+		</event>
+		
+		<event>
+			<textUnitRangeReference>
+				<start>37</start>
+				<end>40</end>
+			</textUnitRangeReference>
+			<type>conversation</type>
+		</event>
+		
+		<event>
+			<textUnitReference>48</textUnitReference>
+			<type>crying</type>
+			<agentType>character, fictional or imaginary</agentType>
+		</event>
+		
+		<event>
+			<textUnitRangeReference>
+				<start>49</start>
+				<end>51</end>
+			</textUnitRangeReference>
+			<type>conversation</type>
+		</event>
+		
+		<event>
+			<textUnitRangeReference>
+				<start>53</start>
+				<end>66</end>
+			</textUnitRangeReference>
+			<type>conversation</type>
+		</event>
+		
+		<event>
+			<textUnitReference>62</textUnitReference>
+			<type>laughing</type>
+		</event>
+		
+		<event>
+			<textUnitReference>64</textUnitReference>
+			<type>kissing</type>
+		</event>
+		
+		<event>
+			<textUnitReference>65</textUnitReference>
+			<type>food, feeding or eating</type>
+		</event>
+		
+		<event>
+			<textUnitRangeReference>
+				<start>66</start>
+				<end>91</end>
+			</textUnitRangeReference>
+			<type>conversation</type>
+		</event>
+		
+		<event>
+			<textUnitReference>77</textUnitReference>
+			<type>threat</type>
+		</event>
+		
+		<event>
+			<textUnitReference>86</textUnitReference>
+			<type>crying</type>
+		</event>
+		
+		<event>
+			<textUnitReference>87</textUnitReference>
+			<type>kissing</type>
+		</event>
+		
+		<event>
+			<textUnitReference>93</textUnitReference>
+			<type>publication</type>
+		</event>
+		
+		<event>
+			<textUnitReference>93</textUnitReference>
+			<type>birth</type>
+			<dateSingle standardDate="1831">1831</dateSingle>
+		</event>
+		
+		<event>
+			<textUnitReference>93</textUnitReference>
+			<type>writing other</type>
+		</event>
+		
+		<event>
+			<textUnitReference>94</textUnitReference>
+			<type>project, new organization</type>
+			<dateSingle standardDate="1883">1883</dateSingle>
+		</event>
+		
+		<event>
+			<textUnitReference>94</textUnitReference>
+			<type>writing travel</type>
+			<type>drawing, professional</type>
+		</event>
+		
+		<event>
+			<textUnitReference>94</textUnitReference>
+			<type>travel, international</type>
+			<dateSingle standardDate="1872">1872</dateSingle>
+			<locationSetting>Africa</locationSetting>
+			<locationSetting>Middle East</locationSetting>
+		</event>
+		
+		<event>
+			<textUnitReference>95</textUnitReference>
+			<type>research, scholarly inquiry</type>
+			<type>travel for calling or work</type>
+		</event>
+		
+		<event>
+			<textUnitReference>95</textUnitReference>
+			<type>political movement, women or gender</type>
+		</event>
+		
+		<event>
+			<textUnitReference>96</textUnitReference>
+			<type>writing novel</type>
+		</event>
+		
+		<!-- Begin Persona Description -->
+		<personaDescription>
+			<textUnitReference>1</textUnitReference>
+			<type>artistic</type>
+		</personaDescription>
+		
+		<personaDescription>
+			<textUnitReference>1</textUnitReference>
+			<type>honest</type>
+			<type>observant</type>
+		</personaDescription>
+		
+		<personaDescription>
+			<textUnitReference>5</textUnitReference>
+			<type>young</type>
+		</personaDescription>
+		
+		<personaDescription>
+			<textUnitReference>11</textUnitReference>
+			<type>genius or talented</type>
+		</personaDescription>
+		
+		<personaDescription>
+			<textUnitReference>30</textUnitReference>
+			<type>kind</type>
+		</personaDescription>
+		
+		<personaDescription>
+			<textUnitReference>31</textUnitReference>
+			<type>genius or talented</type>
+		</personaDescription>
+		
+		<personaDescription>
+			<textUnitReference>93</textUnitReference>
+			<type>skilled, in occupation</type>
+		</personaDescription>
+		
+		<personaDescription>
+			<textUnitReference>96</textUnitReference>
+			<type>intelligent</type>
+			<type>studious</type>
+			<type>genius or talented</type>
+		</personaDescription>
+		
+		
+		<!-- Begin Topos -->
+		<topos>
+			<textUnitReference>2</textUnitReference>
+			<type>national character of other countries visited, adopted</type>
+			<type>exoticism</type>
+			<type>family, class or status</type>
+		</topos>
+		
+		<topos>
+			<textUnitReference>5</textUnitReference>
+			<type>fame in lifetime</type>
+		</topos>
+		
+		<topos>
+			<textUnitReference>7</textUnitReference>
+			<type>national character, persona's birth country</type>
+			<type>national character of other countries visited, adopted</type>
+		</topos>
+		
+		<topos>
+			<textUnitReference>8</textUnitReference>
+			<type>influence, emotional effect on peers</type>
+		</topos>
+		
+		<topos>
+			<textUnitReference>9</textUnitReference>
+			<type>gender restricts activity</type>
+		</topos>
+		
+		<topos>
+			<textUnitReference>10</textUnitReference>
+			<type>family, ancestry</type>
+		</topos>
+		
+		<topos>
+			<textUnitReference>11</textUnitReference>
+			<type>national character of other countries visited, adopted</type>
+		</topos>
+		
+		<topos>
+			<textUnitReference>14</textUnitReference>
+			<type>wealth</type>
+			<type>poverty</type>
+		</topos>
+		
+		<topos>
+			<textUnitReference>15</textUnitReference>
+			<type>weather, good</type>
+		</topos>
+		
+		<topos>
+			<textUnitReference>16</textUnitReference>
+			<type>national character of other countries visited, adopted</type>
+		</topos>
+		
+		<topos>
+			<textUnitReference>24</textUnitReference>
+			<type>food or sustenance</type>
+		</topos>
+		
+		<topos>
+			<textUnitReference>26</textUnitReference>
+			<type>clothing, uniform</type>
+			<type>gaze, the</type>
+		</topos>
+		
+		<topos>
+			<textUnitReference>28</textUnitReference>
+			<type>national character of other countries visited, adopted</type>
+		</topos>
+		
+		<topos>
+			<textUnitRangeReference>
+				<start>30</start>
+				<end>31</end>
+			</textUnitRangeReference>
+			<type>exoticism</type>
+		</topos>
+		
+		<topos>
+			<textUnitReference>32</textUnitReference>
+			<type>association with great man or men</type>
+		</topos>
+		
+		<topos>
+			<textUnitReference>42</textUnitReference>
+			<type>decadence</type>
+			<type>physical contact with woman</type>
+		</topos>
+		
+		<topos>
+			<textUnitReference>49</textUnitReference>
+			<type>hostility</type>
+		</topos>
+		
+		<topos>
+			<textUnitReference>51</textUnitReference>
+			<type>food or sustenance</type>
+		</topos>
+		
+		<topos>
+			<textUnitReference>52</textUnitReference>
+			<type>clothing, uniform</type>
+		</topos>
+		
+		<topos>
+			<textUnitReference>62</textUnitReference>
+			<type>hostility</type>
+		</topos>
+		
+		<topos>
+			<textUnitReference>65</textUnitReference>
+			<type>hostility</type>
+		</topos>
+		
+		<topos>
+			<textUnitReference>75</textUnitReference>
+			<type>wealth</type>
+		</topos>
+		
+		<topos>
+			<textUnitReference>92</textUnitReference>
+			<type>elocution, correct or proper language</type>
+		</topos>
+		
+		<topos>
+			<textUnitReference>94</textUnitReference>
+			<type>exoticism</type>
+		</topos>
+		
+		<topos>
+			<textUnitReference>95</textUnitReference>
+			<type>civil rights</type>
+		</topos>
+		
+		<!-- Begin Discourse -->
+		<discourse>
+			<textUnitReference>1</textUnitReference>
+			<type>focalization, attributing thoughts</type>
+			<type>speculation, possible motives or causes</type>
+			<type>figureOrImage, science or technology</type>
+			<type>literary analysis</type>
+			<type>evaluation</type>
+		</discourse>
+		
+		<discourse>
+			<textUnitReference>2</textUnitReference>
+			<type>foreign language passage</type>
+			<type>precepts</type>
+		</discourse>
+		
+		
+		<discourse>
+			<textUnitReference>4</textUnitReference>
+			<type>retrospective</type>
+			<type>summary, more, much or all life in less prose</type>
+			<type>direct address, use of I or one</type>
+			<type>time measured as persona's age</type>
+			<type>periods or times compared</type>
+		</discourse>
+		
+		<discourse>
+			<textUnitReference>5</textUnitReference>
+			<type>summary, more, much or all life in less prose</type>
+			<type>time measured as persona's age</type>
+		</discourse>
+		
+		<discourse>
+			<textUnitReference>7</textUnitReference>
+			<type>description of environment</type>
+			<type>direct address, use of I or one</type>
+			<type>evaluation</type>
+		</discourse>
+		
+		<discourse>
+			<textUnitReference>8</textUnitReference>
+			<type>description of agent or identified set of agents</type>
+			<type>direct address, use of I or one</type>
+		</discourse>
+		
+		<discourse>
+			<textUnitReference>9</textUnitReference>
+			<type>figureOrImage, plant</type>
+			<type>idiom or cliche</type>
+			<type>direct address, use of I or one</type>
+			<type>evaluation</type>
+			<type>figureOrImage, light</type>
+		</discourse>
+		
+		<discourse>
+			<textUnitReference>10</textUnitReference>
+			<type>description of environment</type>
+			<type>direct address, use of I or one</type>
+			<type>direct address, use of we</type>
+			<type>description of agent or identified set of agents</type>
+		</discourse>
+		
+		<discourse>
+			<textUnitReference>11</textUnitReference>
+			<type>evaluation</type>
+			<type>analogy to man, named</type>
+			<type>focalization, attributing feelings</type>
+		</discourse>
+		
+		<discourse>
+			<textUnitReference>12</textUnitReference>
+			<type>periods or times compared</type>
+			<type>present tense</type>
+			<type>speculation, alternative outcomes, &quot;if&quot;</type>
+			<type>analogy to man, named</type>
+			<type>metaphor, extended</type>
+			<type>figureOrImage, light</type>
+		</discourse>
+		
+		<discourse>
+			<textUnitReference>13</textUnitReference>
+			<type>description of agent or identified set of agents</type>
+		</discourse>
+		
+		<discourse>
+			<textUnitRangeReference>
+				<start>14</start>
+				<end>15</end>
+			</textUnitRangeReference>
+			<type>quotation, persona writings fiction</type>
+		</discourse>
+		
+		<discourse>
+			<textUnitReference>14</textUnitReference>
+			<type>description of environment</type>
+			<type>foreign phrase</type>
+		</discourse>
+		
+		<discourse>
+			<textUnitReference>15</textUnitReference>
+			<type>focalization, attributing motives</type>
+			<type>personification, Nature</type>
+			<type>foreign phrase</type>
+			<type>description of environment</type>
+			<type>figureOrImage, dark</type>
+		</discourse>
+		
+		<discourse>
+			<textUnitRangeReference>
+				<start>17</start>
+				<end>26</end>
+			</textUnitRangeReference>
+			<type>quotation, persona writings fiction</type>
+		</discourse>
+		
+		<discourse>
+			<textUnitReference>21</textUnitReference>
+			<type>figureOrImage, flower</type>
+		</discourse>
+		
+		<discourse>
+			<textUnitReference>24</textUnitReference>
+			<type>idiom or cliche</type>
+		</discourse>
+		
+		<discourse>
+			<textUnitReference>25</textUnitReference>
+			<type>personification, Nature</type>
+			<type>speculation, alternative outcomes, &quot;if&quot;</type>
+		</discourse>
+		
+		<discourse>
+			<textUnitReference>26</textUnitReference>
+			<type>figureOrImage, animal</type>
+			<type>narrating, dramatized</type>
+			<type>analogy to mythic character, male</type>
+			<type>allusion, biblical</type>
+			<type>figureOrImage, plant</type>
+			<type>humor</type>
+		</discourse>
+		
+		<discourse>
+			<textUnitReference>28</textUnitReference>
+			<type>evaluation</type>
+			<type>literary analysis</type>
+		</discourse>
+		
+		<discourse>
+			<textUnitReference>29</textUnitReference>
+			<type>comparison of environments</type>
+		</discourse>
+		
+		<discourse>
+			<textUnitReference>30</textUnitReference>
+			<type>speculation, alternative outcomes, &quot;if&quot;</type>
+			<type>allusion to previous biographer</type>
+			<type>direct address, use of I or one</type>
+		</discourse>
+		
+		<discourse>
+			<textUnitReference>31</textUnitReference>
+			<type>evaluation</type>
+			<type>direct address, use of we</type>
+			<type>direct address, use of I or one</type>
+		</discourse>
+		
+		<discourse>
+			<textUnitReference>32</textUnitReference>
+			<type>evaluation</type>
+			<type>idiom or cliche</type>
+			<type>direct address, use of I or one</type>
+			<type>analogy to man, named</type>
+			<type>literary analysis</type>
+			<type>allusion literary, reference</type>
+		</discourse>
+		
+		<discourse>
+			<textUnitReference>33</textUnitReference>
+			<type>description of environment</type>
+			<type>direct address, use of I or one</type>
+		</discourse>
+		
+		<discourse>
+			<textUnitRangeReference>
+				<start>35</start>
+				<end>91</end>
+			</textUnitRangeReference>
+			<type>quotation, persona writings fiction</type>
+		</discourse>
+		
+		<discourse>
+			<textUnitReference>41</textUnitReference>
+			<type>figureOrImage, bird</type>
+		</discourse>
+		
+		<discourse>
+			<textUnitReference>42</textUnitReference>
+			<type>figureOrImage, water</type>
+		</discourse>
+		
+		<discourse>
+			<textUnitReference>47</textUnitReference>
+			<type>analogy to mythic character, male</type>
+			<type>rhetorical question</type>
+		</discourse>
+		
+		<discourse>
+			<textUnitReference>48</textUnitReference>
+			<type>rhetorical question</type>
+			<type>figureOrImage, flower</type>
+		</discourse>
+		
+		<discourse>
+			<textUnitReference>52</textUnitReference>
+			<type>figureOrImage, animal</type>
+			<type>focalization, attributing motives</type>
+		</discourse>
+		
+		<discourse>
+			<textUnitReference>55</textUnitReference>
+			<type>focalization, attributing motives</type>
+		</discourse>
+		
+		<discourse>
+			<textUnitReference>57</textUnitReference>
+			<type>rhetorical question</type>
+		</discourse>
+		
+		<discourse>
+			<textUnitReference>61</textUnitReference>
+			<type>litotes, understatement</type>
+		</discourse>
+		
+		<discourse>
+			<textUnitReference>64</textUnitReference>
+			<type>humor</type>
+			<type>hyperbole, overstatement</type>
+			<type>figureOrImage, animal</type>
+			<type>euphemism</type>
+		</discourse>
+		
+		<discourse>
+			<textUnitReference>75</textUnitReference>
+			<type>rhetorical question</type>
+		</discourse>
+		
+		<discourse>
+			<textUnitReference>77</textUnitReference>
+			<type>rhetorical question</type>
+		</discourse>
+		
+		<discourse>
+			<textUnitReference>78</textUnitReference>
+			<type>personification, concept or value</type>
+		</discourse>
+		
+		<discourse>
+			<textUnitReference>80</textUnitReference>
+			<type>figureOrImage, ghost or spirit</type>
+		</discourse>
+		
+		<discourse>
+			<textUnitReference>82</textUnitReference>
+			<type>retrospective</type>
+		</discourse>
+		
+		<discourse>
+			<textUnitReference>88</textUnitReference>
+			<type>speculation, possible motives or causes</type>
+			<type>humor</type>
+		</discourse>
+		
+		<discourse>
+			<textUnitReference>90</textUnitReference>
+			<type>focalization, attributing feelings</type>
+		</discourse>
+		
+		<discourse>
+			<textUnitReference>92</textUnitReference>
+			<type>evaluation</type>
+			<type>direct address, use of we</type>
+		</discourse>
+		
+		<discourse>
+			<textUnitReference>93</textUnitReference>
+			<type>speculation, possible motives or causes</type>
+			<type>description of environment</type>
+			<type>periods or times compared</type>
+			<type>evaluation</type>
+		</discourse>
+		
+		<discourse>
+			<textUnitReference>95</textUnitReference>
+			<type>direct address, use of I or one</type>
+			<type>periods or times compared</type>
+		</discourse>
+		
+		<discourse>
+			<textUnitReference>96</textUnitReference>
+			<type>direct address, use of we</type>
+		</discourse>
+	</analysis>
+</BESS>
+

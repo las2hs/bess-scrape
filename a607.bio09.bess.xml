@@ -1,0 +1,1563 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../../../xml/schema/BESS.rng" type="xml"?>
+
+<BESS>
+	<textAnalyzed>
+		<collectionID>a607</collectionID>
+		<biographyID>09</biographyID>
+		<URI>a143.bio02.bess.xml</URI>
+		<author>Mrs. Marshall</author>
+		<title>"A.L.O.E." (Miss Tucker), Mrs. Ewing</title>
+		<personaName>A.L.O.E, Mrs. Ewing</personaName>
+	</textAnalyzed>
+	
+	<analysis>
+		<personaType>Writer</personaType>
+		
+		<!-- Begin Stage of Life -->
+		<stageOfLife>
+			<textUnitRangeReference>
+				<start>1</start>
+				<end>2</end>
+			</textUnitRangeReference>
+			<name>after</name>
+			<note>
+				<p>Begin Persona 1</p>
+			</note>
+		</stageOfLife>
+		
+		<stageOfLife>
+			<textUnitReference>4</textUnitReference>
+			<name>beginning</name>
+		</stageOfLife>
+		
+		<stageOfLife>
+			<textUnitRangeReference>
+				<start>4</start>
+				<end>9</end>
+			</textUnitRangeReference>
+			<name>middle</name>
+		</stageOfLife>
+		
+		<stageOfLife>
+			<textUnitRangeReference>
+				<start>10</start>
+				<end>11</end>
+			</textUnitRangeReference>
+			<name>culmination</name>
+			<note>
+				<p>End Persona 1</p>
+			</note>
+		</stageOfLife>
+		
+		<stageOfLife>
+			<textUnitRangeReference>
+				<start>12</start>
+				<end>13</end>
+			</textUnitRangeReference>
+			<name>after</name>
+			<note>
+				<p>Begin Persona 2</p>
+			</note>
+		</stageOfLife>
+		
+		<stageOfLife>
+			<textUnitRangeReference>
+				<start>14</start>
+				<end>18</end>
+			</textUnitRangeReference>
+			<name>middle</name>
+		</stageOfLife>
+		
+		<stageOfLife>
+			<textUnitRangeReference>
+				<start>19</start>
+				<end>26</end>
+			</textUnitRangeReference>
+			<name>beginning</name>
+		</stageOfLife>
+		
+		<stageOfLife>
+			<textUnitRangeReference>
+				<start>27</start>
+				<end>54</end>
+			</textUnitRangeReference>
+			<name>middle</name>
+		</stageOfLife>
+		
+		<stageOfLife>
+			<textUnitReference>55</textUnitReference>
+			<name>end</name>
+		</stageOfLife>
+		
+		<stageOfLife>
+			<textUnitRangeReference>
+				<start>56</start>
+				<end>59</end>
+			</textUnitRangeReference>
+			<name>after</name>
+			<note>
+				<p>End Persona 2</p>
+			</note>
+		</stageOfLife>
+		
+		<!-- Begin Events -->
+		<event>
+			<textUnitReference>1</textUnitReference>
+			<type>reading</type>
+			<agentType>children, unrelated, unspecified</agentType>
+			<note>
+				<p>Begin Persona 1</p>
+			</note>
+		</event>
+		
+		<event>
+			<textUnitReference>2</textUnitReference>
+			<type>battle</type>
+			<agentType>supernatural or ghost</agentType>
+			<note>
+				<p>Events of persona's book described</p>
+			</note>
+		</event>
+		
+		<event>
+			<textUnitRangeReference>
+				<start>3</start>
+				<end>5</end>
+			</textUnitRangeReference>
+			<type>writing for children</type>
+		</event>
+		
+		<event>
+			<textUnitReference>4</textUnitReference>
+			<type>writing drama</type>
+			<type>childhood or upbringing</type>
+		</event>
+		
+		<event>
+			<textUnitReference>5</textUnitReference>
+			<type>publication</type>
+			<agentType>manager or agent in profession</agentType>
+		</event>
+		
+		<event>
+			<textUnitReference>6</textUnitReference>
+			<type>argument, person-to-person</type>
+			<agentType>animal, domestic or pet, named</agentType>
+			<note>
+				<p>Events of persona's book described</p>
+			</note>
+		</event>
+		
+		<event>
+			<textUnitReference>6</textUnitReference>
+			<type>move to new house</type>
+			<agentType>child, unrelated, unspecified</agentType>
+			<locationStructure>barn or stable</locationStructure>
+			<note>
+				<p>Events of persona's book described</p>
+			</note>
+		</event>
+		
+		<event>
+			<textUnitReference>7</textUnitReference>
+			<type>conversation</type>
+			<type>charity, organized</type>
+			<type>education, attending day school</type>
+			<agentType>child or children, related</agentType>
+			<agentType>father</agentType>
+			<locationStructure>school, reformatory</locationStructure>
+			<note>
+				<p>Events of persona's book described</p>
+			</note>
+		</event>
+		
+		<event>
+			<textUnitReference>7</textUnitReference>
+			<type>travel, international</type>
+			<agentType>animal, domestic or pet, unnamed</agentType>
+			<locationSetting>Russia</locationSetting>
+			<note>
+				<p>Events of persona's book described</p>
+			</note>
+		</event>
+		
+		<event>
+			<textUnitReference>8</textUnitReference>
+			<type>work accomplished, writing</type>
+			<type>writing drama</type>
+		</event>
+		
+		<event>
+			<textUnitReference>9</textUnitReference>
+			<type>writing for children</type>
+			<type>work accomplished, writing</type>
+		</event>
+		
+		<event>
+			<textUnitReference>10</textUnitReference>
+			<type>travel for calling or work</type>
+			<type>working as volunteer</type>
+			<locationStructure>school, other</locationStructure>
+		</event>
+		
+		<event>
+			<textUnitRangeReference>
+				<start>10</start>
+				<end>11</end>
+			</textUnitRangeReference>
+			<type>writing for children</type>
+			<type>mission, religious, foreign</type>4
+			<locationSetting>India</locationSetting>
+			<note>
+				<p>End Persona1</p>
+			</note>
+		</event>
+		
+		<event>
+			<textUnitRangeReference>
+				<start>12</start>
+				<end>15</end>
+			</textUnitRangeReference>
+			<type>work accomplished, writing</type>
+			<type>writing for children</type>
+			<note>
+				<p>Begin Persona2</p>
+			</note>
+		</event>
+		
+		<event>
+			<textUnitReference>14</textUnitReference>
+			<type>publication</type>
+			<dateSingle standardDate="1861">1861</dateSingle>
+			<dateSingle standardDate="1862">1862</dateSingle>
+			<agentType>manager or agent in profession</agentType>
+			<agentType>mother</agentType>
+		</event>
+		
+		<event>
+			<textUnitReference>14</textUnitReference>
+			<type>childcare</type>
+			<type>story_telling</type>
+			<agentType>female servant, named</agentType>
+			<note>
+				<p>events of persona's fiction described</p>
+			</note>
+		</event>
+		
+		<event>
+			<textUnitRangeReference>
+				<start>15</start>
+				<end>16</end>
+			</textUnitRangeReference>
+			<type>story_telling</type>
+			<type>sleeping</type>
+			<agentType>grandmother</agentType>
+			<agentType>grandchild, grandchildren</agentType>
+			<note>
+				<p>events of persona's fiction described</p>
+			</note>
+		</event>
+		
+		<event>
+			<textUnitReference>17</textUnitReference>
+			<type>marriage, voluntary</type>
+			<agentType>husband</agentType>
+		</event>
+		
+		<event>
+			<textUnitReference>17</textUnitReference>
+			<type>visiting by agents</type>
+			<agentType>girl, unrelated, named</agentType>
+			<agentType>father</agentType>
+			<note>
+				<p>events of persona's description described</p>
+			</note>
+		</event>
+		
+		<event>
+			<textUnitReference>19</textUnitReference>
+			<type>writing autobiography</type>
+		</event>
+		
+		<event>
+			<textUnitReference>20</textUnitReference>
+			<type>food, feeding or eating</type>
+			<type>hosting by agents</type>
+			<type>gift giving</type>
+			<agentType>siblings</agentType>
+			<note>
+				<p>events of persona's fiction described</p>
+			</note>
+		</event>
+		
+		<event>
+			<textUnitReference>20</textUnitReference>
+			<type>renaming of others, nicknames</type>
+			<type>insulting</type>
+			<type>begging</type>
+			<agentType>brother</agentType>
+			<note>
+				<p>events of persona's fiction described</p>
+			</note>
+		</event>
+		
+		<event>
+			<textUnitReference>21</textUnitReference>
+			<type>crying</type>
+			<agentType>sister</agentType>
+			<note>
+				<p>events of persona's fiction described</p>
+			</note>
+		</event>
+		
+		<event>
+			<textUnitReference>23</textUnitReference>
+			<type>operation, medical</type>
+			<type>money making</type>
+			<type>Christmas</type>
+			<type>gift giving</type>
+			<agentType>doctor, physician</agentType>
+			<agentType>mother</agentType>
+			<note>
+				<p>events of persona's fiction described</p>
+			</note>
+		</event>
+		
+		<event>
+			<textUnitReference>26</textUnitReference>
+			<type>Christmas</type>
+			<type>illness, persona's</type>
+			<type>gift giving</type>
+			<type>charity, personal action</type>
+			<agentType>benefactor or donor</agentType>
+			<note>
+				<p>events of persona's fiction described</p>
+			</note>
+		</event>
+		
+		<event>
+			<textUnitReference>27</textUnitReference>
+			<type>work accomplished, writing</type>
+		</event>
+		
+		<event>
+			<textUnitReference>28</textUnitReference>
+			<type>writing autobiography</type>
+			<agentType>male professional, named</agentType>
+			<note>
+				<p>events of persona's fiction described</p>
+			</note>
+		</event>
+		
+		<event>
+			<textUnitRangeReference>
+				<start>28</start>
+				<end>29</end>
+			</textUnitRangeReference>
+			<type>childcare</type>
+			<type>service to family, housekeeping</type>
+			<agentType>female servant, named</agentType>
+			<note>
+				<p>events of persona's fiction described</p>
+			</note>
+		</event>
+		
+		<event>
+			<textUnitReference>29</textUnitReference>
+			<type>violence between two or more others</type>
+			<agentType>animal, domestic or pet, named</agentType>
+			<agentType>adult</agentType>
+			<locationStructure>home, family or childhood</locationStructure>
+			<note>
+				<p>events of persona's fiction described</p>
+			</note>
+		</event>
+		
+		<event>
+			<textUnitReference>29</textUnitReference>
+			<type>crying</type>
+			<type>grieving</type>
+			<type>hugging</type>
+			<agentType>boy, unrelated, named</agentType>
+			<agentType>mother</agentType>
+			<agentType>female servant, named</agentType>
+			<note>
+				<p>events of persona's fiction described</p>
+			</note>
+		</event>
+		
+		<event>
+			<textUnitReference>30</textUnitReference>
+			<type>marriage, voluntary</type>
+			<type>hosting by agents</type>
+			<agentType>wife</agentType>
+			<locationStructure>home, family or childhood</locationStructure>
+		    <note>
+		    	<p>events of persona's fiction described</p>
+		    </note>
+		</event>
+		
+		<event>
+			<textUnitReference>30</textUnitReference>
+			<type>death, nonfamily, woman</type>
+			<type>crying</type>
+			<agentType>female servant, named</agentType>
+			<note>
+				<p>events of persona's fiction described</p>
+			</note>
+		</event>
+		
+		<event>
+			<textUnitRangeReference>
+				<start>32</start>
+				<end>33</end>
+			</textUnitRangeReference>
+			<type>death, nonfamily, man</type>
+			<note>
+				<p>events of persona's fiction described</p>
+			</note>
+		</event>
+		
+		<event>
+			<textUnitRangeReference>
+				<start>32</start>
+				<end>33</end>
+			</textUnitRangeReference>
+			<type>death, nonfamily, boy</type>
+			<note>
+				<p>events of persona's fiction described</p>
+			</note>
+		</event>
+		
+		<event>
+			<textUnitReference>34</textUnitReference>
+			<type>sleeping</type>
+			<agentType>character, fictional or imaginary</agentType>
+			<note>
+				<p>events of persona's fiction described</p>
+			</note>
+		</event>
+		
+		<event>
+			<textUnitReference>37</textUnitReference>
+			<type>escape</type>
+			<agentType>character, fictional or imaginary</agentType>
+			<note>
+				<p>events of persona's fiction described</p>
+			</note>
+		</event>
+		
+		<event>
+			<textUnitReference>39</textUnitReference>
+			<type>travel, military deployment</type>
+			<type>writing other</type>
+			<dateSingle standardDate="1869">1869</dateSingle>
+			<agentType>husband</agentType>
+			<locationSetting>town</locationSetting>
+		</event>
+		
+		<event>
+			<textUnitReference>39</textUnitReference>
+			<type>publication</type>
+			<dateSingle standardDate="1870">1870</dateSingle>
+		</event>
+		
+		<event>
+			<textUnitReference>40</textUnitReference>
+			<type>writing travel</type>
+		</event>
+		
+		<event>
+			<textUnitReference>41</textUnitReference>
+			<type>working as paid occupation</type>
+			<type>childcare</type>
+			<type>funeral</type>
+			<agentType>male superior, unnamed</agentType>
+			<agentType>officer, military</agentType>
+			<note>
+				<p>events of persona's fiction described</p>
+			</note>
+		</event>
+		
+		<event>
+			<textUnitRangeReference>
+				<start>42</start>
+				<end>49</end>
+			</textUnitRangeReference>
+			<type>conversation</type>
+			<agentType>officer, military</agentType>
+			<agentType>boy, unrelated, named</agentType>
+			<note>
+				<p>events of persona's fiction described</p>
+			</note>
+		</event>
+		
+		<event>
+			<textUnitRangeReference>
+				<start>47</start>
+				<end>48</end>
+			</textUnitRangeReference>
+			<type>crying</type>
+			<agentType>officer, military</agentType>
+			<agentType>male peer, historical</agentType>
+			<note>
+				<p>events of persona's fiction described</p>
+			</note>
+		</event>
+		
+		<event>
+			<textUnitRangeReference>
+				<start>49</start>
+				<end>50</end>
+			</textUnitRangeReference>
+			<type>death or loss of child</type>
+			<locationStructure>home, family or childhood</locationStructure>
+			<note>
+				<p>events of persona's fiction described</p>
+			</note>
+		</event>
+		
+		<event>
+			<textUnitReference>50</textUnitReference>
+			<type>music, singing</type>
+			<type>music, effect, response to</type>
+			<type>music playing, instrumental</type>
+			<agentType>officer, military</agentType>
+			<agentType>military force, small or unspecified</agentType>
+			<locationStructure>church</locationStructure>
+			<note>
+				<p>events of persona's fiction described</p>
+			</note>
+		</event>
+		
+		<event>
+			<textUnitReference>52</textUnitReference>
+			<type>writing other</type>
+		</event>
+		
+		<event>
+			<textUnitReference>53</textUnitReference>
+			<type>writing novel</type>
+			<type>publication</type>
+			<type>death, persona's</type>
+		</event>
+		
+		<event>
+			<textUnitReference>54</textUnitReference>
+			<type>caregiving other than nursing</type>
+			<type>rescue</type>
+			<type>death of animal</type>
+			<type>drawing, amateur</type>
+			<agentType>animal, domestic or pet, named</agentType>
+			<agentType>animal, domestic or pet, unnamed</agentType>
+		</event>
+		
+		<event>
+			<textUnitReference>55</textUnitReference>
+			<type>gardening</type>
+			<type>writing other</type>
+		</event>
+		
+		<event>
+			<textUnitRangeReference>
+				<start>56</start>
+				<end>59</end>
+			</textUnitRangeReference>
+			<type>writing for children</type>
+			<note>
+				<p>End Persona 2</p>
+			</note>
+		</event>
+		
+		<!-- Begin Persona Description -->
+		<personaDescription>
+			<textUnitReference>2</textUnitReference>
+			<type>delighted</type>
+			<note>
+				<p>Begin Persona 1</p>
+			</note>
+		</personaDescription>
+		
+		<personaDescription>
+			<textUnitReference>3</textUnitReference>
+			<type>dedicated or devoted</type>
+			<type>good</type>
+		</personaDescription>
+		
+		<personaDescription>
+			<textUnitReference>4</textUnitReference>
+			<type>humorous, witty</type>
+		</personaDescription>
+		
+		<personaDescription>
+			<textUnitRangeReference>
+				<start>1</start>
+				<end>5</end>
+			</textUnitRangeReference>
+			<type>skilled, in occupation</type>
+		</personaDescription>
+		
+		<personaDescription>
+			<textUnitReference>6</textUnitReference>
+			<type>humorous, witty</type>
+			<type>noble in character</type>
+		</personaDescription>
+		
+		<personaDescription>
+			<textUnitReference>7</textUnitReference>
+			<type>dedicated or devoted</type>
+			<type>charitable</type>
+		</personaDescription>
+		
+		<personaDescription>
+			<textUnitReference>9</textUnitReference>
+			<type>skilled, in occupation</type>
+			<type>dedicated or devoted</type>
+			<type>noble in character</type>
+			<type>good</type>
+		</personaDescription>
+		
+		<personaDescription>
+			<textUnitRangeReference>
+				<start>10</start>
+				<end>11</end>
+			</textUnitRangeReference>
+			<type>dedicated or devoted</type>
+			<type>skilled, in occupation</type>
+			<type>self-sacrificing</type>
+		</personaDescription>
+		
+		<personaDescription>
+			<textUnitReference>11</textUnitReference>
+			<type>good</type>
+			<type>loving</type>
+			<type>energetic or untiring</type>
+			<type>famous</type>
+			<note>
+				<p>End Persona 1</p>
+			</note>
+		</personaDescription>
+		
+		<personaDescription>
+			<textUnitReference>12</textUnitReference>
+			<type>charming</type>
+			<type>skilled, in occupation</type>
+			<note>
+				<p>Begin Persona 2</p>
+			</note>
+		</personaDescription>
+		
+		<personaDescription>
+			<textUnitReference>13</textUnitReference>
+			<type>happy</type>
+			<type>childlike</type>
+			<type>humorous, witty</type>
+			<type>sad</type>
+			<type>sympathetic</type>
+			<type>gentle</type>
+			<type>grieving</type>
+			<type>hopeful</type>
+		</personaDescription>
+		
+		<personaDescription>
+			<textUnitReference>15</textUnitReference>
+			<type>lonely</type>
+			<type>idealistic or unmaterialistic</type>
+			<type>young</type>
+			<type>naive</type>
+		</personaDescription>
+		
+		<personaDescription>
+			<textUnitReference>16</textUnitReference>
+			<type>gentle</type>
+			<type>young no longer</type>
+		</personaDescription>
+		
+		<personaDescription>
+			<textUnitReference>18</textUnitReference>
+			<type>charming</type>
+			<type>humorous, witty</type>
+		</personaDescription>
+		
+		<personaDescription>
+			<textUnitReference>19</textUnitReference>
+			<type>noble in character</type>
+			<type>self-sacrificing</type>
+			<note>
+				<p>persona's fiction described</p>
+			</note>
+		</personaDescription>
+		
+		<personaDescription>
+			<textUnitRangeReference>
+				<start>20</start>
+				<end>21</end>
+			</textUnitRangeReference>
+			<type>generous</type>
+			<type>frugal</type>
+			<note>
+				<p>persona's fiction described</p>
+			</note>
+		</personaDescription>
+		
+		<personaDescription>
+			<textUnitReference>22</textUnitReference>
+			<type>clever</type>
+		</personaDescription>
+		
+		<personaDescription>
+			<textUnitReference>23</textUnitReference>
+			<type>brave</type>
+			<type>generous</type>
+			<note>
+				<p>persona's fiction described</p>
+			</note>
+		</personaDescription>
+		
+		<personaDescription>
+			<textUnitReference>26</textUnitReference>
+			<type>patient or enduring</type>
+			<type>generous</type>
+			<note>
+				<p>persona's fiction described</p>
+			</note>
+		</personaDescription>
+		
+		<personaDescription>
+			<textUnitReference>28</textUnitReference>
+			<type>loyal</type>
+			<type>dedicated or devoted</type>
+			<note>
+				<p>persona's fiction described</p>
+			</note>
+		</personaDescription>
+		
+		<personaDescription>
+			<textUnitReference>29</textUnitReference>
+			<type>loving</type>
+			<note>
+				<p>persona's fiction described</p>
+			</note>
+		</personaDescription>
+		
+		<personaDescription>
+			<textUnitReference>29</textUnitReference>
+			<type>loving</type>
+			<type>young no longer</type>
+			<note>
+				<p>persona's fiction described</p>
+			</note>
+		</personaDescription>
+		
+		<personaDescription>
+			<textUnitReference>32</textUnitReference>
+			<type>humorous, witty</type>
+			<type>grieving</type>
+		</personaDescription>
+		
+		<personaDescription>
+			<textUnitReference>34</textUnitReference>
+			<type>charming</type>
+			<type>humorous, witty</type>
+			<type>wise</type>
+			<note>
+				<p>persona's fiction described</p>
+			</note>
+		</personaDescription>
+		
+		<personaDescription>
+			<textUnitReference>51</textUnitReference>
+			<type>skilled, in occupation</type>
+		</personaDescription>
+		
+		<personaDescription>
+			<textUnitReference>52</textUnitReference>
+			<type>flawed</type>
+		</personaDescription>
+		
+		<personaDescription>
+			<textUnitReference>54</textUnitReference>
+			<type>loving</type>
+			<type>grieving</type>
+		</personaDescription>
+		
+		<personaDescription>
+			<textUnitReference>56</textUnitReference>
+			<type>genius or talented</type>
+			<type>skilled, in occupation</type>
+		</personaDescription>
+		
+		<personaDescription>
+			<textUnitReference>58</textUnitReference>
+			<type>genius or talented</type>
+			<type>skilled, in occupation</type>
+			<note>
+				<p>End Persona 2</p>
+			</note>
+		</personaDescription>
+		
+		<!-- Begin Topos -->
+		<topos>
+			<textUnitReference>1</textUnitReference>
+			<type>fame in lifetime</type>
+			<type>influence on children, gender unspecified</type>
+			<note>
+				<p>Begin Persona 1</p>
+			</note>
+		</topos>
+		
+		<topos>
+			<textUnitReference>2</textUnitReference>
+			<type>test or trial, spiritual</type>
+			<type>influence on boys</type>
+			<type>influence on girls</type>
+		</topos>
+		
+		<topos>
+			<textUnitReference>3</textUnitReference>
+			<type>influence on children, gender unspecified</type>
+		</topos>
+		
+		<topos>
+			<textUnitReference>4</textUnitReference>
+			<type>talent discovered in new activity</type>
+		</topos>
+		
+		<topos>
+			<textUnitReference>5</textUnitReference>
+			<type>turning point</type>
+			<type>fame in lifetime</type>
+		</topos>
+		
+		<topos>
+			<textUnitReference>6</textUnitReference>
+			<type>family, ancestry</type>
+			<type>pride</type>
+			<type>adversity</type>
+		</topos>
+		
+		<topos>
+			<textUnitReference>7</textUnitReference>
+			<type>charity</type>
+			<type>education advocacy</type>
+			<type>influence on boys</type>
+			<type>influence, changing behavior of working men</type>
+			<type>adventure</type>
+		</topos>
+		
+		<topos>
+			<textUnitReference>8</textUnitReference>
+			<type>inspiration, literary or artistic</type>
+		</topos>
+		
+		<topos>
+			<textUnitReference>9</textUnitReference>
+			<type>adventure</type>
+			<type>elocution, correct or proper language</type>
+			<type>influence on children, gender unspecified</type>
+			<type>talent wasted in limited position</type>
+		</topos>
+		
+		<topos>
+			<textUnitReference>10</textUnitReference>
+			<type>education advocacy</type>
+			<type>exoticism</type>
+			<type>race as narrator's generalization</type>
+			<type>influence on children, gender unspecified</type>
+		</topos>
+		
+		<topos>
+			<textUnitReference>11</textUnitReference>
+			<type>Empire</type>
+			<type>influence on boys</type>
+			<type>influence on girls</type>
+			<type>work as social service</type>
+			<type>attachment or caring between the people and persona</type>
+			<type>memory</type>
+			<note>
+				<p>End Persona 1</p>
+			</note>
+		</topos>
+		
+		<topos>
+			<textUnitReference>12</textUnitReference>
+			<type>influence on children, gender unspecified</type>
+			<type>influence, emotional effect on peers</type>
+			<type>nature, response to</type>
+			<note>
+				<p>Begin Persona 2</p>
+			</note>
+		</topos>
+		
+		<topos>
+			<textUnitReference>13</textUnitReference>
+			<type>faith</type>
+		</topos>
+		
+		<topos>
+			<textUnitRangeReference>
+				<start>14</start>
+				<end>16</end>
+			</textUnitRangeReference>
+			<type>influence on children, gender unspecified</type>
+		</topos>
+		
+		<topos>
+			<textUnitReference>15</textUnitReference>
+			<type>solitude, loneliness</type>
+			<type>beauty as effect on others</type>
+			<type>memory</type>
+			<type>vanity in appearance, dress</type>
+			<type>disillusionment</type>
+		</topos>
+		
+		<topos>
+			<textUnitReference>16</textUnitReference>
+			<type>influence, emotional effect on peers</type>
+			<type>vanity of material things</type>
+			<type>disillusionment</type>
+		</topos>
+		
+		<topos>
+			<textUnitReference>19</textUnitReference>
+			<type>character as destiny, career foretold</type>
+			<type>inspiration, literary or artistic</type>
+		</topos>
+		
+		<topos>
+			<textUnitReference>20</textUnitReference>
+			<type>food or sustenance</type>
+			<type>renaming</type>
+			<type>sacrifice or renunciation of self-interest or desire</type>
+		</topos>
+		
+		<topos>
+			<textUnitReference>21</textUnitReference>
+			<type>debt</type>
+		</topos>
+		
+		<topos>
+			<textUnitReference>23</textUnitReference>
+			<type>sacrifice or renunciation of self-interest or desire</type>
+		</topos>
+		
+		<topos>
+			<textUnitReference>26</textUnitReference>
+			<type>charity</type>
+			<type>influence, emotional effect on superiors</type>
+		</topos>
+		
+		<topos>
+			<textUnitReference>28</textUnitReference>
+			<type>family, class or status</type>
+			<type>custom or tradition</type>
+			<type>duty</type>
+			<type>memory</type>
+		</topos>
+		
+		<topos>
+			<textUnitReference>29</textUnitReference>
+			<type>motherhood</type>
+			<type>physical contact with animal</type>
+			<type>physical contact with child or children, unspecified</type>
+		</topos>
+		
+		<topos>
+			<textUnitReference>30</textUnitReference>
+			<type>memory</type>
+			<type>dying or deathbed</type>
+		</topos>
+		
+		<topos>
+			<textUnitRangeReference>
+				<start>32</start>
+				<end>34</end>
+			</textUnitRangeReference>
+			<type>dying or deathbed</type>
+		</topos>
+		
+		<topos>
+			<textUnitReference>34</textUnitReference>
+			<type>sacrifice or renunciation of self-interest or desire</type>
+		</topos>
+		
+		<topos>
+			<textUnitReference>35</textUnitReference>
+			<type>vanity of material things</type>
+			<type>memory</type>
+		</topos>
+		
+		<topos>
+			<textUnitRangeReference>
+				<start>37</start>
+				<end>38</end>
+			</textUnitRangeReference>
+			<type>vanity of material things</type>
+		</topos>
+		
+		<topos>
+			<textUnitReference>40</textUnitReference>
+			<type>memory</type>
+			<type>inspiration, literary or artistic</type>
+		</topos>
+		
+		<topos>
+			<textUnitReference>41</textUnitReference>
+			<type>custom or tradition</type>
+			<type>duty</type>
+			<type>clothing, uniform</type>
+		</topos>
+		
+		<topos>
+			<textUnitReference>42</textUnitReference>
+			<type>disability</type>
+			<type>test or trial, spiritual</type>
+			<type>calling or vocation</type>
+		</topos>
+		
+		<topos>
+			<textUnitReference>48</textUnitReference>
+			<type>disability</type>
+			<type>family, ancestry</type>
+		</topos>
+		
+		<topos>
+			<textUnitRangeReference>
+				<start>49</start>
+				<end>50</end>
+			</textUnitRangeReference>
+			<type>dying or deathbed</type>
+			<type>test or trial, spiritual</type>
+		</topos>
+		
+		<topos>
+			<textUnitReference>50</textUnitReference>
+			<type>faith</type>
+		</topos>
+		
+		<topos>
+			<textUnitReference>51</textUnitReference>
+			<type>influence, emotional effect on peers</type>
+		</topos>
+		
+		<topos>
+			<textUnitReference>52</textUnitReference>
+			<type>calling or vocation</type>
+			<type>disability</type>
+		</topos>
+		
+		<topos>
+			<textUnitReference>54</textUnitReference>
+			<type>dying or deathbed</type>
+			<type>recognition or tribute</type>
+		</topos>
+		
+		<topos>
+			<textUnitRangeReference>
+				<start>56</start>
+				<end>58</end>
+			</textUnitRangeReference>
+			<type>influence on children, gender unspecified</type>
+		</topos>
+		
+		<topos>
+			<textUnitReference>56</textUnitReference>
+			<type>talent in practiced activity</type>
+		</topos>
+		
+		<topos>
+			<textUnitReference>58</textUnitReference>
+			<type>talent in practiced activity</type>
+			<type>elocution, correct or proper language</type>
+			<note>
+				<p>End Persona 2</p>
+			</note>
+		</topos>
+		
+		<!-- Begin Discourse -->
+		<discourse>
+			<textUnitReference>1</textUnitReference>
+			<type>analepsis, shift of scene to previous time</type>
+			<type>periods or times compared</type>
+			<type>description of agent or identified set of agents</type>
+			<type>retrospective</type>
+			<type>hyperbole, overstatement</type>
+			<note>
+				<p>Begin Persona 1</p>
+			</note>
+		</discourse>
+		
+		<discourse>
+			<textUnitRangeReference>
+				<start>1</start>
+				<end>11</end>
+			</textUnitRangeReference>
+			<type>evaluation</type>
+		</discourse>
+		
+		<discourse>
+			<textUnitRangeReference>
+				<start>2</start>
+				<end>3</end>
+			</textUnitRangeReference>
+			<type>literary analysis</type>
+		</discourse>
+		
+		<discourse>
+			<textUnitReference>2</textUnitReference>
+			<type>allusion to male literary character</type>
+			<type>example, explicit illustration of claim</type>
+			<type>personification, concept or value</type>
+			<type>quotation, unidentified</type>
+		</discourse>
+		
+		<discourse>
+			<textUnitReference>3</textUnitReference>
+			<type>focalization, attributing motives</type>
+			<type>quotation, unidentified</type>
+			<type>idiom or cliche</type>
+			<type>direct address, use of we</type>
+			<type>figureOrImage, water</type>
+			<type>figureOrImage, fire</type>
+		</discourse>
+		
+		<discourse>
+			<textUnitReference>4</textUnitReference>
+			<type>time measured as persona's age</type>
+			<type>allusion to previous biographer</type>
+			<type>figureOrImage, light</type>
+			<type>childhood anecdote, talent predicted</type>
+		</discourse>
+		
+		<discourse>
+			<textUnitRangeReference>
+				<start>6</start>
+				<end>8</end>
+			</textUnitRangeReference>
+			<type>literary analysis</type>
+			<type>allusion to male literary character</type>
+		</discourse>
+		
+		<discourse>
+			<textUnitReference>6</textUnitReference>
+			<type>example, explicit illustration of claim</type>
+			<type>precepts</type>
+			<type>paraphrase of writing</type>
+			<type>irony</type>
+		</discourse>
+		
+		<discourse>
+			<textUnitReference>7</textUnitReference>
+			<type>quotation, persona writings fiction</type>
+			<type>periods or times compared</type>
+			<type>direct address, use of I or one</type>
+			<type>humor</type>
+		</discourse>
+		
+		<discourse>
+			<textUnitReference>8</textUnitReference>
+			<type>childhood anecdote, talent predicted</type>
+			<type>allusion to previous biographer</type>
+		</discourse>
+		
+		<discourse>
+			<textUnitReference>9</textUnitReference>
+			<type>retrospective</type>
+			<type>idiom or cliche</type>
+			<type>focalization, attributing motives</type>
+			<type>speculation, alternative outcomes, &quot;if&quot;</type>
+			<type>direct address, use of we</type>
+		</discourse>
+		
+		<discourse>
+			<textUnitReference>10</textUnitReference>
+			<type>description of a kind of people or society (not individual)</type>
+			<type>time measured as persona's age</type>
+			<type>figureOrImage, heart</type>
+		</discourse>
+		
+		<discourse>
+			<textUnitReference>11</textUnitReference>
+			<type>idiom or cliche</type>
+			<type>comparison of environments</type>
+			<type>focalization, attributing motives</type>
+			<note>
+				<p>End Persona 1</p>
+			</note>
+		</discourse>
+		
+		<discourse>
+			<textUnitReference>12</textUnitReference>
+			<type>idiom or cliche</type>
+			<type>metaphor, extended</type>
+			<type>figureOrImage, flower</type>
+			<type>figureOrImage, plant</type>
+			<type>figureOrImage, day</type>
+			<type>direct address, use of we</type>
+			<type>description of a kind of people or society (not individual)</type>
+			<note>
+				<p>Begin Persona 2</p>
+			</note>
+		</discourse>
+		
+		<discourse>
+			<textUnitRangeReference>
+				<start>12</start>
+				<end>59</end>
+			</textUnitRangeReference>
+			<type>evaluation</type>
+		</discourse>
+		
+		<discourse>
+			<textUnitReference>13</textUnitReference>
+			<type>metaphor, extended</type>
+			<type>personification, concept or value</type>
+			<type>figureOrImage, water</type>
+		</discourse>
+		
+		<discourse>
+			<textUnitReference>14</textUnitReference>
+			<type>retrospective</type>
+			<type>allusion to female literary character</type>
+			<type>figureOrImage, fairy or fairies</type>
+			<type>focalization, attributing feelings</type>
+			<type>figureOrImage, water</type>
+		</discourse>
+		
+		<discourse>
+			<textUnitRangeReference>
+				<start>15</start>
+				<end>38</end>
+			</textUnitRangeReference>
+			<type>literary analysis</type>
+		</discourse>
+		
+		<discourse>
+			<textUnitRangeReference>
+				<start>15</start>
+				<end>16</end>
+			</textUnitRangeReference>
+			<type>childhood anecdote, character predicted</type>
+			<type>irony</type>
+			<type>foreign phrase</type>
+			<type>allusion to female literary character</type>
+		</discourse>
+		
+		<discourse>
+			<textUnitReference>16</textUnitReference>
+			<type>quotation, persona writings fiction</type>
+			<type>precepts</type>
+		</discourse>
+		
+		<discourse>
+			<textUnitReference>17</textUnitReference>
+			<type>perspective or point of view</type>
+			<type>allusion to female literary character</type>
+		</discourse>
+		
+		<discourse>
+			<textUnitReference>18</textUnitReference>
+			<type>iterative, repeating or persistent</type>
+		</discourse>
+		
+		<discourse>
+			<textUnitReference>19</textUnitReference>
+			<type>childhood anecdote, character predicted</type>
+		</discourse>
+		
+		<discourse>
+			<textUnitRangeReference>
+				<start>19</start>
+				<end>23</end>
+			</textUnitRangeReference>
+			<type>allusion to male literary character</type>
+			<type>allusion to female literary character</type>
+		</discourse>
+		
+		<discourse>
+			<textUnitRangeReference>
+				<start>20</start>
+				<end>21</end>
+			</textUnitRangeReference>
+			<type>quotation, persona writings fiction</type>
+			<type>paraphrase of writing</type>
+		</discourse>
+		
+		<discourse>
+			<textUnitReference>20</textUnitReference>
+			<type>irony</type>
+		</discourse>
+		
+		<discourse>
+			<textUnitReference>21</textUnitReference>
+			<type>idiom or cliche</type>
+		</discourse>
+		
+		<discourse>
+			<textUnitReference>22</textUnitReference>
+			<type>direct address, use of we</type>
+			<type>description of a kind of people or society (not individual)</type>
+		</discourse>
+		
+		<discourse>
+			<textUnitReference>23</textUnitReference>
+			<type>paraphrase of writing</type>
+			<type>humor</type>
+		</discourse>
+		
+		<discourse>
+			<textUnitRangeReference>
+				<start>24</start>
+				<end>25</end>
+			</textUnitRangeReference>
+			<type>precepts</type>
+			<type>metaphor, extended</type>
+			<type>quotation, persona writings fiction</type>
+		</discourse>
+		
+		<discourse>
+			<textUnitReference>26</textUnitReference>
+			<type>paraphrase of writing</type>
+			<type>focalization, attributing feelings</type>
+		</discourse>
+		
+		<discourse>
+			<textUnitRangeReference>
+				<start>26</start>
+				<end>30</end>
+			</textUnitRangeReference>
+		<type>allusion to female literary character</type>
+		</discourse>
+		
+		<discourse>
+			<textUnitRangeReference>
+				<start>26</start>
+				<end>27</end>
+			</textUnitRangeReference>
+			<type>direct address, use of we</type>
+		</discourse>
+		
+		<discourse>
+			<textUnitReference>28</textUnitReference>
+			<type>perspective or point of view</type>
+			<type>allusion literary, reference</type>
+		</discourse>
+		
+		<discourse>
+			<textUnitRangeReference>
+				<start>28</start>
+				<end>30</end>
+			</textUnitRangeReference>
+			<type>paraphrase of writing</type>
+			<type>allusion to male literary character</type>
+		</discourse>
+		
+		<discourse>
+			<textUnitRangeReference>
+				<start>29</start>
+				<end>30</end>
+			</textUnitRangeReference>
+			<type>quotation, persona writings fiction</type>
+		</discourse>
+		
+		<discourse>
+			<textUnitRangeReference>
+				<start>32</start>
+				<end>34</end>
+			</textUnitRangeReference>
+			<type>allusion to male literary character</type>
+		</discourse>
+		
+		<discourse>
+			<textUnitReference>32</textUnitReference>
+			<type>humor</type>
+			<type>figureOrImage, light</type>
+			<type>hyperbole, overstatement</type>
+		</discourse>
+		
+		<discourse>
+			<textUnitReference>33</textUnitReference>
+			<type>quotation, persona writings fiction</type>
+			<type>emphasis in typeface, punctuation</type>
+			<type>figureOrImage, light</type>
+			<type>figureOrImage, rock</type>
+			<type>figureOrImage, water</type>
+			<type>figureOrImage, heaven</type>
+		</discourse>
+		
+		<discourse>
+			<textUnitRangeReference>
+				<start>34</start>
+				<end>38</end>
+			</textUnitRangeReference>
+			<type>allusion to female literary character</type>
+		</discourse>
+		
+		<discourse>
+			<textUnitReference>34</textUnitReference>
+			<type>direct address, use of we</type>
+			<type>euphemism</type>
+			<type>figureOrImage, music</type>
+			<type>allusion, biblical</type>
+			<type>paraphrase of writing</type>
+			<type>example, explicit illustration of claim</type>
+			<type>humor</type>
+		</discourse>
+		
+		<discourse>
+			<textUnitReference>35</textUnitReference>
+			<type>quotation, persona writings fiction</type>
+			<type>humor</type>
+		</discourse>
+		
+		<discourse>
+			<textUnitRangeReference>
+				<start>37</start>
+				<end>38</end>
+			</textUnitRangeReference>
+			<type>quotation, persona writings fiction</type>
+			<type>humor</type>
+			<type>idiom or cliche</type>
+		</discourse>
+		
+		<discourse>
+			<textUnitReference>38</textUnitReference>
+			<type>quotation, poetry</type>
+		</discourse>
+		
+		<discourse>
+			<textUnitReference>40</textUnitReference>
+			<type>epigraph or quotation not in body of text</type>
+			<type>quotation or phrase or word in classical language</type>
+			<type>allusion literary, reference</type>
+			<type>direct address, use of we</type>
+		</discourse>
+		
+		<discourse>
+			<textUnitRangeReference>
+				<start>40</start>
+				<end>50</end>
+			</textUnitRangeReference>
+			<type>allusion to male literary character</type>
+		</discourse>
+		
+		<discourse>
+			<textUnitReference>41</textUnitReference>
+			<type>description of a kind of people or society (not individual)</type>
+			<type>figureOrImage, music</type>
+			<type>figureOrImage, warrior</type>
+			<type>metaphor, extended</type>
+		</discourse>
+		
+		<discourse>
+			<textUnitReference>42</textUnitReference>
+			<type>direct address, use of we</type>
+			<type>idiom or cliche</type>
+			<type>figureOrImage, warrior</type>
+			<type>precepts</type>
+			<type>analogy to Jesus</type>
+		</discourse>
+		
+		<discourse>
+			<textUnitRangeReference>
+				<start>43</start>
+				<end>47</end>
+			</textUnitRangeReference>
+			<type>quotation, persona writings fiction</type>
+			<type>idiom or cliche</type>
+			<type>hyperbole, overstatement</type>
+		</discourse>
+		
+		<discourse>
+			<textUnitReference>45</textUnitReference>
+			<type>allusion to historical man</type>
+		</discourse>
+		
+		<discourse>
+			<textUnitRangeReference>
+				<start>47</start>
+				<end>48</end>
+			</textUnitRangeReference>
+			<type>allusion to historical man</type>
+		</discourse>
+		
+		<discourse>
+			<textUnitRangeReference>
+				<start>48</start>
+				<end>50</end>
+			</textUnitRangeReference>
+			<type>allusion literary, paraphrase</type>
+		</discourse>
+		
+		<discourse>
+			<textUnitReference>50</textUnitReference>
+			<type>figureOrImage, music</type>
+			<type>quotation, hymn</type>
+			<type>figureOrImage, angel</type>
+			<type>figureOrImage, heaven</type>
+			<type>figureOrImage, warrior</type>
+			<type>analogy to Jesus</type>
+			<type>figureOrImage, conqueror</type>
+			<type>figureOrImage, king</type>
+		</discourse>
+		
+		<discourse>
+			<textUnitReference>51</textUnitReference>
+			<type>example, explicit illustration of claim</type>
+		</discourse>
+		
+		<discourse>
+			<textUnitReference>52</textUnitReference>
+			<type>analogy to saint, named</type>
+			<type>figureOrImage, warrior</type>
+		</discourse>
+		
+		<discourse>
+			<textUnitReference>53</textUnitReference>
+			<type>prospective or foreshadowing</type>
+		</discourse>
+		
+		<discourse>
+			<textUnitReference>54</textUnitReference>
+			<type>example, explicit illustration of claim</type>
+			<type>allusion to male literary character</type>
+			<type>allusion literary, reference</type>
+			<type>quotation, unidentified</type>
+			<type>figureOrImage, animal</type>
+			<type>list or parataxis</type>
+			<type>analepsis, shift of scene to previous time</type>
+		</discourse>
+		
+		<discourse>
+			<textUnitReference>55</textUnitReference>
+			<type>example, explicit illustration of claim</type>
+			<type>allusion literary, reference</type>
+			<type>figureOrImage, flower</type>
+		</discourse>
+		
+		<discourse>
+			<textUnitReference>57</textUnitReference>
+			<type>digression or pause in life time</type>
+			<type>perspective or point of view</type>
+			<type>iterative, repeating or persistent</type>
+			<type>precepts</type>
+		</discourse>
+		
+		<discourse>
+			<textUnitRangeReference>
+				<start>58</start>
+				<end>59</end>
+			</textUnitRangeReference>
+			<type>narrator's positive orientation</type>
+			<type>hyperbole, overstatement</type>
+			<type>list or parataxis</type>
+			<type>direct address, use of we</type>
+			<note>
+				<p>End Persona2</p>
+			</note>
+		</discourse>
+		
+	</analysis>
+</BESS>
+

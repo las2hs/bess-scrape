@@ -1,0 +1,536 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../../../xml/schema/BESS.rng" type="xml"?>
+
+<BESS>
+	<textAnalyzed>
+		<collectionID>a607</collectionID>
+		<biographyID>08</biographyID>
+		<URI>a607.bio08.bess.xml</URI>
+		<author>Mrs. Alexander</author>
+		<title>Mrs. Norton</title>
+		<personaName>Caroline Norton</personaName>
+	</textAnalyzed>
+	
+	<analysis>
+		<personaType> Writer</personaType>
+		
+		<!-- Begin Stage of Life -->
+		<stageOfLife>
+			<textUnitRangeReference>
+				<start>1</start>
+				<end>5</end>
+			</textUnitRangeReference>
+			<name> middle</name>
+		</stageOfLife>
+		
+		
+		<!-- Begin Events -->
+		
+		<event>
+			<textUnitReference>2</textUnitReference>
+			<type> birth</type>
+		</event>
+		<event>
+			<textUnitReference>2</textUnitReference>
+			<type> marriage, arranged</type>
+			<dateSingle standardDate="1827"> 1827</dateSingle>
+			<agentType> husband</agentType>
+		</event>
+		<event>
+			<textUnitReference>2</textUnitReference>
+			<type> abandonment by partner, lover or friend</type>
+			<type>marital quarrel</type>
+			<dateSingle standardDate="1836"> 1836</dateSingle>
+			<agentType> husband</agentType>
+		</event>
+		<event>
+			<textUnitReference>3</textUnitReference>
+			<type> publication</type>
+			<type>recognition, spoken praise</type>
+			<dateSingle standardDate="1829">1829</dateSingle>
+		</event>
+		<event>
+			<textUnitReference>4</textUnitReference>
+			<type> publication</type>
+			<dateSingle standardDate="1830"> 1830</dateSingle>
+		</event>
+		<event>
+			<textUnitReference>4</textUnitReference>
+			<type> publication</type>
+			<type>recognition, spoken praise</type>
+			<dateSingle standardDate="1840"> 1840</dateSingle>
+		</event>
+		<event>
+			<textUnitReference>4</textUnitReference>
+			<type> publication</type>
+			<dateSingle standardDate="1853"> 1853</dateSingle>
+		</event>
+		
+		<event>
+			<textUnitReference>5</textUnitReference>
+			<type> publication</type>
+			<dateSingle standardDate="1851">1851</dateSingle>
+		</event>
+		
+		<event>
+			<textUnitReference>8</textUnitReference>
+			<type> travel, other</type>
+			<agentType> audience, unspecified</agentType>
+		</event>
+		
+		<event>
+			<textUnitReference>11</textUnitReference>
+			<type> marriage, arranged</type>
+			<agentType> character, fictional or imaginary</agentType>
+		</event>
+		
+		<event>
+			<textUnitReference>11</textUnitReference>
+			<type> borrowing, lending money</type>
+			<agentType> character, fictional or imaginary</agentType>
+		</event>
+		
+		<event>
+			<textUnitReference>12</textUnitReference>
+			<type> abandonment by partner, lover or friend</type>
+			<agentType> character, fictional or imaginary</agentType>
+		</event>
+		
+		<event>
+			<textUnitReference>12</textUnitReference>
+			<type> death or loss of child</type>
+			<agentType> character, fictional or imaginary</agentType>
+		</event>
+		
+		<event>
+			<textUnitReference>12</textUnitReference>
+			<type> suicide attempt</type>
+			<agentType> character, fictional or imaginary</agentType>
+		</event>
+		
+		<event>
+			<textUnitReference>12</textUnitReference>
+			<type> money making</type>
+			<agentType> character, fictional or imaginary</agentType>
+		</event>
+		
+		<event>
+			<textUnitReference>12</textUnitReference>
+			<type> travel, international</type>
+			<agentType> character, fictional or imaginary</agentType>
+		</event>
+		
+		<event>
+			<textUnitReference>13</textUnitReference>
+			<type> separation, informal</type>
+			<agentType> character, fictional or imaginary</agentType>
+		</event>
+		
+		<event>
+			<textUnitReference>17</textUnitReference>
+			<type> elopement</type>
+			<agentType> character, fictional or imaginary</agentType>
+		</event>
+		
+		<event>
+			<textUnitReference>17</textUnitReference>
+			<type> travel, other</type>
+			<agentType> character, fictional or imaginary</agentType>
+		</event>
+		
+		<event>
+			<textUnitReference>18</textUnitReference>
+			<type> travel, other</type>
+			<type>marriage, voluntary</type>
+		</event>
+		
+		<event>
+			<textUnitReference>21</textUnitReference>
+			<type> publication</type>
+			<dateSingle standardDate="1867"> 1867</dateSingle>
+		</event>
+		
+		<event>
+			<textUnitReference>22</textUnitReference>
+			<type> divorce</type>
+		</event>
+		
+		<event>
+			<textUnitReference>26</textUnitReference>
+			<type> dream or dreaming</type>
+			<agentType> character, fictional or imaginary</agentType>
+		</event>
+		
+		<event>
+			<textUnitReference>29</textUnitReference>
+			<type> hunting</type>
+			<agentType> character, fictional or imaginary</agentType>
+		</event>
+		
+		<event>
+			<textUnitReference>32</textUnitReference>
+			<type> recognition, spoken praise</type>
+			<agentType> male peer, contemporary</agentType>
+		</event>
+		
+		<event>
+			<textUnitReference>33</textUnitReference>
+			<type> divorce</type>
+			<dateSingle standardDate="1853">1853</dateSingle>
+		</event>
+		
+		<event>
+			<textUnitReference>34</textUnitReference>
+			<type> money making</type>
+		</event>
+		<!-- Begin Persona Description -->
+		<personaDescription>
+			<textUnitReference>1</textUnitReference>
+			<type> beautiful</type>
+			<type>charming</type>
+			<type> intelligent</type>
+		</personaDescription>
+		
+		<personaDescription>
+			<textUnitRangeReference>
+				<start>3</start>
+				<end>4</end>
+			</textUnitRangeReference>
+			<type> genius or talented</type>
+		</personaDescription>
+		
+		<personaDescription>
+			<textUnitReference>9</textUnitReference>
+			<type> intelligent</type>
+			<type> devout</type>
+			<type>skilled, in occupation</type>
+			<type>kind</type>
+		</personaDescription>
+		
+		<personaDescription>
+			<textUnitReference>22</textUnitReference>
+			<type> charitable</type>
+			<type>angry</type>
+			<type>sympathetic</type>
+		</personaDescription>
+		
+		<personaDescription>
+			<textUnitReference>31</textUnitReference>
+			<type> charming</type>
+			<type> genius or talented</type>
+			<type>kind</type>
+		</personaDescription>
+		
+		<personaDescription>
+			<textUnitReference>32</textUnitReference>
+			<type> intelligent</type>
+			<type>beloved</type>
+		</personaDescription>
+		
+		<!-- Begin Topos -->
+		<topos>
+			<textUnitReference>1</textUnitReference>
+			<type> family, genetic heritage of persona</type>
+			<type>association with great man or men</type>
+		</topos>
+		
+		<topos>
+			<textUnitReference>2</textUnitReference>
+			<type> family restricts vocation</type>
+			<type> gender restricts activity</type>
+			<type>gender performance, role changed</type>
+			<type>hostility</type>
+		</topos>
+		
+		<topos>
+			<textUnitReference>4</textUnitReference>
+			<type>class as persona's encounter with others</type>
+			<type>gender as persona's encounter with others</type>
+		</topos>
+		
+		<topos>
+			<textUnitReference>11</textUnitReference>
+			<type> poverty</type>
+			<type>lady braving dark space</type>
+		</topos>
+		
+		<topos>
+			<textUnitReference>12</textUnitReference>
+			<type> domestic violence</type>
+		</topos>
+		
+		<topos>
+			<textUnitReference>13</textUnitReference>
+			<type> temptation of pleasure or love</type>
+			<type>failure as outcome, tragedy</type>
+		</topos>
+		
+		<topos>
+			<textUnitReference>19</textUnitReference>
+			<type> association with great woman or women</type>
+		</topos>
+		
+		<topos>
+			<textUnitReference>20</textUnitReference>
+			<type>taste</type>
+		</topos>
+		
+		<topos>
+			<textUnitReference>22</textUnitReference>
+			<type> motherhood</type>
+			<type>charity</type>
+			<type>work as social service</type>
+		</topos>
+		
+		<topos>
+			<textUnitReference>24</textUnitReference>
+			<type> solitude, loneliness</type>
+		</topos>
+		
+		<topos>
+			<textUnitReference>26</textUnitReference>
+			<type> disillusionment</type>
+			<type>motherhood</type>
+		</topos>
+		
+		<topos>
+			<textUnitReference>29</textUnitReference>
+			<type> disability</type>
+			<type>charity</type>
+		</topos>
+		
+		<topos>
+			<textUnitReference>31</textUnitReference>
+			<type> motherhood</type>
+		</topos>
+		<topos>
+			<textUnitReference>34</textUnitReference>
+			<type> memory</type>
+		</topos>
+		
+		<topos>
+			<textUnitReference>35</textUnitReference>
+			<type>trade, commerce</type>
+			<type>class re persona</type>
+		</topos>
+		
+		
+		<!-- Begin Discourse -->
+		<discourse>
+			<textUnitReference>1</textUnitReference>
+			<type> litotes, understatement</type>
+		</discourse>
+		
+		<discourse>
+			<textUnitReference>2</textUnitReference>
+			<type>time measured as persona's age</type>
+			<type>direct address, use of we</type>
+			<type> summary, more, much or all life in less prose</type>
+			<type>evaluation</type>
+		</discourse>
+		
+		<discourse>
+			<textUnitReference>4</textUnitReference>
+			<type>analogy to man, named</type>
+			<type>historiography, narration of historical events</type>
+			<type> narrator's positive orientation</type>
+		</discourse>
+		
+		<discourse>
+			<textUnitReference>5</textUnitReference>
+			<type>personification, Nature</type>
+		</discourse>
+		
+		<discourse>
+			<textUnitReference>6</textUnitReference>
+			<type> periods or times compared</type>
+			<type>evaluation</type>
+			<type>figureOrImage, ocean or sea</type>
+		</discourse>
+		
+		<discourse>
+			<textUnitRangeReference>
+				<start>7</start>
+				<end>21</end>
+			</textUnitRangeReference>
+			<type> literary analysis</type>
+			<type> expansion, more discourse than life time</type>
+		</discourse>
+		
+		<discourse>
+			<textUnitReference>7</textUnitReference>
+			<type>figureOrImage, other</type>
+			<type> digression or pause in life time</type>
+		</discourse>
+		
+		<discourse>
+			<textUnitReference>8</textUnitReference>
+			<type>retrospective</type>
+			<type> figureOrImage, building</type>
+			<type> metaphor, extended</type>
+		</discourse>
+		
+		<discourse>
+			<textUnitReference>9</textUnitReference>
+			<type>evaluation</type>
+			<type> narrator's positive orientation</type>
+		</discourse>
+		
+		<discourse>
+			<textUnitRangeReference>
+				<start>10</start>
+				<end>11</end>
+			</textUnitRangeReference>
+			<type> evaluation</type>
+		</discourse>
+		
+		<discourse>
+			<textUnitReference>10</textUnitReference>
+			<type>figureOrImage, angel</type>
+			<type> focalization, attributing thoughts</type>
+		</discourse>
+		
+		<discourse>
+			<textUnitReference>11</textUnitReference>
+			<type>present tense</type>
+			<type>narrating, dramatized</type>
+			<type> prospective or foreshadowing</type>
+		</discourse>
+		
+		<discourse>
+			<textUnitReference>12</textUnitReference>
+			<type> figureOrImage, ghost or spirit</type>
+		</discourse>
+		
+		<discourse>
+			<textUnitReference>13</textUnitReference>
+			<type>figureOrImage, heart</type>
+		</discourse>
+		
+		<discourse>
+			<textUnitReference>14</textUnitReference>
+			<type> retrospective</type>
+			<type>evaluation</type>
+			<type> speculation, alternative outcomes, &quot;if&quot;</type>
+			<type> hyperbole, overstatement</type>
+		</discourse>
+		
+		<discourse>
+			<textUnitRangeReference>
+				<start>15</start>
+				<end>16</end>
+			</textUnitRangeReference>
+			<type> evaluation</type>
+		</discourse>
+		
+		<discourse>
+			<textUnitReference>16</textUnitReference>
+			<type>direct address, use of we</type>
+			<type> focalization, attributing motives</type>
+		</discourse>
+		
+		<discourse>
+			<textUnitReference>18</textUnitReference>
+			<type> narrating, dramatized</type>
+			<type>idiom or cliche</type>
+			<type>humor</type>
+		</discourse>
+		
+		<discourse>
+			<textUnitReference>19</textUnitReference>
+			<type> digression or pause in life time</type>
+			<type> description of agent or identified set of agents</type>
+			<type>evaluation</type>
+		</discourse>
+		
+		<discourse>
+			<textUnitReference>20</textUnitReference>
+			<type> evaluation</type>
+			<type>foreign phrase</type>
+			<type>figureOrImage, plant</type>
+			<type>narrator's positive orientation</type>
+			<type>allusion, biblical</type>
+		</discourse>
+		
+		<discourse>
+			<textUnitReference>22</textUnitReference>
+			<type> focalization, attributing feelings</type>
+			<type>figureOrImage, heart</type>
+		</discourse>
+		
+		<discourse>
+			<textUnitReference>23</textUnitReference>
+			<type> periods or times compared</type>
+			<type>evaluation</type>
+		</discourse>
+		
+		<discourse>
+			<textUnitReference>24</textUnitReference>
+			<type> quotation, persona writings poetry</type>
+			<type>literary analysis</type>
+			<type> figureOrImage, hell</type>
+		</discourse>
+		
+		<discourse>
+			<textUnitReference>25</textUnitReference>
+			<type> periods or times compared</type>
+		</discourse>
+		
+		<discourse>
+			<textUnitReference>26</textUnitReference>
+			<type> quotation, persona writings poetry</type>
+			<type>personification, concept or value</type>
+			<type>precepts</type>
+		</discourse>
+		
+		<discourse>
+			<textUnitReference>27</textUnitReference>
+			<type> evaluation</type>
+		</discourse>
+		
+		<discourse>
+			<textUnitReference>28</textUnitReference>
+			<type> periods or times compared</type>
+			<type>focalization, attributing feelings</type>
+		</discourse>
+		
+		<discourse>
+			<textUnitReference>29</textUnitReference>
+			<type> evaluation</type>
+			<type>figureOrImage, heaven</type>
+			<type>present tense</type>
+		</discourse>
+		
+		<discourse>
+			<textUnitReference>30</textUnitReference>
+			<type> quotation, persona writings poetry</type>
+			<type>focalization, attributing feelings</type>
+			<type>literary analysis</type>
+			<type>evaluation</type>
+			<type>personification, Nature</type>
+		</discourse>
+		
+		<discourse>
+			<textUnitReference>31</textUnitReference>
+			<type>figureOrImage, science or technology</type>
+			<type>figureOrImage, warrior</type>
+		</discourse>
+		
+		<discourse>
+			<textUnitReference>32</textUnitReference>
+			<type> quotation, agent's speech, unique</type>
+			<type>figureOrImage, day</type>
+			<type>personification, concept or value</type>
+		</discourse>
+		
+		<discourse>
+			<textUnitReference>35</textUnitReference>
+			<type> quotation, persona writings poetry</type>
+			<type>evaluation</type>
+			<type>direct address, use of we</type>
+			<type>periods or times compared</type>
+			<type>present tense</type>
+		</discourse>
+	</analysis>
+</BESS>
+

@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../../../xml/schema/BESS.rng" type="xml"?>
+<BESS>
+    <textAnalyzed>
+        <collectionID>a485</collectionID>
+        <biographyID>bio06</biographyID>
+        <URI>a485.bio06.bess.xml</URI>
+        <title>"George Eliot 1819-1880"</title>
+        <personaName>George Eliot</personaName>
+    </textAnalyzed>
+    
+    <analysis>
+        <personaType>Writer</personaType>
+        
+        <!-- Begin Stage of Life -->
+        
+        <stageOfLife>
+            <textUnitReference>1</textUnitReference>
+            <name>after</name>
+        </stageOfLife>
+        
+        <stageOfLife>
+            <textUnitRangeReference>
+                <start>2</start>
+                <end>7</end>
+            </textUnitRangeReference>
+            <name>middle</name>
+        </stageOfLife>
+        
+        <stageOfLife>
+            <textUnitRangeReference>
+                <start>8</start>
+                <end>9</end>
+            </textUnitRangeReference>
+            <name>culmination</name>
+        </stageOfLife>
+        
+        <!-- Events -->
+        
+        <event>
+            <textUnitReference>1</textUnitReference>
+            <type>writing novel</type>
+        </event>
+        
+        <event>
+            <textUnitReference>2</textUnitReference>
+            <type>petition or appeal</type>
+            <agentType>friend</agentType>
+        </event>
+        
+        <event>
+            <textUnitReference>3</textUnitReference>
+            <type>writing novel</type>
+            <type>work accomplished, writing</type>
+            <type>renaming of persona, vocational name</type>
+            <type>publication</type>
+            <type>keeping secret</type>
+            <type>gossip or spreading rumor</type>
+            <type>confession</type>
+            <agentType>friend</agentType>
+            <agentType> manager or agent in profession</agentType>
+            <agentType> public, the</agentType>
+        </event>
+        
+        <event>
+            <textUnitReference>4</textUnitReference>
+            <type>publicity</type>
+            <type>work accomplished, writing</type>
+            <type>petition or appeal</type>
+            <agentType>public, the</agentType>
+        </event>
+        
+        <event>
+            <textUnitReference>5</textUnitReference>
+            <type>writing novel</type>
+            <type>farming</type>
+            <agentType>character, fictional or imaginary</agentType>
+        </event>
+        
+        <event>
+            <textUnitReference>6</textUnitReference>
+            <type>writing novel</type>
+            <type>work accomplished, writing</type>
+            <type>laughing</type>
+            <type>crying</type>
+        </event>
+        
+        <event>
+            <textUnitReference>7</textUnitReference>
+            <type>publication</type>
+            <type>publicity</type>
+        </event>
+        
+        <!-- Persona Description -->
+        
+        <personaDescription>
+            <textUnitReference>1</textUnitReference>
+            <type> innovative, pioneering</type>
+            <type>great</type>
+        </personaDescription>
+        
+        <personaDescription>
+            <textUnitReference>4</textUnitReference>
+            <type>skilled, in occupation</type>
+        </personaDescription>
+        
+        <personaDescription>
+            <textUnitReference>5</textUnitReference>
+            <type>skilled, in occupation</type>
+            <type>honest</type>
+            <type>intolerant, judgmental</type>
+        </personaDescription>
+        
+        <personaDescription>
+            <textUnitReference>6</textUnitReference>
+            <type>self-doubting, diffident</type>
+            <type>fearful</type>
+            <type>persistent</type>
+        </personaDescription>
+        
+        <personaDescription>
+            <textUnitReference>7</textUnitReference>
+            <type>self-effacing</type>
+            <type>self-doubting, diffident</type>
+            <type>famous</type>
+            <type>humble</type>
+        </personaDescription>
+        
+        <personaDescription>
+            <textUnitReference>8</textUnitReference>
+            <type>genius or talented</type>
+            <type>idealistic or unmaterialistic</type>
+        </personaDescription>
+        
+        
+        <!-- Discourse -->
+        
+        <discourse>
+            <textUnitReference>1</textUnitReference>
+            <type>quotation, persona writings about self</type>
+            <type>emphasis in typeface, punctuation</type>
+            <type>epigraph or quotation not in body of text</type>
+            <type>direct address, use of I or one</type>
+            <type>quotation, persona writings about self</type>
+        </discourse>
+        
+        <discourse>
+            <textUnitReference>1</textUnitReference>
+            <type>time measured as persona's age</type>
+            <type> analogy to man, named</type>
+            <type>retrospective</type>
+        </discourse>
+        
+        <discourse>
+            <textUnitReference>2</textUnitReference>
+            <type>quotation, agent's speech, unique</type>
+            <type>dialogue</type>
+        </discourse>
+        
+        <discourse>
+            <textUnitReference>3</textUnitReference>
+            <type>focalization, attributing thoughts</type>
+        </discourse>
+        
+        <discourse>
+            <textUnitReference>4</textUnitReference>
+            <type>speech, reported not quoted</type>
+        </discourse>
+        
+        <discourse>
+            <textUnitRangeReference>
+                <start>5</start>
+                <end>9</end>
+            </textUnitRangeReference>
+            <type>evaluation</type>
+        </discourse>
+        
+        <discourse>
+            <textUnitReference>5</textUnitReference>
+            <type>literary analysis</type>
+            <type>example, explicit illustration of claim</type>
+            <type>direct address, use of I or one</type>
+            <type>focalization, attributing feelings</type>
+        </discourse>
+        
+        <discourse>
+            <textUnitReference>6</textUnitReference>
+            <type>hyperbole, overstatement</type>
+            <type>metaphor, extended</type>
+            <type>quotation, persona writings about self</type>
+        </discourse>
+        
+        <discourse>
+            <textUnitReference>7</textUnitReference>
+            <type> list or parataxis</type>
+        </discourse>
+        
+        <discourse>
+            <textUnitReference>8</textUnitReference>
+            <type>analogy to man, named</type>
+            <type>literary analysis</type>
+            <type>focalization, attributing motives</type>
+        </discourse>
+        
+        <discourse>
+            <textUnitReference>9</textUnitReference>
+            <type>narrator's positive orientation</type>
+            <type>litotes, understatement</type>
+        </discourse>
+        
+        <!-- Topos -->
+        
+        <topos>
+            <textUnitReference>1</textUnitReference>
+            <type>fame in lifetime</type>
+            <type>association with great man or men</type>
+            <type>turning point</type>
+            <type>inspiration, literary or artistic</type>
+        </topos>
+        
+        <topos>
+            <textUnitReference>3</textUnitReference>
+            <type>secrecy</type>
+            <type>talent discovered in new activity</type>
+            <type>influence, emotional effect on peers</type>
+        </topos>
+        
+        <topos>
+            <textUnitReference>4</textUnitReference>
+            <type> triumph as fulfilled goal or ambition</type>
+            <type>fame in lifetime</type>
+        </topos>
+        
+        <topos>
+            <textUnitReference>5</textUnitReference>
+            <type>influence, emotional effect on peers</type>
+            <type>duty</type>
+            <type>family, class or status</type>
+        </topos>
+        
+        <topos>
+            <textUnitReference>6</textUnitReference>
+            <type>disillusionment</type>
+        </topos>
+        
+        <topos>
+            <textUnitReference>7</textUnitReference>
+            <type>fame in lifetime</type>
+        </topos>
+        
+        <topos>
+            <textUnitReference>8</textUnitReference>
+            <type>association with great man or men</type>
+            <type>inspiration, literary or artistic</type>
+        </topos>
+        
+        <topos>
+            <textUnitReference>9</textUnitReference>
+            <type>turning point</type>
+        </topos>
+        
+    </analysis>
+</BESS>
+
+

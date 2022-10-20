@@ -1,0 +1,298 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../../../xml/schema/BESS.rng" type="xml"?>
+<BESS>
+	<textAnalyzed>
+		<collectionID>a001</collectionID>
+		<biographyID>62</biographyID>
+		<URI>a001.bio62.bess.xml</URI>
+		<author>Willis John Abbot</author>
+		<title>Mary Ann Evans</title>
+		<personaName>George Eliot</personaName>
+	</textAnalyzed>
+	
+	<analysis>
+		<personaType>Writer</personaType>
+		
+		<!-- Begin Stage of Life -->
+		
+		<stageOfLife>
+			<textUnitReference>1</textUnitReference>
+			<name>after</name>
+		</stageOfLife>
+		
+		<stageOfLife>
+			<textUnitReference>2</textUnitReference>
+			<name>beginning</name>
+		</stageOfLife>
+		
+		<stageOfLife>
+			<textUnitRangeReference>
+				<start>2</start>
+				<end>8</end>
+			</textUnitRangeReference>
+			<name>middle</name>
+		</stageOfLife>
+		
+		<stageOfLife>
+			<textUnitReference>9</textUnitReference>
+			<name>end</name>
+		</stageOfLife>
+		
+		
+		<!-- Begin Events -->
+		<event>
+			<textUnitReference>1</textUnitReference>
+			<type>working as paid occupation</type>
+		</event>
+		
+		<event>
+			<textUnitReference>2</textUnitReference>
+			<type>renaming of persona, vocational name</type>	
+		</event>
+		
+		<event>
+			<textUnitReference>2</textUnitReference>
+			<type>birth</type>
+		</event>
+		
+		<event>
+			<textUnitReference>2</textUnitReference>
+			<type>childhood or upbringing</type>
+			<type>reading</type>
+			<type>education, private lessons</type>
+			<locationSetting>agricultural</locationSetting>
+			<locationSetting>province</locationSetting>
+		</event>
+		
+		<event>
+			<textUnitReference>3</textUnitReference>
+			<type>publication</type>
+		</event>
+		
+		<event>
+			<textUnitReference>3</textUnitReference>
+			<type>hired for job</type>
+			<type>training, practical experience</type>
+			<type>work accomplished, writing</type>
+			<type>writing journalism</type>
+			<dateSingle standardDate="1851">1851</dateSingle>
+		</event>
+		
+		<event>
+			<textUnitReference>5</textUnitReference>
+			<type>falling in love</type>
+			<type>love affair</type>
+			<type>wedding</type>
+			<agentType>lover, male, named</agentType>
+		</event>
+		
+		<event>
+			<textUnitReference>7</textUnitReference>
+			<type>change of title or position</type>
+			<type>publication</type>
+			<type>recognition, spoken praise</type>
+			<type>keeping secret</type>
+			<type>exposure of identity or past</type>
+			<agentType>male peer, contemporary</agentType>
+		</event>
+		
+		<event>
+			<textUnitReference>8</textUnitReference>
+			<type>hosting by agents</type>
+			<type>hosting by persona</type>
+			<locationStructure>home, persona's</locationStructure>
+		</event>
+		
+		<event>
+			<textUnitReference>9</textUnitReference>
+			<type>death or loss of spouse</type>
+			<dateSingle standardDate="1878">1878</dateSingle>
+		</event>
+		
+		<event>
+			<textUnitReference>9</textUnitReference>
+			<type>wedding</type>
+			<dateSingle standardDate="1879">1879</dateSingle>
+		</event>
+		
+		<event>
+			<textUnitReference>9</textUnitReference>
+			<type>travel, international</type>
+			<locationSetting>Italy</locationSetting>
+			<locationSetting>city</locationSetting>
+		</event>
+		
+		<event>
+			<textUnitReference>9</textUnitReference>
+			<type>return to previous home</type>
+			<type>hosting by persona</type>
+			<locationStructure>home, persona's</locationStructure>
+		</event>
+		
+		<event>
+			<textUnitReference>9</textUnitReference>
+			<type>illness, persona's</type>
+			<type>death, persona's</type>
+			<dateSingle standardDate="1880">December of 1880</dateSingle>
+			
+		</event>
+		
+		<!-- Begin Persona Description -->
+		<personaDescription>
+			<textUnitReference>1</textUnitReference>
+			<type>great</type>
+		</personaDescription>
+		
+		<personaDescription>
+			<textUnitReference>2</textUnitReference>
+			<type>well_born</type>
+			<type>observant</type>
+			<type>learned, languages</type>
+		</personaDescription>
+		
+		<personaDescription>
+			<textUnitReference>9</textUnitReference>
+			<type>genius or talented</type>
+			<type>great</type>
+			<type>happy</type>
+		</personaDescription>
+		
+		
+		<!-- Begin Topos -->
+		<topos>
+			<textUnitReference>1</textUnitReference>
+			<type>inspiration, literary or artistic</type>
+			<type>talent in practiced activity</type>
+			<type>gender as persona's encounter with others</type>
+			<type>association with great man or men</type>
+		</topos>
+		
+		<topos>
+			<textUnitReference>2</textUnitReference>
+			<type>renaming</type>
+			<type>wealth</type>
+			<type>family, occupation of parents or ancestors</type>
+			<type>inspiration, literary or artistic</type>
+			<type>class re persona</type>
+		</topos>
+		
+		<topos>
+			<textUnitReference>3</textUnitReference>
+			<type>fame in lifetime</type>
+			<type>wealth</type>
+			<type>association with great man or men</type>
+			<type>association with great woman or women</type>
+			<type>lesson, learning by experience</type>
+			<type>gender performance, role changed</type>
+		</topos>
+		
+		<topos>
+			<textUnitReference>4</textUnitReference>
+			<type>gender restricts activity</type>
+		</topos>
+		
+		<topos>
+			<textUnitReference>5</textUnitReference>
+			<type>romance</type>
+			<type>adversity</type>
+			<type>class re persona</type>
+		</topos>
+		
+		<topos>
+			<textUnitReference>6</textUnitReference>
+			<type>inspiration, literary or artistic</type>
+		</topos>
+		
+		<topos>
+			<textUnitReference>7</textUnitReference>
+			<type>fame in lifetime</type>
+			<type>association with great man or men</type>
+			<type>wealth</type>
+			<type>triumph as fulfilled goal or ambition</type>
+			<type>character as destiny, career foretold</type>
+			<type>gender as persona's encounter with others</type>
+			<type>gender performance, role changed</type>
+		</topos>
+		
+		<topos>
+			<textUnitReference>8</textUnitReference>
+			<type>fame in lifetime</type>
+			<type>gender as narrator's generalization</type>
+			<type>gender restricts activity</type>
+			<type>influence, emotional effect on peers</type>
+		</topos>
+		
+		<!-- Begin Discourse -->
+		<discourse>
+			<textUnitReference>1</textUnitReference>
+			<type>present tense</type>
+			<type>retrospective</type>
+			<type>idiom or cliche</type>
+			<type>figureOrImage, other</type>
+			<type>expansion, more discourse than life time</type>
+			<type>time measured as persona's age</type>
+			<type>narrator's negativity</type>
+			<type>allusion literary, reference</type>
+			<type>figureOrImage, synecdoche or metonymy</type>
+			<type>personification, nation</type>
+			<type>evaluation</type>
+		</discourse>
+		
+		<discourse>
+			<textUnitReference>2</textUnitReference>
+			<type>emphasis in typeface, punctuation</type>
+			<type>summary, more, much or all life in less prose</type>
+		</discourse>
+		
+		<discourse>
+			<textUnitReference>3</textUnitReference>
+			<type>direct address, use of we</type>
+			<type>present tense</type>
+			<type>quotation, unidentified</type>
+			<type>focalization, attributing thoughts</type>
+			<type>quotation, persona writings journalism</type>
+		</discourse>
+		
+		<discourse>
+			<textUnitReference>4</textUnitReference>
+			<type>quotation, poetry</type>
+		</discourse>
+		
+		<discourse>
+			<textUnitReference>5</textUnitReference>
+			<type>figureOrImage, fire</type>
+			<type>personification, concept or value</type>
+		</discourse>
+		
+		<discourse>
+			<textUnitReference>6</textUnitReference>
+			<type>present tense</type>
+			<type>speculation, alternative outcomes, "if"</type>
+			<type>speculation, possible motives or causes</type>
+			<type>focalization, attributing feelings</type>
+		</discourse>
+		
+		<discourse>
+			<textUnitReference>7</textUnitReference>
+			<type>speech, reported not quoted</type>
+			<type>emphasis in typeface, punctuation</type>
+			<type>quotation, agent's letter to persona</type>
+			<type>quotation, agent's speech, unique</type>
+		</discourse>
+		
+		<discourse>
+			<textUnitReference>8</textUnitReference>
+			<type>direct address, use of we</type>
+			<type>speculation, alternative outcomes, "if"</type>
+			<type>emphasis in typeface, punctuation</type>
+			<type>narrator's negativity</type>
+			<type>quotation, unidentified</type>
+		</discourse>
+		
+		<discourse>
+			<textUnitReference>9</textUnitReference>
+			<type>time measured as persona's age</type>
+		</discourse>
+		
+	</analysis>
+</BESS>

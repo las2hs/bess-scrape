@@ -1,0 +1,917 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../../../xml/schema/BESS.rng" type="xml"?>
+<BESS>
+	<textAnalyzed>
+		<collectionID>a607</collectionID>
+		<biographyID>02</biographyID>
+		<URI>a607.bio02.bess.xml</URI>
+		<author>Mrs. Lynn Linton</author>
+		<title>George Eliot by Mrs. Lynn Linton</title>
+		<personaName>George Eliot</personaName>
+	</textAnalyzed>
+	
+	<analysis>
+		<personaType>Writer</personaType>
+	
+		<!-- Begin Stage of Life -->
+		
+		<stageOfLife>
+			<textUnitRangeReference>
+				<start>1</start>
+				<end>60</end>
+			</textUnitRangeReference>
+			<name>after</name>
+		</stageOfLife>
+		
+		
+		<!-- Begin Events -->
+		<event>
+			<textUnitReference>11</textUnitReference>
+			<type>writing autobiography</type>
+		</event>
+		
+		<event>
+			<textUnitReference>12</textUnitReference>
+			<type>reading</type>
+			<agentType>narrator</agentType>
+		</event>
+		
+		
+		<!-- Begin Persona Description -->
+		<personaDescription>
+			<textUnitReference>1</textUnitReference>
+			<type>intelligent</type>
+			<type>flawed</type>
+		</personaDescription>
+		
+		<personaDescription>
+			<textUnitReference>2</textUnitReference>
+			<type>learned, languages</type>
+			<type>learned, science</type>
+			<type>superior to men</type>
+			<type>superior to other women</type>
+			<type>humble</type>
+		</personaDescription>
+		
+		<personaDescription>
+			<textUnitReference>4</textUnitReference>
+			<type>great</type>
+		</personaDescription>
+		
+		<personaDescription>
+			<textUnitReference>5</textUnitReference>
+			<type>humorous, witty</type>
+		</personaDescription>
+		
+		<personaDescription>
+			<textUnitReference>9</textUnitReference>
+			<type>flawed</type>
+			<type>artistic</type>
+			<type>genius or talented</type>
+		</personaDescription>
+		
+		<personaDescription>
+			<textUnitReference>11</textUnitReference>
+			<type>lively</type>
+			<type>loving</type>
+			<type>sympathetic</type>
+			<type>innovative, pioneering</type>
+			<type>mischievous</type>
+			<type>quiet</type>
+			<type>shy</type>
+			<type>honest</type>
+			<type>brave</type>
+		</personaDescription>
+		
+		<personaDescription>
+			<textUnitReference>14</textUnitReference>
+			<type>humorous, witty</type>
+		</personaDescription>
+		
+		<personaDescription>
+			<textUnitReference>16</textUnitReference>
+			<type>intelligent</type>
+			<type>observant</type>
+			<type>weak</type>
+		</personaDescription>
+		
+		<personaDescription>
+			<textUnitReference>17</textUnitReference>
+			<type>childish</type>
+			<type>dedicated or devoted</type>
+			<type>artistic</type>
+			<type>flawed</type>
+		</personaDescription>
+		
+		<personaDescription>
+			<textUnitReference>19</textUnitReference>
+			<type>humorous, witty</type>
+		</personaDescription>
+		
+		<personaDescription>
+			<textUnitReference>26</textUnitReference>
+			<type>superior to men</type>
+			<type>superior to other women</type>
+		</personaDescription>
+		
+		<personaDescription>
+			<textUnitReference>28</textUnitReference>
+			<type>genius or talented</type>
+		</personaDescription>
+		
+		<personaDescription>
+			<textUnitReference>30</textUnitReference>
+			<type>flawed</type>
+			<type>lacking talent</type>
+			<type>unintelligent</type>
+			<type>mischievous</type>
+		</personaDescription>
+		
+		<personaDescription>
+			<textUnitReference>39</textUnitReference>
+			<type>superior to other women</type>
+			<type>faith, confident in</type>
+			<type>humorous, witty</type>
+			<type>ignorant</type>
+			<type>clumsy or awkward</type>
+		</personaDescription>
+		
+		<personaDescription>
+			<textUnitReference>41</textUnitReference>
+			<type>great</type>
+			<type>superior to men</type>
+			<type>superior to other women</type>
+		</personaDescription>
+		
+		<personaDescription>
+			<textUnitReference>42</textUnitReference>
+			<type>dedicated or devoted</type>
+		</personaDescription>
+		
+		<personaDescription>
+			<textUnitReference>48</textUnitReference>
+			<type>lacking talent</type>
+			<type>humorous, witty</type>
+		</personaDescription>
+		
+		<personaDescription>
+			<textUnitReference>49</textUnitReference>
+			<type>wise</type>
+			<type>humorous, witty</type>
+		</personaDescription>
+		
+		<personaDescription>
+			<textUnitReference>54</textUnitReference>
+			<type>observant</type>
+			<type>flawed</type>
+		<!--note: "expressed in her worst and clumsiest manner" -->
+		</personaDescription>
+		
+		<personaDescription>
+			<textUnitReference>56</textUnitReference>
+			<type>humorous, witty</type>
+			<type>genius or talented</type>
+		</personaDescription>
+		
+		<personaDescription>
+			<textUnitReference>57</textUnitReference>
+			<type>honest</type>
+			<type>noble in character</type>
+			<type>lacking talent</type>
+			<type>superior to other women</type>
+			<type>great</type>
+			<type>innocent</type>
+			<type>devout</type>
+		</personaDescription>
+		
+		<personaDescription>
+			<textUnitReference>58</textUnitReference>
+			<type>learned, languages</type>
+			<type>learned, science</type>
+			<type>learned, mathematics</type>
+			<type>flawed</type>
+			<type>clumsy or awkward</type>
+			<type>lazy</type>
+		</personaDescription>
+		
+		<personaDescription>
+			<textUnitReference>59</textUnitReference>
+			<type>great</type>
+			<type>noble in character</type>
+			<type>humorous, witty</type>
+			<type>wise</type>
+			<type>intelligent</type>
+			<type>genius or talented</type>
+			<type>superior to other women</type>
+		</personaDescription>
+		
+		<!-- Begin Topos -->
+		<topos>
+			<textUnitRangeReference>
+				<start>1</start>
+				<end>2</end>
+			</textUnitRangeReference>
+			<type>fame in lifetime</type>
+		</topos>
+		
+		<topos>
+			<textUnitReference>2</textUnitReference>
+			<type>association with great man or men</type>
+		</topos>
+		
+		<topos>
+			<textUnitReference>3</textUnitReference>
+			<type>association with great man or men</type>
+			<type>fame, posthumous</type>
+		</topos>
+		
+		<topos>
+			<textUnitReference>4</textUnitReference>
+			<type>romance</type>
+		</topos>
+		
+		<topos>
+			<textUnitReference>5</textUnitReference>
+			<type>gender as narrator's generalization</type>
+			<type>memory</type>
+		</topos>
+		
+		<topos>
+			<textUnitReference>6</textUnitReference>
+			<type>inspiration, literary or artistic</type>
+		</topos>
+		
+		<topos>
+			<textUnitReference>10</textUnitReference>
+			<type>fame, posthumous</type>
+		</topos>
+		<topos>
+			<textUnitReference>11</textUnitReference>
+			<type>failure as persona's misconduct or flaw</type>
+			<type>romance</type>
+			<type>fate</type>
+		</topos>
+		
+		<topos>
+			<textUnitReference>13</textUnitReference>
+			<type>fate</type>
+		</topos>
+		
+		<topos>
+			<textUnitReference>17</textUnitReference>
+			<type>gender as narrator's generalization</type>
+		</topos>
+		
+		
+		<topos>
+			<textUnitReference>18</textUnitReference>
+			<type>solitude, loneliness</type>
+		</topos>
+		
+		<topos>
+			<textUnitReference>22</textUnitReference>
+			<type>romance</type>
+		</topos>
+		
+		<topos>
+			<textUnitReference>28</textUnitReference>
+			<type>romance</type>
+		</topos>
+		
+		<topos>
+			<textUnitReference>30</textUnitReference>
+			<type>hypocrisy</type>
+			<type>influence, changing peers' action</type>
+			<type>defiance of authority, nonfamily</type>
+			<type>sacrifice or renunciation of self-interest or desire</type>
+		</topos>
+		
+		<topos>
+			<textUnitReference>31</textUnitReference>
+			<type>gender as persona's encounter with others</type>
+		</topos>
+		<topos>
+			<textUnitReference>35</textUnitReference>
+			<type>gender as narrator's generalization</type>
+			<type>gender restricts activity</type>
+		</topos>
+		
+		<topos>
+			<textUnitReference>46</textUnitReference>
+			<type>fate</type>
+		</topos>
+		
+		<topos>
+			<textUnitReference>57</textUnitReference>
+			<type>lady braving dark space</type>
+		</topos>
+		
+		<topos>
+			<textUnitReference>59</textUnitReference>
+			<type>association with great man or men</type>
+			<type>fame, posthumous</type>
+		</topos>
+		
+		<topos>
+			<textUnitReference>60</textUnitReference>
+			<type>fame in lifetime</type>
+			<type>defiance of authority, nonfamily</type>
+			<type>sacrifice or renunciation of self-interest or desire</type>
+		</topos>
+		
+		<!-- Begin Discourse -->
+		<discourse>
+			<textUnitRangeReference>
+				<start>1</start>
+				<end>2</end>
+			</textUnitRangeReference>
+			<type>retrospective</type>
+			<type>expansion, more discourse than life time</type>
+			<type>present tense</type>
+			<type>periods or times compared</type>
+			<type>direct address, use of we</type>
+		</discourse>
+		
+		<discourse>
+			<textUnitReference>1</textUnitReference>
+			<type>emphasis in typeface, punctuation</type>
+			<type>literary analysis</type>
+		</discourse>
+		
+		<discourse>
+			<textUnitReference>2</textUnitReference>
+			<type>focalization, attributing feelings</type>
+			<type>emphasis in typeface, punctuation</type>
+			<type>figureOrImage, insect</type>
+			<type>figureOrImage, other</type>
+			<type>figureOrImage, building</type>
+			<type>figureOrImage, bird</type>
+			<type>narrator's negativity</type>
+			<type>direct address, use of we</type>
+			<type>evaluation</type>
+		</discourse>
+		
+		<discourse>
+			<textUnitReference>3</textUnitReference>
+			<type>personification, inanimate object</type>
+			<type>present tense</type>
+			<type>quotation, unidentified</type>
+		</discourse>
+		
+		<discourse>
+			<textUnitReference>4</textUnitReference>
+			<type>figureOrImage, rock</type>
+			<type>present tense</type>
+			<type>direct address, use of we</type>
+			<type>quotation, persona writings fiction</type>
+			<type>emphasis in typeface, punctuation</type>
+			<type>literary analysis</type>
+			<type>narrator's research noted</type>
+			<type>idiom or cliche</type>
+			<type>analogy to man, named</type>
+			<type>evaluation</type>
+		</discourse>
+		
+		<discourse>
+			<textUnitReference>5</textUnitReference>
+			<type>emphasis in typeface, punctuation</type>
+			<type>present tense</type>
+			<type>literary analysis</type>
+			<type>direct address, use of we</type>
+			<type>rhetorical question</type>
+			<type>periods or times compared</type>
+			<type>analogy to men, named</type>
+		</discourse>
+		
+		<discourse>
+			<textUnitReference>6</textUnitReference>
+			<type>emphasis in typeface, punctuation</type>
+			<type>direct address, use of you</type>
+			<type>figureOrImage, other</type>
+			<type>focalization, attributing feelings</type>
+			<type>literary analysis</type>
+			<type>quotation, persona writings fiction</type>
+			<type>allusion to female literary character</type>
+			<type>evaluation</type>
+		</discourse>
+		
+		<discourse>
+			<textUnitReference>7</textUnitReference>
+			<type>present tense</type>
+			<type>emphasis in typeface, punctuation</type>
+			<type>quotation, persona writings fiction</type>
+			<type>literary analysis</type>
+			<type>analogy to man, named</type>
+			<type>evaluation</type>
+		</discourse>
+		
+		<discourse>
+			<textUnitReference>8</textUnitReference>
+			<type>evaluation</type>
+			<type>literary analysis</type>
+			<type>present tense</type>
+			<type>direct address, use of I or one</type>
+			<type>direct address, use of we</type>
+			<type>emphasis in typeface, punctuation</type>
+		</discourse>
+		
+		<discourse>
+			<textUnitReference>9</textUnitReference>
+			<type>narrator's negativity</type>
+			<type>direct address, use of we</type>
+			<type>present tense</type>
+			<type>quotation, persona writings fiction</type>
+		</discourse>
+		
+		<discourse>
+			<textUnitReference>10</textUnitReference>
+			<type>figureOrImage, light</type>
+			<type>narrator's positive orientation</type>
+			<type>present tense</type>
+			<type>rhetorical question</type>
+			<type>direct address, use of you</type>
+		</discourse>
+		
+		<discourse>
+			<textUnitReference>11</textUnitReference>
+			<type>literary analysis</type>
+			<type>periods or times compared</type>
+			<type>emphasis in typeface, punctuation</type>
+			<type>description of agent or identified set of agents</type>
+		</discourse>
+		
+		<discourse>
+			<textUnitReference>12</textUnitReference>
+			<type>present tense</type>
+			<type>idiom or cliche</type>
+			<type>present tense</type>
+			<type>direct address, use of we</type>
+			<type>literary analysis</type>
+			<type>evaluation</type>
+		</discourse>
+		
+		<discourse>
+			<textUnitReference>13</textUnitReference>
+			<type>present tense</type>
+			<type>literary analysis</type>
+			<type>emphasis in typeface, punctuation</type>
+			<type>rhetorical question</type>
+			<type>evaluation</type>
+		</discourse>
+		
+		<discourse>
+			<textUnitReference>14</textUnitReference>
+			<type>present tense</type>
+			<type>emphasis in typeface, punctuation</type>
+			<type>direct address, use of you</type>
+			<type>rhetorical question</type>
+			<type>evaluation</type>
+		</discourse>
+		
+		<discourse>
+			<textUnitReference>15</textUnitReference>
+			<type>quotation, persona writings fiction</type>
+			<type>emphasis in typeface, punctuation</type>
+			<type>present tense</type>
+			<type>rhetorical question</type>
+		</discourse>
+		
+		<discourse>
+			<textUnitReference>16</textUnitReference>
+			<type>present tense</type>
+			<type>quotation, persona writings fiction</type>
+			<type>direct address, use of we</type>
+			<type>narrator's positive orientation</type>
+			<type>figureOrImage, water</type>
+		</discourse>
+		
+		<discourse>
+			<textUnitReference>17</textUnitReference>
+			<type>present tense</type>
+			<type>emphasis in typeface, punctuation</type>
+			<type>quotation, persona writings fiction</type>
+			<type>direct address, use of we</type>
+			<type>periods or times compared</type>
+			<type>evidence questioned, persona's version</type>
+		</discourse>
+		
+		<discourse>
+			<textUnitReference>18</textUnitReference>
+			<type>present tense</type>
+			<type>narrator's positive orientation</type>
+			<type>periods or times compared</type>
+			<type>quotation, persona writings fiction</type>
+			<type>emphasis in typeface, punctuation</type>
+			<type>rhetorical question</type>
+			<type>literary analysis</type>
+			<type>evaluation</type>
+		</discourse>
+		
+		<discourse>
+			<textUnitReference>19</textUnitReference>
+			<type>present tense</type>
+			<type>direct address, use of we</type>
+		</discourse>
+		
+		<discourse>
+			<textUnitReference>20</textUnitReference>
+			<type>quotation, persona writings fiction</type>
+			<type>emphasis in typeface, punctuation</type>
+			<type>rhetorical question</type>
+			<type>literary analysis</type>
+			<type>evaluation</type>
+		</discourse>
+		
+		<discourse>
+			<textUnitReference>21</textUnitReference>
+			<type>quotation, persona writings fiction</type>
+			<type>emphasis in typeface, punctuation</type>
+			<type>figureOrImage, fairy or fairies</type>
+			<type>figureOrImage, animal</type>
+		</discourse>
+		
+		<discourse>
+			<textUnitReference>22</textUnitReference>
+			<type>direct address, use of we</type>
+			<type>present tense</type>
+			<type>rhetorical question</type>
+			<type>idiom or cliche</type>
+			<type>emphasis in typeface, punctuation</type>
+			<type>quotation, persona writings fiction</type>
+			<type>list or parataxis</type>
+			<type>literary analysis</type>
+		</discourse>
+		
+		<discourse>
+			<textUnitReference>23</textUnitReference>
+			<type>direct address, use of we</type>
+			<type>present tense</type>
+			<type>quotation, persona writings fiction</type>
+			<type>periods or times compared</type>
+			<type>emphasis in typeface, punctuation</type>
+			<type>allusion to male literary character</type>
+		</discourse>
+		
+		<discourse>
+			<textUnitReference>24</textUnitReference>
+			<type>present tense</type>
+			<type>narrator's negativity</type>
+			<type>figureOrImage, other</type>
+			<type>emphasis in typeface, punctuation</type>
+			<type>quotation, persona writings fiction</type>
+			<type>literary analysis</type>
+			<type>evaluation</type>
+		</discourse>
+		
+		<discourse>
+			<textUnitReference>25</textUnitReference>
+			<type>present tense</type>
+			<type>emphasis in typeface, punctuation</type>
+			<type>direct address, use of we</type>
+			<type>quotation, persona writings fiction</type>
+			<type>narrator's negativity</type>
+			<type>evaluation</type>
+			<type>literary analysis</type>
+		</discourse>
+		
+		<discourse>
+			<textUnitReference>26</textUnitReference>
+			<type>narrator's positive orientation</type>
+			<type>emphasis in typeface, punctuation</type>
+			<type>analogy to man, named</type>
+			<type>rhetorical question</type>
+			<type>direct address, use of I or one</type>
+			<type>present tense</type>
+			<type>quotation, persona writings fiction</type>
+			<type>figureOrImage, animal</type>
+		</discourse>
+		
+		<discourse>
+			<textUnitReference>27</textUnitReference>
+			<type>emphasis in typeface, punctuation</type>
+			<type>narrator's positive orientation</type>
+			<type>quotation, persona writings fiction</type>
+			<type>figureOrImage, flower</type>
+			<type>present tense</type>
+			<type>literary analysis</type>
+			<type>evaluation</type>
+		</discourse>
+		
+		<discourse>
+			<textUnitReference>28</textUnitReference>
+			<type>present tense</type>
+			<type>emphasis in typeface, punctuation</type>
+			<type>speculation, alternative outcomes, "if"</type>
+			<type>direct address, use of we</type>
+			<type>quotation, persona writings fiction</type>
+		</discourse>
+		
+		<discourse>
+			<textUnitReference>29</textUnitReference>
+			<type>present tense</type>
+			<type>figureOrImage, plant</type>
+			<type>figureOrImage, flower</type>
+		</discourse>
+		
+		<discourse>
+			<textUnitReference>30</textUnitReference>
+			<type>narrator's negativity</type>
+			<type>present tense</type>
+			<type>direct address, use of we</type>
+		</discourse>
+		
+		<discourse>
+			<textUnitReference>31</textUnitReference>
+			<type>narrator's positive orientation</type>
+			<type>present tense</type>
+			<type>direct address, use of we</type>
+			<type>figureOrImage, building</type>
+			<type>emphasis in typeface, punctuation</type>
+			<type>literary analysis</type>
+			<type>evaluation</type>
+		</discourse>
+		
+		<discourse>
+			<textUnitReference>32</textUnitReference>
+			<type>analogy to men, named</type>
+			<type>allusion literary, reference</type>
+			<type>present tense</type>
+			<type>direct address, use of you</type>
+			<type>direct address, use of we</type>
+			<type>quotation, unidentified</type>
+			<type>rhetorical question</type>
+			<type>literary analysis</type>
+			<type>example, explicit illustration of claim</type>
+			<type>evidence questioned, persona's version</type>
+		</discourse>
+		
+		<discourse>
+			<textUnitReference>33</textUnitReference>
+			<type>present tense</type>
+			<type>direct address, use of we</type>
+			<type>periods or times compared</type>
+			<type>evidence questioned, persona's version</type>
+		</discourse>
+		
+		<discourse>
+			<textUnitReference>34</textUnitReference>
+			<type>present tense</type>
+			<type>direct address, use of we</type>
+			<type>emphasis in typeface, punctuation</type>
+			<type>quotation, persona writings fiction</type>
+			<type>periods or times compared</type>
+			<type>evidence questioned, persona's version</type>
+		</discourse>
+		
+		<discourse>
+			<textUnitReference>35</textUnitReference>
+			<type>allusion literary, reference</type>
+			<type>present tense</type>
+			<type>periods or times compared</type>
+			<type>emphasis in typeface, punctuation</type>
+			<type>rhetorical question</type>
+			<type>literary analysis</type>
+			<type>evaluation</type>
+			<type>evidence questioned, persona's version</type>
+		<!-- note: Eliot's validity and accuracy of her stories are questioned by narrator -->
+			<type>example, explicit illustration of claim</type>
+			<type>narrator's research noted</type>
+			<type>metaphor, extended</type>
+		</discourse>
+		
+		<discourse>
+			<textUnitReference>36</textUnitReference>
+			<type>figureOrImage, building</type>
+			<type>direct address, use of we</type>
+			<type>present tense</type>
+			<type>evaluation</type>
+		</discourse>
+		
+		<discourse>
+			<textUnitReference>37</textUnitReference>
+			<type>quotation, persona writings fiction</type>
+			<type>emphasis in typeface, punctuation</type>
+		</discourse>
+		
+		<discourse>
+			<textUnitReference>38</textUnitReference>
+			<type>present tense</type>
+			<type>direct address, use of we</type>
+			<type>periods or times compared</type>
+			<type>narrator's negativity</type>
+		</discourse>
+		
+		<discourse>
+			<textUnitReference>39</textUnitReference>
+			<type>direct address, use of we</type>
+			<type>present tense</type>
+			<type>quotation, persona writings fiction</type>
+			<type>figureOrImage, flower</type>
+			<type>emphasis in typeface, punctuation</type>
+			<type>narrator's positive orientation</type>
+			<type>evidence questioned, persona's version</type>
+		</discourse>
+		
+		<discourse>
+			<textUnitReference>40</textUnitReference>
+			<type>present tense</type>
+			<type>direct address, use of we</type>
+			<type>emphasis in typeface, punctuation</type>
+			<type>iterative, repeating or persistent</type>
+			<type>periods or times compared</type>
+			<type>literary analysis</type>
+		</discourse>
+		
+		<discourse>
+			<textUnitReference>41</textUnitReference>
+			<type>analogy to man, named</type>
+			<type>present tense</type>
+			<type>direct address, use of we</type>
+			<type>narrator's positive orientation</type>
+			<type>rhetorical question</type>
+			<type>emphasis in typeface, punctuation</type>
+			<type>periods or times compared</type>
+			<type>example, explicit illustration of claim</type>
+		</discourse>
+		
+		<discourse>
+			<textUnitReference>42</textUnitReference>
+			<type>present tense</type>
+			<type>figureOrImage, other</type>
+			<type>allusion to historical man</type>
+			<type>emphasis in typeface, punctuation</type>
+			<type>speech, reported not quoted</type>
+			<type>example, explicit illustration of claim</type>
+			<type>literary analysis</type>
+			<type>evaluation</type>
+		</discourse>
+		
+		<discourse>
+			<textUnitReference>43</textUnitReference>
+			<type>present tense</type>
+			<type>emphasis in typeface, punctuation</type>
+			<type>direct address, use of we</type>
+			<type>literary analysis</type>
+			<type>evaluation</type>
+		</discourse>
+		
+		<discourse>
+			<textUnitReference>44</textUnitReference>
+			<type>present tense</type>
+			<type>quotation, persona writings fiction</type>
+			<type>literary analysis</type>
+		</discourse>
+		
+		<discourse>
+			<textUnitReference>45</textUnitReference>
+			<type>narrator's positive orientation</type>
+			<type>figureOrImage, other</type>
+			<type>present tense</type>
+			<type>literary analysis</type>
+		</discourse>
+		
+		<discourse>
+			<textUnitReference>46</textUnitReference>
+			<type>allusion literary, reference</type>
+			<type>literary analysis</type>
+			<type>present tense</type>
+			<type>emphasis in typeface, punctuation</type>
+			<type>quotation, persona writings fiction</type>
+		</discourse>
+		
+		<discourse>
+			<textUnitReference>47</textUnitReference>
+			<type>present tense</type>
+			<type>direct address, use of we</type>
+			<type>direct address, use of I or one</type>
+			<type>emphasis in typeface, punctuation</type>
+			<type>rhetorical question</type>
+			<type>quotation, persona writings fiction</type>
+			<type>figureOrImage, flower</type>
+			<type>literary analysis</type>
+		</discourse>
+		
+		<discourse>
+			<textUnitReference>48</textUnitReference>
+			<type>figureOrImage, other</type>
+			<type>analogy to man, named</type>
+			<type>direct address, use of we</type>
+			<type>present tense</type>
+			<type>narrator's negativity</type>
+			<type>emphasis in typeface, punctuation</type>
+			<type>literary analysis</type>
+			<type>evaluation</type>
+		</discourse>
+		
+		<discourse>
+			<textUnitReference>49</textUnitReference>
+			<type>present tense</type>
+			<type>allusion to historical man </type>
+			<type>direct address, use of we</type>
+			<type>quotation, persona writings fiction</type>
+			<type>emphasis in typeface, punctuation</type>
+			<type>figureOrImage, other</type>
+			<type>narrator's positive orientation</type>
+		</discourse>
+		
+		<discourse>
+			<textUnitReference>50</textUnitReference>
+			<type>direct address, use of we</type>
+			<type>present tense</type>
+			<type>figureOrImage, other</type>
+			<type>literary analysis</type>
+		</discourse>
+		
+		<discourse>
+			<textUnitReference>51</textUnitReference>
+			<type>present tense</type>
+			<type>narrator's negativity</type>
+			<type>literary analysis</type>
+			<type>evaluation</type>
+			<type>emphasis in typeface, punctuation</type>
+			<type>example, explicit illustration of claim</type>
+		</discourse>
+		
+		<discourse>
+			<textUnitReference>52</textUnitReference>
+			<type>present tense</type>
+			<type>rhetorical question</type>
+			<type>emphasis in typeface, punctuation</type>
+			<type>literary analysis</type>
+			<type>evaluation</type>
+			<type>narrator's negativity</type>
+			<type>quotation, persona writings fiction</type>
+			<type>evidence questioned, persona's version</type>
+		</discourse>
+		
+		<discourse>
+			<textUnitReference>53</textUnitReference>
+			<type>present tense</type>
+			<type>direct address, use of we</type>
+			<type>emphasis in typeface, punctuation</type>
+			<type>literary analysis</type>
+			<type>evaluation</type>
+		</discourse>
+		
+		<discourse>
+			<textUnitReference>54</textUnitReference>
+			<type>direct address, use of we</type>
+			<type>present tense</type>
+			<type>narrator's positive orientation</type>
+			<type>emphasis in typeface, punctuation</type>
+			<type>quotation, persona writings fiction</type>
+		</discourse>
+		
+		<discourse>
+			<textUnitReference>55</textUnitReference>
+			<type>quotation, persona writings fiction</type>
+		</discourse>
+		
+		<discourse>
+			<textUnitReference>56</textUnitReference>
+			<type>present tense</type>
+			<type>quotation, persona writings fiction</type>
+			<type>emphasis in typeface, punctuation</type>
+			<type>evaluation</type>
+		</discourse>
+		
+		<discourse>
+			<textUnitReference>57</textUnitReference>
+			<type>present tense</type>
+			<type>emphasis in typeface, punctuation</type>
+			<type>direct address, use of we</type>
+			<type>narrator's positive orientation</type>
+			<type>idiom or cliche</type>
+			<type>literary analysis</type>
+		</discourse>
+		
+		<discourse>
+			<textUnitReference>58</textUnitReference>
+			<type>direct address, use of we</type>
+			<type>present tense</type>
+			<type>emphasis in typeface, punctuation</type>
+			<type>quotation, persona writings fiction</type>
+			<type>figureOrImage, rock</type>
+			<type>metaphor, extended</type>
+			<type>list or parataxis</type>
+		</discourse>
+		
+		<discourse>
+			<textUnitReference>59</textUnitReference>
+			<type>direct address, use of we</type>
+			<type>present tense</type>
+			<type>emphasis in typeface, punctuation</type>
+			<type>figureOrImage, water</type>
+			<type>figureOrImage, queen</type>
+			<type>analogy to men, named</type>
+		</discourse>
+		
+		<discourse>
+			<textUnitReference>60</textUnitReference>
+			<type>speculation, alternative outcomes, "if"</type>
+			<type>expansion, more discourse than life time</type>
+			<type>evaluation</type>
+		</discourse>
+		
+	</analysis>
+</BESS>

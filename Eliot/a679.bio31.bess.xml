@@ -1,0 +1,363 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../../../xml/schema/BESS.rng" type="xml"?>
+
+<BESS>
+	<textAnalyzed>
+		<collectionID>a679</collectionID>
+		<biographyID>31</biographyID>
+		<URI>a679.bio31.bess.xml</URI>
+		<author>Eric S. Robertson</author>
+		<title>Emily Bronte-George Eliot-Menella Bute Smedley.</title>
+		<personaName>George Eliot</personaName>
+	</textAnalyzed>
+	
+	<analysis>
+		<personaType>Writer</personaType>
+		
+		<!-- Begin Stage of Life -->
+		<stageOfLife>
+			<textUnitRangeReference>
+				<start>1</start>
+				<end>2</end>
+			</textUnitRangeReference>
+			<name>after</name>
+		</stageOfLife>
+		
+		<stageOfLife>
+			<textUnitReference>3</textUnitReference>
+			<name>beginning</name>
+		</stageOfLife>
+		
+		<stageOfLife>
+			<textUnitRangeReference>
+				<start>4</start>
+				<end>6</end>
+				</textUnitRangeReference>
+			<name>middle</name>
+		</stageOfLife>
+		
+		<stageOfLife>
+			<textUnitReference>7</textUnitReference>
+			<name>end</name>
+		</stageOfLife>
+		
+		<!-- Begin Events -->
+		<event>
+			<textUnitReference>3</textUnitReference>
+			<type>birth</type>
+			<locationStructure>farm</locationStructure>
+			<dateSingle>22nd of November, 1819</dateSingle>
+		</event>
+		
+		<event>
+			<textUnitReference>3</textUnitReference>
+			<type>education, attending day school</type>
+			<type>retirement from job or position</type>
+			<agentType>father, unnamed</agentType>
+		</event>
+		
+		<event>
+			<textUnitReference>3</textUnitReference>
+			<type>conversion</type>
+			<type>consultation, advice</type>
+			<type>friendship with male</type>
+			<type>friendship with female</type>
+			<agentType>friend</agentType>
+		</event>
+		
+		<event>
+			<textUnitReference>4</textUnitReference>
+			<type>work accomplished, writing</type>
+		</event>
+		
+		<!--note: translation of literary works -->
+		
+		<event>
+			<textUnitReference>5</textUnitReference>
+			<type>travel for calling or work</type>
+			<locationSetting>city</locationSetting>
+			<dateSingle>1851</dateSingle>
+		</event>
+		
+		<event>
+			<textUnitReference>5</textUnitReference>
+			<type>love affair</type>
+			<type>travel, short distance or frequent</type>
+			<type>writing novel</type>
+			<agentType>lover, male, named</agentType>
+		</event>
+		
+		<event>
+			<textUnitReference>5</textUnitReference>
+			<type>dinner, invited event</type>
+			<agentType>lover, male, unnamed</agentType>
+		</event>
+		
+		<event>
+		<textUnitReference>5</textUnitReference>
+		<type>writing novel</type>
+		<type>publication</type>
+		<type>hiding persona</type>
+		<type>renaming of persona, vocational name</type>
+		<agentType>lover, male, unnamed</agentType>
+		<agentType>manager or agent in profession</agentType>
+		</event>
+		
+		<event>
+			<textUnitReference>5</textUnitReference>
+			<type>writing other</type>
+			<type>exposure of identity or past</type>
+			<agentType>manager or agent in profession</agentType>
+			<agentType>male professional, named</agentType>
+			<!--note: Discovery of persona's identity by publisher and Dickens -->
+		</event>
+		
+		<event>
+			<textUnitReference>6</textUnitReference>
+			<type>writing novel</type>
+			<type>publication</type>
+			<dateSingle>1858</dateSingle>
+			<dateSingle>1859</dateSingle>
+			<dateSingle>1860</dateSingle>
+			<dateSingle>1861</dateSingle>
+			<dateSingle>1863</dateSingle>
+			<dateSingle>1866</dateSingle>
+			<dateSingle>1871-72</dateSingle>
+			<dateSingle>1876</dateSingle>
+			<dateSingle>1879</dateSingle>
+		</event>
+		
+		<event>
+			<textUnitReference>7</textUnitReference>
+			<type>death, persona's</type>
+			<dateSingle>Decemember 22nd, 1880</dateSingle>
+		</event>
+		
+		<event>
+			<textUnitReference>7</textUnitReference>
+			<type>publication</type>
+			<dateSingle>1868</dateSingle>
+			<dateSingle>1870</dateSingle>
+		</event>
+		
+		<event>
+			<textUnitReference>7</textUnitReference>
+		    <type>death or loss of spouse</type>
+			<dateSingle>1878</dateSingle>
+		</event>
+		
+		<event>
+			<textUnitReference>7</textUnitReference>
+			<type>marriage, voluntary</type>
+			<agentType>husband</agentType>
+		</event>
+		
+		<event>
+			<textUnitReference>8</textUnitReference>
+			<type>writing poetry</type>
+			<type>travel, international</type>
+			<locationSetting>Spain</locationSetting>
+			<dateSingle standardDate="1867">1867</dateSingle>
+		</event>
+		
+		<!-- Begin Persona Description -->
+		<personaDescription>
+			<textUnitReference>2</textUnitReference>
+			<type>good</type>
+			<type>sympathetic</type>
+			<type>noble in character</type>
+		</personaDescription>
+		
+		<personaDescription>
+			<textUnitReference>3</textUnitReference>
+			<type>plain or not beautiful</type>
+			<type>obscure</type>
+		</personaDescription>
+		
+		<personaDescription>
+			<textUnitReference>4</textUnitReference>
+			<type>young no longer</type>
+		</personaDescription>
+		
+		<personaDescription>
+			<textUnitReference>6</textUnitReference>
+			<type>intelligent</type>
+			<type>clever</type>
+			<type>humorous, witty</type>
+			<type>sympathetic</type>
+			<type>observant</type>
+			<type>genius or talented</type>
+		</personaDescription>
+		
+		<personaDescription>
+			<textUnitReference>7</textUnitReference>
+			<type>young no longer</type>
+		</personaDescription>
+		
+		<personaDescription>
+			<textUnitReference>11</textUnitReference>
+			<type>observant</type>
+		</personaDescription>
+		
+		<personaDescription>
+			<textUnitReference>12</textUnitReference>
+			<type>dignified</type>
+			<type>young no longer</type>
+		</personaDescription>
+		
+		<personaDescription>
+			<textUnitReference>13</textUnitReference>
+			<type>sympathetic</type>
+			<type>musical</type>
+			<type>sad</type>
+		</personaDescription>
+		
+		<!-- Begin Topos -->
+		<topos>
+			<textUnitReference>2</textUnitReference>
+			<type>fame, posthumous</type>
+			<type>inspiration, literary or artistic</type>
+			<type>influence, emotional effect on peers</type>
+		</topos>
+		
+		<topos>
+		<textUnitReference>3</textUnitReference>
+			<type>fame in lifetime</type>
+			<type>attachment or caring between the people and persona</type>
+			<type>conversion</type>
+		</topos>
+		
+		<topos>
+			<textUnitReference>4</textUnitReference>
+			<type>doubt of occupation or vocation</type>
+		</topos>
+		
+		<topos>
+			<textUnitReference>5</textUnitReference>
+			<type>talent discovered in new activity</type>
+			<type>impersonation</type>
+			<type>renaming</type>
+			<type>gender as persona's encounter with others</type>
+			<!-- note: gender impersonation, 'George Eliot' -->
+		</topos>
+		
+		<topos>
+			<textUnitReference>7</textUnitReference>
+			<type>recognition or tribute</type>
+		</topos>
+		
+		<topos>
+			<textUnitReference>10</textUnitReference>
+			<type>talent in practiced activity</type>
+		</topos>
+		
+		<topos>
+			<textUnitReference>12</textUnitReference>
+			<type>inspiration, literary or artistic</type>
+		</topos>
+		
+		<topos>
+			<textUnitReference>13</textUnitReference>
+			<type>inspiration, literary or artistic</type>
+		</topos>
+		<!-- Begin Discourse -->
+		<discourse>
+			<textUnitReference>1</textUnitReference>
+			<type>quotation, persona writings poetry</type>
+			<type>literary analysis</type>
+			<type>focalization, attributing thoughts</type>
+		</discourse>
+		
+		<discourse>
+			<textUnitReference>2</textUnitReference>
+			<type>direct address, use of we</type>
+			<type>narrator's positive orientation</type>
+			<type>personification, concept or value</type>
+			<type>quotation, agent's writing about persona</type>
+			<type>evaluation</type>
+			<type>allusion to female, persona's contemporary</type>
+		</discourse>
+		
+		<discourse>
+			<textUnitReference>3</textUnitReference>
+			<type>metaphor, extended</type>
+			<type>focalization, attributing motives</type>
+			<type>figureOrImage, ocean or sea</type>
+		</discourse>
+		
+		<discourse>
+			<textUnitReference>4</textUnitReference>
+			<type>quotation, unidentified</type>
+			<type>focalization, attributing motives</type>
+		</discourse>
+		
+		<discourse>
+			<textUnitReference>5</textUnitReference>
+			<type>OneDay occasion stated</type>
+			<type>analepsis, shift of scene to previous time</type>
+			<type>quotation, persona speech, unique</type>
+			<type>quotation, agent's letter to persona</type>
+			<type>allusion to male, persona's contemporary</type>
+		</discourse>
+		
+		<discourse>
+			<textUnitReference>6</textUnitReference>
+			<type>narrator's positive orientation</type>
+			<type>focalization, attributing motives</type>
+			<type>list or parataxis</type>
+			<type>description of a kind of people or society (not individual)</type>
+			<type>evaluation</type>
+			<type>analogy to men, named</type>
+		</discourse>
+		
+		<discourse>
+			<textUnitReference>7</textUnitReference>
+			<type>versions of persona's life compared</type>
+		</discourse>
+		
+		<discourse>
+			<textUnitReference>8</textUnitReference>
+			<type>literary analysis</type>
+			<type>paraphrase of writing</type>
+		</discourse>
+		
+		<discourse>
+			<textUnitReference>9</textUnitReference>
+			<type>evaluation</type>
+			<type>present tense</type>
+			<type>quotation, persona writings poetry</type>
+		</discourse>
+		
+		<discourse>
+			<textUnitReference>10</textUnitReference>
+			<type>evaluation</type>
+			<type>present tense</type>
+			<type>direct address, use of we</type>
+		</discourse>
+		
+		<discourse>
+			<textUnitReference>11</textUnitReference>
+			<type>evaluation</type>
+			<type>present tense</type>
+			<type>childhood anecdote, character predicted</type>
+			<type>quotation, persona writings poetry</type>
+		</discourse>
+		
+		<discourse>
+			<textUnitReference>12</textUnitReference>
+			<type>quotation, persona writings poetry</type>
+			<type>literary analysis</type>
+		</discourse>
+		
+		<discourse>
+			<textUnitReference>13</textUnitReference>
+			<type>quotation, persona writings poetry</type>
+			<type>focalization, attributing feelings</type>
+			<type>literary analysis</type>
+			<type>evaluation</type>
+			<type>present tense</type>
+			<type>figureOrImage, ocean or sea</type>
+		</discourse>
+	</analysis>
+</BESS>
+

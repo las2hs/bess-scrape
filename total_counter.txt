@@ -1,0 +1,4 @@
+Event count: 28
+Discourse count: 104
+Persona description count: 28
+Topos count: 33

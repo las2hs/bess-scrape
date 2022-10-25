@@ -1,0 +1,105 @@
+renaming of persona, vocational name:::1
+birth:::1
+farming:::1
+business, managing:::1
+childhood or upbringing:::3
+music playing, instrumental:::1
+music, effect, response to:::2
+calling or vocation choice, considered:::1
+wedding:::3
+death or loss of mother:::1
+service to family, housekeeping:::1
+work accomplished, writing:::2
+writing other:::1
+writing novel:::1
+publication:::3
+travel due to illness:::1
+writing diary:::2
+illness, persona's:::1
+death, persona's:::1
+present tense:::15
+direct address, use of we:::9
+expansion, more discourse than life time:::1
+speculation, possible motives or causes:::3
+periods or times compared:::2
+description of environment:::2
+emphasis in typeface, punctuation:::12
+personification, nation:::1
+direct address, use of I or one:::1
+allusion to previous biographer:::1
+quotation, persona writings fiction:::2
+comparison of environments:::1
+quotation, unidentified:::4
+rhetorical question:::3
+quotation, agent's speech, unique:::2
+speech, reported not quoted:::1
+quotation, persona speech, unique:::1
+summary, more, much or all life in less prose:::5
+literary analysis:::3
+precepts:::2
+evidence missing, gap in record:::1
+figureOrImage, other:::4
+idiom or cliche:::1
+childhood anecdote, character predicted:::1
+time measured as persona's age:::1
+figureOrImage, animal:::1
+figureOrImage, water:::1
+evaluation:::2
+narrator's negativity:::2
+focalization, attributing motives:::1
+direct address, use of you:::1
+focalization, attributing feelings:::1
+allusion to historical man:::3
+allusion literary, reference:::1
+foreign phrase:::2
+focalization, attributing perception:::1
+quotation, group, often said:::1
+figureOrImage, music:::1
+quotation, persona writings about self:::2
+speculation, alternative outcomes, "if":::1
+figureOrImage, ghost or spirit:::1
+metaphor, extended:::1
+free indirect:::1
+narrator's research noted:::1
+eccentric:::1
+young:::1
+intelligent:::2
+great:::2
+dedicated or devoted:::1
+genius or talented:::4
+artistic:::1
+self-promoting or showy:::1
+childish:::1
+ambitious:::1
+humorous, unintentionally:::1
+lonely:::1
+faith, doubting or lacking:::1
+inexperienced:::1
+naive:::1
+superior to men:::2
+superior to other women:::2
+self-doubting, diffident:::1
+honest:::1
+sickly:::1
+learned, languages:::1
+fame, posthumous:::3
+association with great man or men:::1
+national character, narrator's own country:::1
+nature, response to:::1
+fame in lifetime:::5
+family, class or status:::1
+family, occupation of parents or ancestors:::1
+attachment, family bonding or not:::1
+family, genetic heritage of persona:::2
+character as destiny, career foretold:::1
+genius:::2
+temptation of pleasure or love:::1
+despair:::1
+talent wasted in limited position:::2
+gender restricts activity:::1
+family restricts vocation:::2
+captivity:::1
+romance:::1
+talent discovered in new activity:::1
+gender as persona's encounter with others:::2
+influence, emotional effect on peers:::2

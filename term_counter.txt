@@ -1,105 +1,67 @@
-renaming of persona, vocational name:::1
+war, international:::1
+public speaking, nonreligious:::4
+debate:::1
+meeting, public:::1
+travel, international:::2
 birth:::1
-farming:::1
-business, managing:::1
-childhood or upbringing:::3
-music playing, instrumental:::1
-music, effect, response to:::2
-calling or vocation choice, considered:::1
-wedding:::3
-death or loss of mother:::1
-service to family, housekeeping:::1
-work accomplished, writing:::2
-writing other:::1
-writing novel:::1
-publication:::3
-travel due to illness:::1
-writing diary:::2
-illness, persona's:::1
-death, persona's:::1
-present tense:::15
-direct address, use of we:::9
-expansion, more discourse than life time:::1
-speculation, possible motives or causes:::3
-periods or times compared:::2
-description of environment:::2
-emphasis in typeface, punctuation:::12
-personification, nation:::1
-direct address, use of I or one:::1
-allusion to previous biographer:::1
-quotation, persona writings fiction:::2
-comparison of environments:::1
-quotation, unidentified:::4
-rhetorical question:::3
+education, attending boarding school:::1
+teaching adults:::1
+teaching children:::1
+travel for calling or work:::1
+learning language:::1
+return to previous home:::1
+assignment or new responsibility:::3
+working as paid occupation:::1
+quitting or resigning job:::1
+marriage, voluntary:::1
+writing essay or educational text:::1
+festival or celebration:::1
+election:::1
+recognition, written praise:::1
+treaty, peace, or alliance:::1
+quitting or resigning group:::1
+recognition, event in honor:::2
+recognition, spoken praise:::1
+hosting by agents:::1
+personification, one sex or gender:::1
+description of a kind of people or society (not individual):::1
+prospective or foreshadowing:::1
 quotation, agent's speech, unique:::2
-speech, reported not quoted:::1
-quotation, persona speech, unique:::1
-summary, more, much or all life in less prose:::5
-literary analysis:::3
-precepts:::2
-evidence missing, gap in record:::1
-figureOrImage, other:::4
-idiom or cliche:::1
-childhood anecdote, character predicted:::1
-time measured as persona's age:::1
-figureOrImage, animal:::1
-figureOrImage, water:::1
-evaluation:::2
-narrator's negativity:::2
-focalization, attributing motives:::1
-direct address, use of you:::1
+quotation, documentary source, persona's lifetime:::1
+quotation, agent's writing about persona:::1
+allusion to historical woman:::1
 focalization, attributing feelings:::1
-allusion to historical man:::3
-allusion literary, reference:::1
-foreign phrase:::2
-focalization, attributing perception:::1
-quotation, group, often said:::1
-figureOrImage, music:::1
-quotation, persona writings about self:::2
-speculation, alternative outcomes, "if":::1
+narrating, dramatized:::1
 figureOrImage, ghost or spirit:::1
-metaphor, extended:::1
-free indirect:::1
-narrator's research noted:::1
-eccentric:::1
-young:::1
-intelligent:::2
-great:::2
-dedicated or devoted:::1
-genius or talented:::4
-artistic:::1
-self-promoting or showy:::1
-childish:::1
-ambitious:::1
-humorous, unintentionally:::1
-lonely:::1
-faith, doubting or lacking:::1
-inexperienced:::1
-naive:::1
+evaluation:::1
+narrator's positive orientation:::1
+famous:::1
+learned, languages:::1
 superior to men:::2
 superior to other women:::2
-self-doubting, diffident:::1
-honest:::1
-sickly:::1
-learned, languages:::1
-fame, posthumous:::3
-association with great man or men:::1
-national character, narrator's own country:::1
-nature, response to:::1
-fame in lifetime:::5
-family, class or status:::1
-family, occupation of parents or ancestors:::1
-attachment, family bonding or not:::1
-family, genetic heritage of persona:::2
-character as destiny, career foretold:::1
-genius:::2
-temptation of pleasure or love:::1
-despair:::1
-talent wasted in limited position:::2
-gender restricts activity:::1
-family restricts vocation:::2
-captivity:::1
-romance:::1
-talent discovered in new activity:::1
-gender as persona's encounter with others:::2
-influence, emotional effect on peers:::2
+faith, confident in:::1
+dignified:::1
+intelligent:::1
+commanding, able to lead:::1
+skillful:::1
+energetic or untiring:::1
+charming:::1
+sad:::1
+brave:::1
+hopeful:::1
+gender as narrator's generalization:::1
+race as narrator's generalization:::1
+patriotism:::1
+civil rights:::2
+influence, changing peers' action:::1
+faith:::1
+claim to higher status:::1
+gender as persona's encounter with others:::1
+race re persona:::1
+fame in lifetime:::1
+race as persona's encounter with others:::2
+triumph as fulfilled goal or ambition:::1
+triumph as overcoming adversity or opposition:::1
+work as social service:::1
+influence, changing behavior of superiors:::1
+influence, emotional effect on peers:::1

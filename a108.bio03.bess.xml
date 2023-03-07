@@ -1,0 +1,452 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../../../xml/schema/BESS.rng" type="xml"?>
+
+<BESS>
+	<textAnalyzed>
+		<collectionID>a108</collectionID>
+		<biographyID>03</biographyID>
+		<URI>a108.bio03.bess.xml</URI>
+		<author>Benjamin Griffith Brawley</author>
+		<title>Nora Gordon</title>
+		<personaName>Nora A. Gordon</personaName>
+	</textAnalyzed>
+	
+	<analysis>
+		<personaType>Learning</personaType>
+		
+		<!-- Begin Stage of Life -->
+		<stageOfLife>
+			<textUnitReference>2</textUnitReference>
+			<name>culmination</name>
+		</stageOfLife>
+		
+		<stageOfLife>
+			<textUnitRangeReference>
+				<start>3</start>
+				<end>4</end>
+			</textUnitRangeReference>
+			<name>beginning</name>
+		</stageOfLife>
+		
+		<stageOfLife>
+			<textUnitRangeReference>
+				<start>5</start>
+				<end>9</end>
+			</textUnitRangeReference>
+			<name>middle</name>
+		</stageOfLife>
+		
+		<stageOfLife>
+			<textUnitReference>9</textUnitReference>
+			<name>end</name>
+		</stageOfLife>
+		
+		<stageOfLife>
+			<textUnitReference>10</textUnitReference>
+			<name>after</name>
+		</stageOfLife>
+		
+		<!-- Begin Events -->
+		<event>
+			<textUnitReference>2</textUnitReference>
+			<type>mission, religious, foreign</type>
+		</event>
+		
+		<event>
+			<textUnitReference>2</textUnitReference>
+			<type>death, persona's</type>
+		</event>
+		
+		<event>
+			<textUnitReference>3</textUnitReference>
+			<type>birth</type>
+			<dateSingle standardDate="1866-08-25">August 25, 1866</dateSingle>
+		</event>
+		
+		<event>
+			<textUnitReference>3</textUnitReference>
+			<type>education, attending day school</type>
+			<type>education, attending boarding school</type>
+			<dateSingle standardDate="1882">1882</dateSingle>
+		</event>
+		
+		<event>
+			<textUnitReference>3</textUnitReference>
+			<type>conversion</type>
+			<type>research, scholarly inquiry</type>
+			<type>teaching children</type>
+			<type>public speaking, nonreligious</type>
+			<type>political movement, temperance</type>
+			<type>praying</type>
+		</event>
+		
+		<event>
+			<textUnitReference>4</textUnitReference>
+			<type>education, higher</type>
+			<dateSingle standardDate="1885">1885</dateSingle>
+			<dateSingle standardDate="1886">1886</dateSingle>
+			<dateSingle standardDate="1888">1888</dateSingle>
+		</event>
+		
+		<event>
+			<textUnitReference>4</textUnitReference>
+			<type> writing other</type>
+		</event>
+		
+		<event>
+			<textUnitReference>5</textUnitReference>
+			<type>assignment or new responsibility</type>
+			<dateSingle standardDate="1888">1888</dateSingle>
+		</event>
+		<event>
+			<textUnitReference>5</textUnitReference>
+			<type>quitting or resigning job</type>
+			<type>receiving letter or message</type>
+			<type>assignment or new responsibility</type>
+			<dateSingle standardDate="1889-01">January, 1889</dateSingle>
+		</event>
+		<event>
+			<textUnitReference>5</textUnitReference>
+			<type>religious rite</type>
+			<type> meeting, public</type>
+			<locationStructure>church</locationStructure>
+			<dateSingle standardDate="1889-02-17">February 17</dateSingle>
+		</event>
+		<event>
+			<textUnitReference>5</textUnitReference>
+			<type>religious rite</type>
+			<dateSingle standardDate="1889-03-06">March 6</dateSingle>
+		</event>
+		<event>
+			<textUnitReference>5</textUnitReference>
+			<type>departure</type>
+			<type>sailing</type>
+			<locationStructure>boat</locationStructure>
+			<dateSingle standardDate="1889-03-16">March 16, 1889</dateSingle>
+		</event>
+		
+		<event>
+			<textUnitReference>6</textUnitReference>
+			<type>arrival</type>
+			<type>education, higher</type>
+			<type>writing diary</type>
+			<locationSetting> England, as traveler or immigrant</locationSetting>
+		</event>
+		
+		<event>
+			<textUnitReference>7</textUnitReference>	
+			<type>mission, religious, foreign</type>
+			<type>writing letter</type>
+			<type>gift giving</type>
+			<locationSetting>Africa</locationSetting>
+		</event>
+		
+		<event>
+			<textUnitReference>7</textUnitReference>
+			<type>argument, person-to-person</type>
+			<type>teaching children</type>
+			<type>teaching, religious</type>
+			<type>religious rite</type>
+			<type>praying</type>
+		</event>
+		
+		<event>
+			<textUnitReference>7</textUnitReference>
+			<type> violence between two or more others</type>
+		</event>
+		
+		<event>
+			<textUnitReference>8</textUnitReference>
+			<type>travel due to illness</type>
+			<type>arrival</type>
+			<agentType>female coworker, named</agentType>
+			<dateSingle standardDate="1891">1891</dateSingle>
+		</event>
+		
+		<event>
+			<textUnitReference>8</textUnitReference>
+			<type>departure</type>
+			<type>move to new city, town, or village</type>
+			<type>assignment or new responsibility</type>
+			<type>writing letter</type>
+			<dateSingle standardDate="1891">a little later in 1891</dateSingle>
+		</event>
+		
+		<event>
+			<textUnitReference>9</textUnitReference>
+			<type>mission, religious, foreign</type>
+			<type>departure</type>
+			<type>return to previous home</type>
+			<type>recovery from illness</type>
+			<dateSingle standardDate="1893">1893</dateSingle>
+		</event>
+		
+		<event>
+			<textUnitReference>9</textUnitReference>
+			<type>marriage, voluntary</type>
+			<dateSingle standardDate="1895">1895</dateSingle>
+		</event>
+		<event>
+			<textUnitReference>9</textUnitReference>
+			<type>sailing</type>
+			<type>mission, religious, foreign</type>
+			<type>arrival</type>
+			<locationSetting>Africa</locationSetting>
+		</event>
+		<event>
+			<textUnitReference>9</textUnitReference>
+			<type>fire</type>
+			<type>crime, other</type>
+			<type>war, civil</type>
+			<type>mission, religious, foreign</type>
+			<type>controversy of religious practice or affiliation</type>
+		</event>
+		<event>
+			<textUnitReference>9</textUnitReference>
+			<type>death or loss of child</type>
+			<type>travel, international</type>
+			<type>move to new country</type>
+			<type>return to previous home</type>
+			<type>death, persona's</type>
+			<dateSingle standardDate="1901-01-26">January 26, 1901</dateSingle>
+		</event>
+		
+		<event>
+			<textUnitReference>10</textUnitReference>
+			<type>illness, nonfamily individual</type>
+			<type>mission, religious, foreign</type>
+			<agentType> female peer, historical</agentType>
+		</event>
+		
+		<event>
+			<textUnitReference>10</textUnitReference>
+			<type>mission, religious, foreign</type>
+			<type> marriage, voluntary</type>
+			<type>death, nonfamily, woman</type>
+			<agentType> female peer, historical</agentType>
+		</event>
+		
+		<event>
+			<textUnitReference>10</textUnitReference>
+			<type> mission, religious, foreign</type>
+			<agentType> female peer, historical</agentType>
+		</event>
+		
+		<event>
+			<textUnitReference>10</textUnitReference>
+			<type> travel, international</type>
+			<agentType> female group</agentType>
+		</event>
+		
+		<event>
+			<textUnitReference>12</textUnitReference>
+			<type>travel, government assignment</type>
+			<agentType>male peer, historical</agentType>
+		</event>
+		
+		<event>
+			<textUnitReference>12</textUnitReference>
+			<type>meeting of committee</type>
+			<dateSingle standardDate="1884">1884</dateSingle>
+			<locationSetting>Germany</locationSetting>
+			<locationSetting>city</locationSetting>
+		</event>
+		<event>
+			<textUnitReference>12</textUnitReference>
+			<type>war, international</type>
+			<type>conversion</type>
+			<type>controversy of religious practice or affiliation</type>
+		</event>
+		
+		
+		<!-- Begin Persona Description -->
+		<personaDescription>
+			<textUnitReference>1</textUnitReference>
+			<type>young</type>
+		</personaDescription>
+		
+		<personaDescription>
+			<textUnitReference>2</textUnitReference>
+			<type>faith, confident in</type>
+			<type>religious in practice, observant</type>
+		</personaDescription>
+		
+		<personaDescription>
+			<textUnitReference>3</textUnitReference>
+			<type>happy</type>
+			<type>kind</type>
+			<type>sympathetic</type>
+		</personaDescription>
+		
+		<personaDescription>
+			<textUnitReference>4</textUnitReference>
+			<type>ambitious</type>
+		</personaDescription>
+		
+		<personaDescription>
+			<textUnitReference>9</textUnitReference>
+			<type>sickly</type>
+			<type>dedicated or devoted</type>
+		</personaDescription>
+		
+		<!-- Begin Topos -->
+		<topos>
+			<textUnitReference>1</textUnitReference>
+			<type>faith</type>
+			<type>calling or vocation</type>
+			<type>conversion</type>
+		</topos>
+		
+		<topos>
+			<textUnitReference>2</textUnitReference>
+			<type>conversion</type>
+			<type>race as narrator's generalization</type>
+			<type>exoticism</type>
+			<type>fame, posthumous</type>
+			<type>faith</type>
+		</topos>
+		
+		<topos>
+			<textUnitReference>3</textUnitReference>
+			<type>influence, converting others to faith</type>
+			<type>faith</type>
+		</topos>
+		
+		<topos>
+			<textUnitReference>4</textUnitReference>
+			<type>gender as persona's encounter with others</type>
+			<type>faith</type>
+			<type>service to Jesus</type>
+			<type>calling or vocation</type>
+		</topos>
+		
+		<topos>
+			<textUnitReference>5</textUnitReference>
+			<type>faith</type>
+		</topos>
+		
+		<topos>
+			<textUnitReference>6</textUnitReference>
+			<type>patriotism</type>
+			<type>national character, persona's birth country</type>
+			<type>lesson, learning by experience</type>
+		</topos>
+		
+		<topos>
+			<textUnitReference>7</textUnitReference>
+			<type>adversity</type>
+			<type>debauchery</type>
+			<type>conversion</type>
+			<type>influence, converting others to faith</type>
+			<note>
+				<p>I'm not sure what debauchery might be referring to.</p>
+			</note>
+		</topos>
+		
+		<topos>
+			<textUnitReference>10</textUnitReference>
+			<type> calling or vocation</type>
+		</topos>
+		
+		<topos>
+			<textUnitReference>9</textUnitReference>
+			<type> religion, prejudice or hostility against Protestants</type>
+		</topos>
+		
+		<topos>
+			<textUnitReference>12</textUnitReference>
+			<type>Empire</type>
+			<type>exoticism</type>
+			<type>calling or vocation</type>
+			<type>attachment or caring between nations or peoples</type>
+			<type>national character of other countries visited, adopted</type>
+		</topos>
+		
+		
+		<!-- Begin Discourse -->
+		<discourse>
+			<textUnitReference>1</textUnitReference>
+			<type> evaluation</type>
+		</discourse>
+		
+		<discourse>
+			<textUnitReference>2</textUnitReference>
+			<type>prospective or foreshadowing</type>
+		</discourse>
+		
+		<discourse>
+			<textUnitReference>3</textUnitReference>
+			<type> quotation, persona speech, often said</type>
+			<type>quotation, persona writings about self</type>
+			<type>speech, reported not quoted</type>
+		</discourse>
+		
+		<discourse>
+			<textUnitReference>4</textUnitReference>
+			<type>quotation, persona speech, unique</type>
+			<type>figureOrImage, light</type>
+			<type> figureOrImage, home or shelter</type>
+			<type>precepts</type>
+		</discourse>
+		
+		<discourse>
+			<textUnitReference>5</textUnitReference>
+			<type>focalization, attributing motives</type>
+			<type>summary, more, much or all life in less prose</type>
+		</discourse>
+		
+		<discourse>
+			<textUnitReference>6</textUnitReference>
+			<type>quotation, persona writings about self</type>
+		</discourse>
+		
+		<discourse>
+			<textUnitReference>7</textUnitReference>
+			<type>quotation, persona speech, unique</type>
+			<type>quotation, agent's speech, unique</type>
+		</discourse>
+		
+		<discourse>
+			<textUnitReference>8</textUnitReference>
+			<type>description of environment</type>
+			<type>quotation, persona letters</type>
+		</discourse>
+		
+		<discourse>
+			<textUnitReference>9</textUnitReference>
+			<type>focalization, attributing thoughts</type>
+			<type>prospective or foreshadowing</type>
+			<type>description of environment</type>
+			<type>figureOrImage, dark</type>
+			<type>figureOrImage, heart</type>
+			<type>metaphor, extended</type>
+			<type>euphemism</type>
+			<type>time measured as persona's age</type>
+			<type>rhetorical question</type>
+		</discourse>
+		
+		<discourse>
+			<textUnitReference>10</textUnitReference>
+			<type>figureOrImage, ghost or spirit</type>
+			<type>evaluation</type>
+			<type> speculation, alternative outcomes, &quot;if&quot;</type>
+		</discourse>
+		
+		<discourse>
+			<textUnitReference>12</textUnitReference>
+			<type>analepsis, shift of scene to previous time</type>
+			<type>historiography, narration of historical events</type>
+			<type>present tense</type>
+			<type>direct address, use of we</type>
+			<type>expansion, more discourse than life time</type>
+			<type>personification, nation</type>
+			<type>metaphor, extended</type>
+			<type>quotation, biblical</type>
+			<type>quotation or phrase or word in modern language</type>
+			<type>description of a kind of people or society (not individual)</type>
+		</discourse>
+		
+		
+	</analysis>
+</BESS>
+

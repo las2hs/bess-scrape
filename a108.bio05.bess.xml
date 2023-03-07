@@ -1,0 +1,329 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../../../xml/schema/BESS.rng" type="xml"?>
+
+<BESS>
+    <textAnalyzed>
+        <collectionID>a108</collectionID>
+        <biographyID>05</biographyID>
+        <URI>a108.bio05.bess.xml</URI>
+        <author>Benjamin Griffith Brawley</author>
+        <title>Mary McLeod Bethune</title>
+        <personaName>Mary McLeod Bethune</personaName>
+    </textAnalyzed>
+    
+    <analysis>
+        <personaType>Reformer, political</personaType>
+        
+        <stageOfLife>
+            <textUnitReference>1</textUnitReference>
+            <name>middle</name>
+        </stageOfLife>
+        
+        <stageOfLife>
+            <textUnitReference>2</textUnitReference>
+            <name>beginning</name>
+        </stageOfLife>
+        
+        <stageOfLife>
+            <textUnitRangeReference>
+                <start>3</start>
+                <end>9</end>
+            </textUnitRangeReference>
+            <name>middle</name>
+        </stageOfLife>
+        
+        <stageOfLife>
+            <textUnitReference>7</textUnitReference>
+            <name>culmination</name>
+        </stageOfLife>
+        
+        <stageOfLife>
+            <textUnitReference>10</textUnitReference>
+            <name>before</name>
+        </stageOfLife>
+        
+        
+        <event>
+            <textUnitReference>1</textUnitReference>
+            <type>project, new organization</type>
+            <type> calling or vocation choice, decision</type>
+        </event>
+        
+        <event>
+            <textUnitReference>2</textUnitReference>
+            <type>birth</type>
+            <type>education, attending day school</type>
+            <type>conversion</type>
+            <dateSingle standardDate="1875-07-10">July 10, 1875</dateSingle>
+        </event>
+        <event>
+            <textUnitReference>2</textUnitReference>
+            <type>education, higher</type>
+            <type>recognition, receiving award or prize</type>
+            <agentType>female professional, named</agentType>
+        </event>
+        
+        <event>
+            <textUnitReference>3</textUnitReference>
+            <type>marriage, voluntary</type>
+            <dateSingle standardDate="1898">1898</dateSingle>
+        </event>
+        <event>
+            <textUnitReference>3</textUnitReference>
+            <type>childbirth</type>
+            <type>move to new city, town, or village</type>
+            <type>praying</type>
+            <type>teaching children</type>
+            <type>music, singing</type>
+            <type>political movement, civil rights</type>
+        </event>
+        
+        <event>
+            <textUnitReference>4</textUnitReference>
+            <type>project, new organization</type>
+            <type>school, founding</type>
+            <type>music playing, instrumental</type>
+            <type>festival or celebration</type>
+            <type>money making</type>
+            <season>fall</season>
+            <dateSingle standardDate="1904">1904</dateSingle>
+        </event>
+        
+        <event>
+            <textUnitReference>4</textUnitReference>
+            <type> charity, personal action</type>
+            <agentType> neighbor or neighbors</agentType>
+            <agentType> community</agentType>
+        </event>
+        
+        <event>
+            <textUnitReference>4</textUnitReference>
+            <type>assignment or new responsibility</type>
+            <dateSingle standardDate="1905">1905</dateSingle>
+        </event>
+        <event>
+            <textUnitReference>4</textUnitReference>
+            <type>project, new building</type>
+            <dateSingle standardDate="1909">1907</dateSingle>
+            <locationStructure>church</locationStructure>
+        </event>
+        <event>
+            <textUnitReference>4</textUnitReference>
+            <type>project, new building</type>
+            <type>purchase of property, house, land</type>
+            <dateSingle standardDate="1909">1909</dateSingle>
+            <locationStructure>farm</locationStructure>
+        </event>
+        <event>
+            <textUnitReference>4</textUnitReference>
+            <type>project, new building</type>
+            <type>purchase of property, house, land</type>
+            <dateSingle standardDate="1909">1914</dateSingle>
+        </event>
+        
+        <event>
+            <textUnitReference>4</textUnitReference>
+            <type> project, new building</type>
+            <type>public speaking, nonreligious</type>
+            <type>crowd gathering, spectacle</type>
+            <dateSingle standardDate="1918-03">March, 1918</dateSingle>
+            <agentType>political leader, elected</agentType>
+        </event>
+        
+        <event>
+            <textUnitReference>5</textUnitReference>
+            <type>teaching children</type>
+            <type>teaching domestic skills</type>
+        </event>
+        
+        <event>
+            <textUnitReference>6</textUnitReference>
+            <type> food, feeding or eating</type>
+        </event>
+        
+        <event>
+            <textUnitReference>7</textUnitReference>
+            <type>project, reform or new system</type>
+            <dateSingle standardDate="1912">1912</dateSingle>
+            <locationStructure>hospital</locationStructure>
+        </event>
+        
+        <event>
+            <textUnitReference>7</textUnitReference>
+            <type>project, new building</type>
+            <type>teaching domestic skills</type>
+            <type>teaching children</type>
+            <dateSingle standardDate="1912">1912</dateSingle>
+        </event>
+        
+        <event>
+            <textUnitReference>7</textUnitReference>
+            <type> building construction</type>
+            <type>founding organization</type>
+        </event>
+        
+        <event>
+            <textUnitReference>8</textUnitReference>
+            <type>charity, organized</type>
+            <type>public speaking, nonreligious</type>
+            <dateSingle standardDate="1917-12">December, 1917</dateSingle>
+        </event>
+        
+        <discourse>
+            <textUnitReference>1</textUnitReference>
+            <type> focalization, attributing motives</type>
+        </discourse>
+        
+        <discourse>
+            <textUnitReference>2</textUnitReference>
+            <type>focalization, attributing thoughts</type>
+            <type>prospective or foreshadowing</type>
+        </discourse>
+        
+        <discourse>
+            <textUnitReference>3</textUnitReference>
+            <type>prospective or foreshadowing</type>
+            <type>focalization, attributing thoughts</type>
+        </discourse>
+        
+        <discourse>
+            <textUnitReference>4</textUnitReference>
+            <type>quotation, unidentified</type>
+            <type>idiom or cliche</type>
+            <type>direct address, use of we</type>
+            <type>description of environment</type>
+            <type>present tense</type>
+        </discourse>
+        
+        <discourse>
+            <textUnitReference>5</textUnitReference>
+            <type>direct address, use of I or one</type>
+            <type>evaluation</type>
+            <type>quotation, agent's speech, unique</type>
+        </discourse>
+        
+        <discourse>
+            <textUnitReference>6</textUnitReference>
+            <type>direct address, use of I or one</type>
+            <type> perspective or point of view</type>
+            <type>description of environment</type>
+            <type>narrator's positive orientation</type>
+        </discourse>
+        
+        <discourse>
+            <textUnitReference>7</textUnitReference>
+            <type>figureOrImage, ghost or spirit</type>
+            <type>focalization, attributing motives</type>
+            <type> expansion, more discourse than life time</type>
+            <type>narrator's negativity</type>
+        </discourse>
+        
+        <discourse>
+            <textUnitReference>9</textUnitReference>
+            <type>quotation, persona speech, often said</type>
+            <type>description of agent or identified set of agents</type>
+        </discourse>
+        
+        <discourse>
+            <textUnitReference>10</textUnitReference>
+            <type>retrospective</type>
+            <type>allusion, biblical</type>
+            <type>historiography, narration of historical events</type>
+            <type>analogy to other woman, named</type>
+            <note>
+                <p>I'm not sure if Mary McLeod Bethune is being compared to Mary Magdalen.</p>
+            </note>
+        </discourse>
+        
+        <discourse>
+            <textUnitReference>11</textUnitReference>
+            <type>present tense</type>
+            <type>periods or times compared</type>
+            <type> allusion, biblical</type>
+            <type>direct address, use of we</type>
+            <type>quotation, agent's speech, unique</type>
+        </discourse>
+        
+        <personaDescription>
+            <textUnitReference>1</textUnitReference>
+            <type>lonely</type>
+            <type>faith, confident in</type>
+            <type>energetic or untiring</type>
+            <type>loving</type>
+            <type>religious in practice, observant</type>
+        </personaDescription>
+        
+        <personaDescription>
+            <textUnitReference>2</textUnitReference>
+            <type>ambitious</type>
+            <type>observant</type>
+        </personaDescription>
+        
+        <personaDescription>
+            <textUnitReference>3</textUnitReference>
+            <type>faith, confident in</type>
+            <type>dedicated or devoted</type>
+        </personaDescription>
+        
+        <personaDescription>
+            <textUnitReference>7</textUnitReference>
+            <type>brave</type>
+            <type>mature</type>
+            <type>sympathetic</type>
+            <type>intelligent</type>
+            <type>energetic or untiring</type>
+            <type>faith, confident in</type>
+        </personaDescription>
+        
+        <topos>
+            <textUnitReference>2</textUnitReference>
+            <type>character as destiny, career foretold</type>
+            <type>faith</type>
+            <type>lesson, learning by experience</type>
+        </topos>
+        
+        <topos>
+            <textUnitReference>3</textUnitReference>
+            <type> calling or vocation</type>
+        </topos>
+        
+        <topos>
+            <textUnitReference>4</textUnitReference>
+            <type>triumph as fulfilled goal or ambition</type>
+            <type> adversity</type>
+            <type>turning point</type>
+        </topos>
+        
+        <topos>
+            <textUnitReference>7</textUnitReference>
+            <type>gender as persona's encounter with others</type>
+            <type> work as social service</type>
+            <type>gender as narrator's generalization</type>
+            <type>temptation of pleasure or love</type>
+            <type>failure as outcome, tragedy</type>
+        </topos>
+        
+        <topos>
+            <textUnitReference>8</textUnitReference>
+            <type>race as persona's encounter with others</type>
+            <type>race re persona</type>
+            <type>charity</type>
+        </topos>
+        
+        <topos>
+            <textUnitReference>9</textUnitReference>
+            <type>faith</type>
+            <type>influence on girls</type>
+            <type>influence, changing behavior of working women</type>
+        </topos>
+        
+        <topos>
+            <textUnitReference>11</textUnitReference>
+            <type>faith</type>
+        </topos>
+        
+    </analysis>
+    
+    
+    
+</BESS>

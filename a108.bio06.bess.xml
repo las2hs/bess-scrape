@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../../../xml/schema/BESS.rng" type="xml"?>
+
+<BESS>
+    <textAnalyzed>
+        <collectionID>a108</collectionID>
+        <biographyID>06</biographyID>
+        <URI>a108.bio06.bess.xml</URI>
+        <author>Benjamin Griffith Brawley</author>
+        <title>Mary Church Terrell</title>
+        <personaName>Mary Church Terrell</personaName>
+    </textAnalyzed>
+    
+    <analysis>
+        <personaType>Reformer, political</personaType>
+        
+        <stageOfLife>
+            <textUnitRangeReference>
+                <start>1</start>
+                <end>2</end>
+            </textUnitRangeReference>
+            <name>middle</name>
+        </stageOfLife>
+        
+        <stageOfLife>
+            <textUnitReference>3</textUnitReference>
+            <name>beginning</name>
+        </stageOfLife>
+        
+        <stageOfLife>
+            <textUnitRangeReference>
+                <start>4</start>
+                <end>9</end>
+            </textUnitRangeReference>
+            <name>middle</name>
+        </stageOfLife>
+        
+        <stageOfLife>
+            <textUnitReference>6</textUnitReference>
+            <name>culmination</name>
+        </stageOfLife>
+        
+        <event>
+            <textUnitReference>1</textUnitReference>
+            <type>war, international</type>
+        </event>
+        
+        <event>
+            <textUnitReference>2</textUnitReference>
+            <type>public speaking, nonreligious</type>
+            <type>debate</type>
+            <type>meeting, public</type>
+            <type>travel, international</type>
+        </event>
+        
+        <event>
+            <textUnitReference>3</textUnitReference>
+            <type>birth</type>
+            <type>education, attending boarding school</type>
+            <dateSingle standardDate="1884">1884</dateSingle>
+        </event>
+        <event>
+            <textUnitReference>3</textUnitReference>
+            <type>teaching adults</type>
+            <type>teaching children</type>
+            <type>travel, international</type>
+            <type>travel for calling or work</type>
+            <type>learning language</type>
+            <locationSetting>Europe or Continent</locationSetting>
+        </event>
+        <event>
+            <textUnitReference>3</textUnitReference>
+            <type>return to previous home</type>
+            <type>assignment or new responsibility</type>
+            <type>working as paid occupation</type>
+        </event>
+        <event>
+            <textUnitReference>3</textUnitReference>
+            <type>quitting or resigning job</type>
+            <type>marriage, voluntary</type>
+        </event>
+        
+        <event>
+            <textUnitReference>4</textUnitReference>
+            <type>writing essay or educational text</type>
+            <type>festival or celebration</type>
+            <type>election</type>
+            <type>assignment or new responsibility</type>
+        </event>
+        
+        <event>
+            <textUnitReference>4</textUnitReference>
+            <type>public speaking, nonreligious</type>
+            <type>recognition, written praise</type>
+            <dateSingle standardDate="1904">1904</dateSingle>
+        </event>
+        
+        <event>
+            <textUnitReference>5</textUnitReference>
+            <type>treaty, peace, or alliance</type>
+            <type>quitting or resigning group</type>
+            <type>assignment or new responsibility</type>
+            <type>recognition, event in honor</type>
+        </event>
+        
+        <event>
+            <textUnitReference>6</textUnitReference>
+            <type>public speaking, nonreligious</type>
+            <type>recognition, spoken praise</type>
+            <type>recognition, event in honor</type>
+            <type>hosting by agents</type>
+            <dateSingle standardDate="1906">1906</dateSingle>
+        </event>
+        
+        <event>
+            <textUnitReference>7</textUnitReference>
+            <type>public speaking, nonreligious</type>
+        </event>
+        
+        <discourse>
+            <textUnitReference>1</textUnitReference>
+            <type>personification, one sex or gender</type>
+            <type>description of a kind of people or society (not individual)</type>
+            <type>prospective or foreshadowing</type>
+        </discourse>
+        
+        <discourse>
+            <textUnitReference>2</textUnitReference>
+            <type>quotation, agent's speech, unique</type>
+        </discourse>
+        
+        <discourse>
+            <textUnitReference>4</textUnitReference>
+            <type>quotation, documentary source, persona's lifetime</type>
+            <type> quotation, agent's writing about persona</type>
+            <type>allusion to historical woman</type>
+        </discourse>
+        
+        <discourse>
+            <textUnitReference>6</textUnitReference>
+            <type>quotation, agent's speech, unique</type>
+            <type>focalization, attributing feelings</type>
+        </discourse>
+        
+        <discourse>
+            <textUnitReference>7</textUnitReference>
+            <type> narrating, dramatized</type>
+        </discourse>
+        
+        <discourse>
+            <textUnitReference>8</textUnitReference>
+            <type>figureOrImage, ghost or spirit</type>
+            <type> evaluation</type>
+        </discourse>
+        
+        <discourse>
+            <textUnitReference>9</textUnitReference>
+            <type> narrator's positive orientation</type>
+        </discourse>
+        
+        <personaDescription>
+            <textUnitReference>1</textUnitReference>
+            <type>famous</type>
+        </personaDescription>
+        
+        <personaDescription>
+            <textUnitReference>2</textUnitReference>
+            <type> learned, languages</type>
+            <type>superior to men</type>
+            <type>superior to other women</type>
+            <type>faith, confident in</type>
+            <type>dignified</type>
+        </personaDescription>
+        
+        <personaDescription>
+            <textUnitReference>5</textUnitReference>
+            <type> intelligent</type>
+            <type>commanding, able to lead</type>
+        </personaDescription>
+        
+        <personaDescription>
+            <textUnitReference>8</textUnitReference>
+            <type>superior to other women</type>
+            <type>superior to men</type>
+            <type>skillful</type>
+            <type>energetic or untiring</type>
+            <type>charming</type>
+            <type>sad</type>
+            <type>brave</type>
+            <type>hopeful</type>
+        </personaDescription>
+        
+        <topos>
+            <textUnitReference>1</textUnitReference>
+            <type>gender as narrator's generalization</type>
+            <type>race as narrator's generalization</type>
+            <type>patriotism</type>
+            <type> civil rights</type>
+            <type>influence, changing peers' action</type>
+        </topos>
+        
+        <topos>
+            <textUnitReference>2</textUnitReference>
+            <type>faith</type>
+            <type>claim to higher status</type>
+            <type> gender as persona's encounter with others</type>
+            <type>race re persona</type>
+        </topos>
+        
+        <topos>
+            <textUnitReference>4</textUnitReference>
+            <type>civil rights</type>
+            <type> fame in lifetime</type>
+            <type>race as persona's encounter with others</type>
+            <type>triumph as fulfilled goal or ambition</type>
+            <type>triumph as overcoming adversity or opposition</type>
+        </topos>
+        
+        <topos>
+            <textUnitReference>5</textUnitReference>
+            <type> work as social service</type>
+            <type> influence, changing behavior of superiors</type>
+        </topos>
+        
+        <topos>
+            <textUnitReference>7</textUnitReference>
+            <type> influence, emotional effect on peers</type>
+        </topos>
+        
+        <topos>
+            <textUnitReference>9</textUnitReference>
+            <type>race as persona's encounter with others</type>
+        </topos>
+        
+    </analysis>
+</BESS>

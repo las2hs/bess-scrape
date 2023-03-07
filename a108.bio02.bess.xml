@@ -1,0 +1,589 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../../../xml/schema/BESS.rng" type="xml"?>
+
+<BESS>
+	<textAnalyzed>
+		<collectionID>a108</collectionID>
+		<biographyID>02</biographyID>
+		<URI>a108.bio02.bess.xml</URI>
+		<author>Benjamin Griffith Brawley</author>
+		<title>Harriet Tubman</title>
+		<personaName>Harriet Tubman</personaName>
+	</textAnalyzed>
+	
+	<analysis>
+		<personaType>Rescue</personaType>
+		
+		<!-- Begin Stage of Life -->
+		<stageOfLife>
+			<textUnitRangeReference>
+				<start>2</start>
+				<end>5</end>
+			</textUnitRangeReference>
+			<name>beginning</name>
+		</stageOfLife>
+		
+		<stageOfLife>
+			<textUnitRangeReference>
+				<start>6</start>
+				<end>14</end>
+			</textUnitRangeReference>
+			<name>middle</name>
+		</stageOfLife>
+		
+		<stageOfLife>
+			<textUnitReference>10</textUnitReference>
+			<name>culmination</name>
+		</stageOfLife>
+		
+		<stageOfLife>
+			<textUnitReference>15</textUnitReference>
+			<name>end</name>
+		</stageOfLife>
+		
+		<stageOfLife>
+			<textUnitRangeReference>
+				<start>15</start>
+				<end>16</end>
+			</textUnitRangeReference>
+			<name>after</name>
+		</stageOfLife>
+		
+		
+		<!-- Begin Events -->
+		<event>
+			<textUnitReference>1</textUnitReference>
+			<type>travel for calling or work</type>
+			<type>escape</type>
+		</event>
+
+		<event>
+			<textUnitReference>2</textUnitReference>
+			<type>renaming of persona, proper name</type>
+		</event>
+		
+		<event>
+			<textUnitReference>2</textUnitReference>
+			<type>birth</type>
+			<dateSingle standardDate="1821">1821</dateSingle>
+		</event>
+		
+		<event>
+			<textUnitReference>1</textUnitReference>
+			<type>rescue</type>
+		</event>
+		
+		<event>
+			<textUnitReference>2</textUnitReference>
+			<type>rescue</type>
+			<type>care for parents other than nursing</type>
+			<dateSingle standardDate="1857">1857</dateSingle>
+		</event>
+		
+		<event>
+			<textUnitReference>2</textUnitReference>
+			<type> care for siblings other than nursing</type>
+			<type>rescue</type>
+		</event>
+		
+		<event>
+			<textUnitReference>3</textUnitReference>
+			<type>human trafficking</type>
+			<type>education, private lessons</type>
+			<type>travel for calling or work</type>
+			<type>needlework or sewing, necessary</type>
+			<type>assignment or new responsibility</type>
+			<type>swimming</type>
+			<type>illness, persona's</type>
+			<type>permission granted</type>
+		</event>
+		
+		<event>
+			<textUnitReference>4</textUnitReference>
+			<type>travel for calling or work</type>
+			<type>farming</type>
+			<type>permission refused</type>
+			<type>accident harming persona</type>
+			<type>violence against persona</type>
+			<type>violence between two or more others</type>
+			<type>sleeping</type>
+		</event>
+		
+		<event>
+			<textUnitReference>4</textUnitReference>
+			<type> escape</type>
+			<type>punishment</type>
+			<agentType> male coworker, unnamed</agentType>
+		</event>
+		
+		<event>
+			<textUnitReference>5</textUnitReference>
+			<type>recovery from illness</type>
+			<type> move to new house</type>
+			<type>assignment or new responsibility</type>
+			<type>farming</type>
+			<type>labor</type>
+		</event>
+		
+		<event>
+			<textUnitReference>6</textUnitReference>
+			<type>marriage, voluntary</type>
+			<dateSingle standardDate="1844">1844</dateSingle>
+		</event>
+		<event>
+			<textUnitReference>6</textUnitReference>
+			<type>escape</type>
+			<dateSingle standardDate="1849">1849</dateSingle>
+		</event>
+		<event>
+			<textUnitReference>6</textUnitReference>
+			<type>return to previous home</type>
+			<type>abandonment by partner, lover or friend</type>
+			<type>love affair</type>
+		</event>
+		
+		<event>
+			<textUnitReference>7</textUnitReference>
+			<type>threat</type>
+		</event>
+		
+		<event>
+			<textUnitReference>7</textUnitReference>
+			<type>planning or plotting</type>
+			<type>music, singing</type>
+		</event>
+		<event>
+			<textUnitReference>7</textUnitReference>
+			<type>death, nonfamily, man</type>
+			<dateSingle standardDate="1849">1849</dateSingle>
+		</event>
+		
+		<event>
+			<textUnitReference>8</textUnitReference>
+			<type>return to previous home</type>
+			<agentType> brother</agentType>
+		</event>
+		
+		<event>
+			<textUnitReference>8</textUnitReference>
+			<type>escape</type>
+		</event>
+		
+		<event>
+			<textUnitReference>9</textUnitReference>
+			<type>escape</type>
+			<type>hiding persona</type>
+			<type>food, feeding or eating</type>
+			<type>travel, other</type>
+		</event>
+		
+		<event>
+			<textUnitReference>9</textUnitReference>
+			<type>move to new city, town, or village</type>
+			<type>hired for job</type>
+			<type>working as paid occupation</type>
+		</event>
+		
+		<event>
+			<textUnitReference>9</textUnitReference>
+			<type>return to previous home</type>
+			<dateSingle standardDate="1851">1851</dateSingle>
+		</event>
+		
+		<event>
+			<textUnitReference>10</textUnitReference>
+			<type>travel for calling or work</type>
+			<type>rescue</type>
+			<type>care for siblings other than nursing</type>
+			<dateSingle standardDate="1850-12">December, 1850</dateSingle>
+		</event>
+		
+		<event>
+			<textUnitReference>10</textUnitReference>
+			<type>rescue</type>
+			<type>care for siblings other than nursing</type>
+			<type>move to new country</type>
+			<type>nursing, local amateur</type>
+			<type>praying</type>
+			<dateSingle standardDate="1851-12">December, 1851</dateSingle>
+		</event>
+		
+		<event>
+		<textUnitReference>10</textUnitReference>
+			<type>working as paid occupation</type>
+			<type>cooking</type>
+			<type> move to new country</type>
+		</event>
+		
+		<event>
+			<textUnitReference>10</textUnitReference>
+			<type>travel for calling or work</type>
+			<type>rescue</type>
+			<dateSingle standardDate="1852">1852</dateSingle>
+		</event>
+		
+		<event>
+			<textUnitReference>11</textUnitReference>
+			<type>threat</type>
+			<type>rescue</type>
+		</event>
+		
+		<event>
+			<textUnitReference>12</textUnitReference>
+			<type>rescue</type>
+			<type>escape</type>
+			<type>praying</type>
+			<type>planning or plotting</type>
+			<type>argument, person-to-person</type>
+		</event>
+		
+		<event>
+			<textUnitReference>13</textUnitReference>
+			<type>introduction, first social encounter</type>
+			<type>travel for calling or work</type>
+		</event>
+		
+		<event>
+			<textUnitReference>14</textUnitReference>
+			<type>dream or dreaming</type>
+		</event>
+		
+		<event>
+			<textUnitReference>14</textUnitReference>
+		    <type>praying</type>
+			<type>escape</type>
+		</event>
+			
+		<event>
+			<textUnitReference>14</textUnitReference>
+			<type>rescue</type>
+			<type>care for parents other than nursing</type>
+			<type>planning or plotting</type>
+			<type>move to new country</type>
+			<dateSingle standardDate="1857">1857</dateSingle>
+		</event>
+		
+		<event>
+			<textUnitReference>14</textUnitReference>
+		    <type>move to new country</type>
+			<type>visiting by persona</type>
+			<type>purchase of property, house, land</type>
+		</event>
+		
+		<event>
+			<textUnitReference>14</textUnitReference>
+			<type>introduction, first social encounter</type>
+			<type>assignment or new responsibility</type>
+			<note>
+				<p>"Delusion or hallucination" has a pejorative tone; we may wonder about changing that language sometimes</p>
+			</note>
+		</event>
+		
+		<event>
+			<textUnitReference>14</textUnitReference>
+			<type>travel for calling or work</type>
+			<type>rescue</type>
+			<dateSingle standardDate="1860-12">December, 1860</dateSingle>
+		</event>
+		
+		<event>
+			<textUnitReference>15</textUnitReference>
+			<type>return to previous home</type>
+			<type>retirement from job or position</type>
+			<type>assignment or new responsibility</type>
+			<type>marriage, voluntary</type>
+		</event>
+		
+		<event>
+			<textUnitReference>15</textUnitReference>
+			<type>death, persona's</type>
+			<dateSingle standardDate="1913-03-10">March 10, 1913</dateSingle>
+		</event>
+		
+		<event>
+			<textUnitReference>15</textUnitReference>
+			<type>recognition, plaque</type>
+			<dateSingle standardDate="1914-06-12">June 12, 1914</dateSingle>
+		</event>
+		
+		
+		<event>
+			<textUnitReference>16</textUnitReference>
+			<type>recognition, spoken praise</type>
+			<type>recognition, written praise</type>
+		</event>
+		
+		<!-- Begin Persona Description -->
+		<personaDescription>
+			<textUnitReference>1</textUnitReference>
+			<type>brave</type>
+		</personaDescription>
+		
+		<personaDescription>
+			<textUnitReference>2</textUnitReference>
+			<type> self-sacrificing</type>
+		</personaDescription>
+		
+		<personaDescription>
+			<textUnitReference>5</textUnitReference>
+			<type> physically strong</type>
+		</personaDescription>
+		
+		<personaDescription>
+			<textUnitReference>10</textUnitReference>
+			<type> dedicated or devoted</type>
+		</personaDescription>
+		
+		<personaDescription>
+			<textUnitReference>9</textUnitReference>
+			<type>intelligent</type>
+			<type>clever</type>
+		</personaDescription>
+		
+		<personaDescription>
+			<textUnitReference>11</textUnitReference>
+			<type>noble in character</type>
+			<type>commanding, able to lead</type>
+		</personaDescription>
+		
+		<personaDescription>
+			<textUnitReference>12</textUnitReference>
+			<type>quick in response</type>
+			<type>faith, confident in</type>
+		</personaDescription>
+		
+		<personaDescription>
+			<textUnitReference>14</textUnitReference>
+			<type>faith, confident in</type>
+			<type>intelligent</type>
+		</personaDescription>
+		
+		<personaDescription>
+			<textUnitReference>16</textUnitReference>
+			<type>superior to men</type>
+			<type>beloved</type>
+			<type>dedicated or devoted</type>
+			<type>brave</type>
+			<type>noble in character</type>
+		</personaDescription>
+		
+		<personaDescription>
+			<textUnitReference>17</textUnitReference>
+			<type>brave</type>
+			<type>noble in character</type>
+			<type>dedicated or devoted</type>
+		</personaDescription>
+		
+		<!-- Begin Topos -->
+		<topos>
+			<textUnitReference>1</textUnitReference>
+			<type>freedom</type>
+			<type>physical feats, rescue</type>
+			<type>triumph as fulfilled goal or ambition</type>
+			<type>triumph as overcoming adversity or opposition</type>
+		</topos>
+		
+		<topos>
+			<textUnitReference>2</textUnitReference>
+			<type>family, occupation of parents or ancestors</type>
+			<type>attachment, family bonding or not</type>
+			<type>physical feats, rescue</type>
+		</topos>
+		
+		<topos>
+			<textUnitReference>3</textUnitReference>
+			<type>enslavement</type>
+			<type>child abuse</type>
+		</topos>
+		
+		<topos>
+			<textUnitReference>4</textUnitReference>
+			<type> defiance of authority, nonfamily</type>
+		</topos>
+		
+		<topos>
+			<textUnitReference>5</textUnitReference>
+			<type>faith</type>
+			<type>adversity</type>
+			<type>character as destiny, career foretold</type>
+		</topos>
+		
+		<topos>
+			<textUnitReference>6</textUnitReference>
+			<type> calling or vocation</type>
+		</topos>
+		
+		<topos>
+			<textUnitReference>7</textUnitReference>
+			<type>enslavement</type>
+			<type>secrecy</type>
+		</topos>
+		
+		<topos>
+			<textUnitReference>8</textUnitReference>
+			<type>freedom</type>
+		</topos>
+		
+		<topos>
+			<textUnitReference>9</textUnitReference>
+			<type>adversity</type>
+		</topos>
+		
+		<topos>
+			<textUnitReference>10</textUnitReference>
+			<type>weather, bad</type>
+			<type>physical feats, rescue</type>
+			<type>adversity</type>
+			<type>prayer</type>
+			<type>attachment or caring between the people and persona</type>
+		</topos>
+		
+		<topos>
+			<textUnitReference>11</textUnitReference>
+			<type>influence, changing peers' action</type>
+		</topos>
+		
+		<topos>
+			<textUnitReference>12</textUnitReference>
+			<type>faith</type>
+			<type>adversity</type>
+			<type>prayer</type>
+		</topos>
+		
+		<topos>
+			<textUnitReference>13</textUnitReference>
+			<type>association with great man or men</type>
+			<type>abolition</type>
+		</topos>
+		
+		<topos>
+			<textUnitReference>14</textUnitReference>
+			<type>weather, bad</type>
+			<type>faith</type>
+			<type>adversity</type>
+			<type>physical feats, rescue</type>
+			<type>debt</type>
+			<type>association with great man or men</type>
+		</topos>
+		
+		<topos>
+			<textUnitReference>16</textUnitReference>
+			<type>influence, emotional effect on peers</type>
+		</topos>
+		
+		<!-- Begin Discourse -->
+		<discourse>
+			<textUnitReference>1</textUnitReference>
+			<type>evaluation</type>
+			<type>narrator's positive orientation</type>
+			<type>figureOrImage, ghost or spirit</type>
+		</discourse>
+		
+		<discourse>
+			<textUnitReference>3</textUnitReference>
+			<type>time measured as persona's age</type>
+		</discourse>
+		
+		<discourse>
+			<textUnitReference>4</textUnitReference>
+			<type>time measured as persona's age</type>
+			<type>prospective or foreshadowing</type>
+			<type>narrating, dramatized</type>
+		</discourse>
+		
+		<discourse>
+			<textUnitReference>5</textUnitReference>
+			<type>retrospective</type>
+			<type>focalization, attributing perception</type>
+		</discourse>
+		
+		<discourse>
+			<textUnitReference>6</textUnitReference>
+			<type> focalization, attributing feelings</type>
+		</discourse>
+		
+		
+		<discourse>
+			<textUnitReference>7</textUnitReference>
+			<type>allusion, biblical</type>
+			<type>time measured as persona's age</type>
+			<type>quotation, poetry</type>
+			<type>focalization, attributing thoughts</type>
+		</discourse>
+		
+		<discourse>
+			<textUnitReference>8</textUnitReference>
+			<type> narrating, dramatized</type>
+			<type>focalization, attributing motives</type>
+			<type>perspective or point of view</type>
+			<type>quotation, persona speech, unique</type>
+			<type>allusion to historical man</type>
+		</discourse>
+		
+		<discourse>
+			<textUnitReference>9</textUnitReference>
+			<type>quotation, previous biography of persona</type>
+			<type>metaphor, extended</type>
+			<type>iterative, repeating or persistent</type>
+			<type>allusion, biblical</type>
+			<type>figureOrImage, magic</type>
+		</discourse>
+		
+		<discourse>
+			<textUnitReference>10</textUnitReference>
+			<type>historiography, narration of historical events</type>
+			<type>quotation, persona speech, unique</type>
+			<type>figureOrImage, animal</type>
+			<type>focalization, attributing perception</type>
+		</discourse>
+		
+		<discourse>
+			<textUnitReference>11</textUnitReference>
+			<type>evaluation</type>
+			<type>description of environment</type>
+			<type>narrating, dramatized</type>
+			<type>quotation, persona speech, unique</type>
+			<type>precepts</type>
+		</discourse>
+		
+		<discourse>
+			<textUnitReference>12</textUnitReference>
+			<type>quotation, persona speech, often said</type>
+			<type>evaluation</type>
+			<type>free indirect</type>
+			<type>focalization, attributing feelings</type>
+			<type>quotation, agent's speech, unique</type>
+			<type>narrating, dramatized</type>
+			<type>perspective or point of view</type>
+		</discourse>
+		
+		<discourse>
+			<textUnitReference>13</textUnitReference>
+			<type> evaluation</type>
+		</discourse>
+		
+		<discourse>
+			<textUnitReference>14</textUnitReference>
+			<type>focalization, attributing motives</type>
+		</discourse>
+		
+		<discourse>
+			<textUnitReference>15</textUnitReference>
+			<type>time measured as persona's age</type>
+		</discourse>
+		
+		<discourse>
+			<textUnitReference>16</textUnitReference>
+			<type>quotation, agent's writing about persona</type>
+			<type>quotation, agent's letter to persona</type>
+			<type>evaluation</type>
+		</discourse>
+		
+		<discourse>
+			<textUnitReference>17</textUnitReference>
+			<type>evaluation</type>
+		</discourse>
+		
+	</analysis>
+</BESS>
+

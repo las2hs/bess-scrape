@@ -1,705 +1,384 @@
 first term:::second term:::# of concurrences:::first term's total count:::second term's total count:::first term concurrence rate:::second term concurrence rate
-renaming of persona, vocational name:::present tense:::1:::1:::15:::1.0:::0.06666666666666667
-renaming of persona, vocational name:::direct address, use of we:::1:::1:::9:::1.0:::0.1111111111111111
-renaming of persona, vocational name:::expansion, more discourse than life time:::1:::1:::1:::1.0:::1.0
-speculation, possible motives or causes:::renaming of persona, vocational name:::1:::3:::1:::0.3333333333333333:::1.0
-renaming of persona, vocational name:::periods or times compared:::1:::1:::2:::1.0:::0.5
-renaming of persona, vocational name:::fame, posthumous:::1:::1:::3:::1.0:::0.3333333333333333
-renaming of persona, vocational name:::association with great man or men:::1:::1:::1:::1.0:::1.0
-direct address, use of we:::present tense:::7:::9:::15:::0.7777777777777778:::0.4666666666666667
-expansion, more discourse than life time:::present tense:::1:::1:::15:::1.0:::0.06666666666666667
-speculation, possible motives or causes:::present tense:::2:::3:::15:::0.6666666666666666:::0.13333333333333333
-present tense:::periods or times compared:::1:::15:::2:::0.06666666666666667:::0.5
-present tense:::fame, posthumous:::2:::15:::3:::0.13333333333333333:::0.6666666666666666
-present tense:::association with great man or men:::1:::15:::1:::0.06666666666666667:::1.0
-expansion, more discourse than life time:::direct address, use of we:::1:::1:::9:::1.0:::0.1111111111111111
-speculation, possible motives or causes:::direct address, use of we:::1:::3:::9:::0.3333333333333333:::0.1111111111111111
-direct address, use of we:::periods or times compared:::1:::9:::2:::0.1111111111111111:::0.5
-direct address, use of we:::fame, posthumous:::2:::9:::3:::0.2222222222222222:::0.6666666666666666
-direct address, use of we:::association with great man or men:::1:::9:::1:::0.1111111111111111:::1.0
-speculation, possible motives or causes:::expansion, more discourse than life time:::1:::3:::1:::0.3333333333333333:::1.0
-expansion, more discourse than life time:::periods or times compared:::1:::1:::2:::1.0:::0.5
-expansion, more discourse than life time:::fame, posthumous:::1:::1:::3:::1.0:::0.3333333333333333
-expansion, more discourse than life time:::association with great man or men:::1:::1:::1:::1.0:::1.0
-speculation, possible motives or causes:::periods or times compared:::1:::3:::2:::0.3333333333333333:::0.5
-speculation, possible motives or causes:::fame, posthumous:::1:::3:::3:::0.3333333333333333:::0.3333333333333333
-speculation, possible motives or causes:::association with great man or men:::1:::3:::1:::0.3333333333333333:::1.0
-periods or times compared:::fame, posthumous:::1:::2:::3:::0.5:::0.3333333333333333
-association with great man or men:::periods or times compared:::1:::1:::2:::1.0:::0.5
-association with great man or men:::fame, posthumous:::1:::1:::3:::1.0:::0.3333333333333333
-periods or times compared:::birth:::1:::2:::1:::0.5:::1.0
-emphasis in typeface, punctuation:::birth:::1:::12:::1:::0.08333333333333333:::1.0
-personification, nation:::birth:::1:::1:::1:::1.0:::1.0
-direct address, use of I or one:::birth:::1:::1:::1:::1.0:::1.0
-allusion to previous biographer:::birth:::1:::1:::1:::1.0:::1.0
-quotation, persona writings fiction:::birth:::1:::2:::1:::0.5:::1.0
-eccentric:::birth:::1:::1:::1:::1.0:::1.0
-young:::birth:::1:::1:::1:::1.0:::1.0
-intelligent:::birth:::1:::2:::1:::0.5:::1.0
-great:::birth:::1:::2:::1:::0.5:::1.0
-national character, narrator's own country:::birth:::1:::1:::1:::1.0:::1.0
-emphasis in typeface, punctuation:::periods or times compared:::1:::12:::2:::0.08333333333333333:::0.5
-personification, nation:::periods or times compared:::1:::1:::2:::1.0:::0.5
-periods or times compared:::direct address, use of I or one:::1:::2:::1:::0.5:::1.0
-periods or times compared:::allusion to previous biographer:::1:::2:::1:::0.5:::1.0
-quotation, persona writings fiction:::periods or times compared:::1:::2:::2:::0.5:::0.5
-eccentric:::periods or times compared:::1:::1:::2:::1.0:::0.5
-young:::periods or times compared:::1:::1:::2:::1.0:::0.5
-intelligent:::periods or times compared:::1:::2:::2:::0.5:::0.5
-periods or times compared:::great:::1:::2:::2:::0.5:::0.5
-national character, narrator's own country:::periods or times compared:::1:::1:::2:::1.0:::0.5
-personification, nation:::emphasis in typeface, punctuation:::1:::1:::12:::1.0:::0.08333333333333333
-emphasis in typeface, punctuation:::direct address, use of I or one:::1:::12:::1:::0.08333333333333333:::1.0
-emphasis in typeface, punctuation:::allusion to previous biographer:::1:::12:::1:::0.08333333333333333:::1.0
-emphasis in typeface, punctuation:::quotation, persona writings fiction:::1:::12:::2:::0.08333333333333333:::0.5
-eccentric:::emphasis in typeface, punctuation:::1:::1:::12:::1.0:::0.08333333333333333
-young:::emphasis in typeface, punctuation:::1:::1:::12:::1.0:::0.08333333333333333
-intelligent:::emphasis in typeface, punctuation:::1:::2:::12:::0.5:::0.08333333333333333
-emphasis in typeface, punctuation:::great:::1:::12:::2:::0.08333333333333333:::0.5
-national character, narrator's own country:::emphasis in typeface, punctuation:::1:::1:::12:::1.0:::0.08333333333333333
-personification, nation:::direct address, use of I or one:::1:::1:::1:::1.0:::1.0
-personification, nation:::allusion to previous biographer:::1:::1:::1:::1.0:::1.0
-personification, nation:::quotation, persona writings fiction:::1:::1:::2:::1.0:::0.5
-personification, nation:::eccentric:::1:::1:::1:::1.0:::1.0
-personification, nation:::young:::1:::1:::1:::1.0:::1.0
-personification, nation:::intelligent:::1:::1:::2:::1.0:::0.5
-personification, nation:::great:::1:::1:::2:::1.0:::0.5
-personification, nation:::national character, narrator's own country:::1:::1:::1:::1.0:::1.0
-allusion to previous biographer:::direct address, use of I or one:::1:::1:::1:::1.0:::1.0
-quotation, persona writings fiction:::direct address, use of I or one:::1:::2:::1:::0.5:::1.0
-eccentric:::direct address, use of I or one:::1:::1:::1:::1.0:::1.0
-young:::direct address, use of I or one:::1:::1:::1:::1.0:::1.0
-intelligent:::direct address, use of I or one:::1:::2:::1:::0.5:::1.0
-great:::direct address, use of I or one:::1:::2:::1:::0.5:::1.0
-national character, narrator's own country:::direct address, use of I or one:::1:::1:::1:::1.0:::1.0
-quotation, persona writings fiction:::allusion to previous biographer:::1:::2:::1:::0.5:::1.0
-eccentric:::allusion to previous biographer:::1:::1:::1:::1.0:::1.0
-young:::allusion to previous biographer:::1:::1:::1:::1.0:::1.0
-intelligent:::allusion to previous biographer:::1:::2:::1:::0.5:::1.0
-allusion to previous biographer:::great:::1:::1:::2:::1.0:::0.5
-national character, narrator's own country:::allusion to previous biographer:::1:::1:::1:::1.0:::1.0
-eccentric:::quotation, persona writings fiction:::1:::1:::2:::1.0:::0.5
-young:::quotation, persona writings fiction:::1:::1:::2:::1.0:::0.5
-intelligent:::quotation, persona writings fiction:::1:::2:::2:::0.5:::0.5
-quotation, persona writings fiction:::great:::1:::2:::2:::0.5:::0.5
-national character, narrator's own country:::quotation, persona writings fiction:::1:::1:::2:::1.0:::0.5
-young:::eccentric:::1:::1:::1:::1.0:::1.0
-eccentric:::intelligent:::1:::1:::2:::1.0:::0.5
-eccentric:::great:::1:::1:::2:::1.0:::0.5
-national character, narrator's own country:::eccentric:::1:::1:::1:::1.0:::1.0
-young:::intelligent:::1:::1:::2:::1.0:::0.5
-young:::great:::1:::1:::2:::1.0:::0.5
-young:::national character, narrator's own country:::1:::1:::1:::1.0:::1.0
-intelligent:::great:::2:::2:::2:::1.0:::1.0
-national character, narrator's own country:::intelligent:::1:::1:::2:::1.0:::0.5
-national character, narrator's own country:::great:::1:::1:::2:::1.0:::0.5
-business, managing:::farming:::1:::1:::1:::1.0:::1.0
-speculation, possible motives or causes:::farming:::1:::3:::1:::0.3333333333333333:::1.0
-farming:::quotation, agent's speech, unique:::1:::1:::2:::1.0:::0.5
-farming:::speech, reported not quoted:::1:::1:::1:::1.0:::1.0
-farming:::quotation, persona speech, unique:::1:::1:::1:::1.0:::1.0
-farming:::emphasis in typeface, punctuation:::1:::1:::12:::1.0:::0.08333333333333333
-farming:::summary, more, much or all life in less prose:::1:::1:::5:::1.0:::0.2
-farming:::dedicated or devoted:::1:::1:::1:::1.0:::1.0
-farming:::fame in lifetime:::1:::1:::5:::1.0:::0.2
-farming:::family, class or status:::1:::1:::1:::1.0:::1.0
-farming:::family, occupation of parents or ancestors:::1:::1:::1:::1.0:::1.0
-speculation, possible motives or causes:::business, managing:::1:::3:::1:::0.3333333333333333:::1.0
-business, managing:::quotation, agent's speech, unique:::1:::1:::2:::1.0:::0.5
-business, managing:::speech, reported not quoted:::1:::1:::1:::1.0:::1.0
-business, managing:::quotation, persona speech, unique:::1:::1:::1:::1.0:::1.0
-business, managing:::emphasis in typeface, punctuation:::1:::1:::12:::1.0:::0.08333333333333333
-business, managing:::summary, more, much or all life in less prose:::1:::1:::5:::1.0:::0.2
-business, managing:::dedicated or devoted:::1:::1:::1:::1.0:::1.0
-business, managing:::fame in lifetime:::1:::1:::5:::1.0:::0.2
-business, managing:::family, class or status:::1:::1:::1:::1.0:::1.0
-business, managing:::family, occupation of parents or ancestors:::1:::1:::1:::1.0:::1.0
-speculation, possible motives or causes:::quotation, agent's speech, unique:::1:::3:::2:::0.3333333333333333:::0.5
-speculation, possible motives or causes:::speech, reported not quoted:::1:::3:::1:::0.3333333333333333:::1.0
-speculation, possible motives or causes:::quotation, persona speech, unique:::1:::3:::1:::0.3333333333333333:::1.0
-speculation, possible motives or causes:::emphasis in typeface, punctuation:::2:::3:::12:::0.6666666666666666:::0.16666666666666666
-speculation, possible motives or causes:::summary, more, much or all life in less prose:::1:::3:::5:::0.3333333333333333:::0.2
-speculation, possible motives or causes:::dedicated or devoted:::1:::3:::1:::0.3333333333333333:::1.0
-speculation, possible motives or causes:::fame in lifetime:::1:::3:::5:::0.3333333333333333:::0.2
-speculation, possible motives or causes:::family, class or status:::1:::3:::1:::0.3333333333333333:::1.0
-speculation, possible motives or causes:::family, occupation of parents or ancestors:::1:::3:::1:::0.3333333333333333:::1.0
-speech, reported not quoted:::quotation, agent's speech, unique:::1:::1:::2:::1.0:::0.5
-quotation, agent's speech, unique:::quotation, persona speech, unique:::1:::2:::1:::0.5:::1.0
-emphasis in typeface, punctuation:::quotation, agent's speech, unique:::2:::12:::2:::0.16666666666666666:::1.0
-quotation, agent's speech, unique:::summary, more, much or all life in less prose:::1:::2:::5:::0.5:::0.2
-dedicated or devoted:::quotation, agent's speech, unique:::1:::1:::2:::1.0:::0.5
-fame in lifetime:::quotation, agent's speech, unique:::1:::5:::2:::0.2:::0.5
-family, class or status:::quotation, agent's speech, unique:::1:::1:::2:::1.0:::0.5
-quotation, agent's speech, unique:::family, occupation of parents or ancestors:::1:::2:::1:::0.5:::1.0
-speech, reported not quoted:::quotation, persona speech, unique:::1:::1:::1:::1.0:::1.0
-speech, reported not quoted:::emphasis in typeface, punctuation:::1:::1:::12:::1.0:::0.08333333333333333
-speech, reported not quoted:::summary, more, much or all life in less prose:::1:::1:::5:::1.0:::0.2
-speech, reported not quoted:::dedicated or devoted:::1:::1:::1:::1.0:::1.0
-speech, reported not quoted:::fame in lifetime:::1:::1:::5:::1.0:::0.2
-speech, reported not quoted:::family, class or status:::1:::1:::1:::1.0:::1.0
-speech, reported not quoted:::family, occupation of parents or ancestors:::1:::1:::1:::1.0:::1.0
-emphasis in typeface, punctuation:::quotation, persona speech, unique:::1:::12:::1:::0.08333333333333333:::1.0
-summary, more, much or all life in less prose:::quotation, persona speech, unique:::1:::5:::1:::0.2:::1.0
-dedicated or devoted:::quotation, persona speech, unique:::1:::1:::1:::1.0:::1.0
-fame in lifetime:::quotation, persona speech, unique:::1:::5:::1:::0.2:::1.0
-family, class or status:::quotation, persona speech, unique:::1:::1:::1:::1.0:::1.0
-family, occupation of parents or ancestors:::quotation, persona speech, unique:::1:::1:::1:::1.0:::1.0
-emphasis in typeface, punctuation:::summary, more, much or all life in less prose:::3:::12:::5:::0.25:::0.6
-emphasis in typeface, punctuation:::dedicated or devoted:::1:::12:::1:::0.08333333333333333:::1.0
-emphasis in typeface, punctuation:::fame in lifetime:::1:::12:::5:::0.08333333333333333:::0.2
-emphasis in typeface, punctuation:::family, class or status:::1:::12:::1:::0.08333333333333333:::1.0
-emphasis in typeface, punctuation:::family, occupation of parents or ancestors:::1:::12:::1:::0.08333333333333333:::1.0
-dedicated or devoted:::summary, more, much or all life in less prose:::1:::1:::5:::1.0:::0.2
-fame in lifetime:::summary, more, much or all life in less prose:::1:::5:::5:::0.2:::0.2
-family, class or status:::summary, more, much or all life in less prose:::1:::1:::5:::1.0:::0.2
-summary, more, much or all life in less prose:::family, occupation of parents or ancestors:::1:::5:::1:::0.2:::1.0
-fame in lifetime:::dedicated or devoted:::1:::5:::1:::0.2:::1.0
-dedicated or devoted:::family, class or status:::1:::1:::1:::1.0:::1.0
-dedicated or devoted:::family, occupation of parents or ancestors:::1:::1:::1:::1.0:::1.0
-fame in lifetime:::family, class or status:::1:::5:::1:::0.2:::1.0
-fame in lifetime:::family, occupation of parents or ancestors:::1:::5:::1:::0.2:::1.0
-family, class or status:::family, occupation of parents or ancestors:::1:::1:::1:::1.0:::1.0
-present tense:::childhood or upbringing:::3:::15:::3:::0.2:::1.0
-childhood or upbringing:::comparison of environments:::1:::3:::1:::0.3333333333333333:::1.0
-childhood or upbringing:::quotation, unidentified:::1:::3:::4:::0.3333333333333333:::0.25
-emphasis in typeface, punctuation:::childhood or upbringing:::2:::12:::3:::0.16666666666666666:::0.6666666666666666
-childhood or upbringing:::rhetorical question:::2:::3:::3:::0.6666666666666666:::0.6666666666666666
-nature, response to:::childhood or upbringing:::1:::1:::3:::1.0:::0.3333333333333333
-present tense:::comparison of environments:::1:::15:::1:::0.06666666666666667:::1.0
-present tense:::quotation, unidentified:::2:::15:::4:::0.13333333333333333:::0.5
-emphasis in typeface, punctuation:::present tense:::6:::12:::15:::0.5:::0.4
-present tense:::rhetorical question:::2:::15:::3:::0.13333333333333333:::0.6666666666666666
-nature, response to:::present tense:::1:::1:::15:::1.0:::0.06666666666666667
-quotation, unidentified:::comparison of environments:::1:::4:::1:::0.25:::1.0
-emphasis in typeface, punctuation:::comparison of environments:::1:::12:::1:::0.08333333333333333:::1.0
-rhetorical question:::comparison of environments:::1:::3:::1:::0.3333333333333333:::1.0
-nature, response to:::comparison of environments:::1:::1:::1:::1.0:::1.0
-emphasis in typeface, punctuation:::quotation, unidentified:::3:::12:::4:::0.25:::0.75
-rhetorical question:::quotation, unidentified:::2:::3:::4:::0.6666666666666666:::0.5
-nature, response to:::quotation, unidentified:::1:::1:::4:::1.0:::0.25
-emphasis in typeface, punctuation:::rhetorical question:::1:::12:::3:::0.08333333333333333:::0.3333333333333333
-nature, response to:::emphasis in typeface, punctuation:::1:::1:::12:::1.0:::0.08333333333333333
-nature, response to:::rhetorical question:::1:::1:::3:::1.0:::0.3333333333333333
-childhood or upbringing:::music playing, instrumental:::1:::3:::1:::0.3333333333333333:::1.0
-childhood or upbringing:::music, effect, response to:::1:::3:::2:::0.3333333333333333:::0.5
-idiom or cliche:::childhood or upbringing:::1:::1:::3:::1.0:::0.3333333333333333
-childhood or upbringing:::childhood anecdote, character predicted:::1:::3:::1:::0.3333333333333333:::1.0
-childhood or upbringing:::time measured as persona's age:::1:::3:::1:::0.3333333333333333:::1.0
-figureOrImage, animal:::childhood or upbringing:::1:::1:::3:::1.0:::0.3333333333333333
-childhood or upbringing:::self-promoting or showy:::1:::3:::1:::0.3333333333333333:::1.0
-childish:::childhood or upbringing:::1:::1:::3:::1.0:::0.3333333333333333
-ambitious:::childhood or upbringing:::1:::1:::3:::1.0:::0.3333333333333333
-humorous, unintentionally:::childhood or upbringing:::1:::1:::3:::1.0:::0.3333333333333333
-character as destiny, career foretold:::childhood or upbringing:::1:::1:::3:::1.0:::0.3333333333333333
-childhood or upbringing:::family, genetic heritage of persona:::1:::3:::2:::0.3333333333333333:::0.5
-music, effect, response to:::music playing, instrumental:::1:::2:::1:::0.5:::1.0
-emphasis in typeface, punctuation:::music playing, instrumental:::1:::12:::1:::0.08333333333333333:::1.0
-idiom or cliche:::music playing, instrumental:::1:::1:::1:::1.0:::1.0
-music playing, instrumental:::childhood anecdote, character predicted:::1:::1:::1:::1.0:::1.0
-present tense:::music playing, instrumental:::1:::15:::1:::0.06666666666666667:::1.0
-music playing, instrumental:::time measured as persona's age:::1:::1:::1:::1.0:::1.0
-figureOrImage, animal:::music playing, instrumental:::1:::1:::1:::1.0:::1.0
-self-promoting or showy:::music playing, instrumental:::1:::1:::1:::1.0:::1.0
-childish:::music playing, instrumental:::1:::1:::1:::1.0:::1.0
-ambitious:::music playing, instrumental:::1:::1:::1:::1.0:::1.0
-humorous, unintentionally:::music playing, instrumental:::1:::1:::1:::1.0:::1.0
-character as destiny, career foretold:::music playing, instrumental:::1:::1:::1:::1.0:::1.0
-music playing, instrumental:::family, genetic heritage of persona:::1:::1:::2:::1.0:::0.5
-emphasis in typeface, punctuation:::music, effect, response to:::2:::12:::2:::0.16666666666666666:::1.0
-idiom or cliche:::music, effect, response to:::1:::1:::2:::1.0:::0.5
-music, effect, response to:::childhood anecdote, character predicted:::1:::2:::1:::0.5:::1.0
-present tense:::music, effect, response to:::1:::15:::2:::0.06666666666666667:::0.5
-music, effect, response to:::time measured as persona's age:::1:::2:::1:::0.5:::1.0
-figureOrImage, animal:::music, effect, response to:::1:::1:::2:::1.0:::0.5
-music, effect, response to:::self-promoting or showy:::1:::2:::1:::0.5:::1.0
-childish:::music, effect, response to:::1:::1:::2:::1.0:::0.5
-ambitious:::music, effect, response to:::1:::1:::2:::1.0:::0.5
-humorous, unintentionally:::music, effect, response to:::1:::1:::2:::1.0:::0.5
-character as destiny, career foretold:::music, effect, response to:::1:::1:::2:::1.0:::0.5
-music, effect, response to:::family, genetic heritage of persona:::1:::2:::2:::0.5:::0.5
-idiom or cliche:::emphasis in typeface, punctuation:::1:::1:::12:::1.0:::0.08333333333333333
-emphasis in typeface, punctuation:::childhood anecdote, character predicted:::1:::12:::1:::0.08333333333333333:::1.0
-emphasis in typeface, punctuation:::time measured as persona's age:::1:::12:::1:::0.08333333333333333:::1.0
-figureOrImage, animal:::emphasis in typeface, punctuation:::1:::1:::12:::1.0:::0.08333333333333333
-emphasis in typeface, punctuation:::self-promoting or showy:::1:::12:::1:::0.08333333333333333:::1.0
-childish:::emphasis in typeface, punctuation:::1:::1:::12:::1.0:::0.08333333333333333
-emphasis in typeface, punctuation:::ambitious:::1:::12:::1:::0.08333333333333333:::1.0
-emphasis in typeface, punctuation:::humorous, unintentionally:::1:::12:::1:::0.08333333333333333:::1.0
-emphasis in typeface, punctuation:::character as destiny, career foretold:::1:::12:::1:::0.08333333333333333:::1.0
-emphasis in typeface, punctuation:::family, genetic heritage of persona:::2:::12:::2:::0.16666666666666666:::1.0
-idiom or cliche:::childhood anecdote, character predicted:::1:::1:::1:::1.0:::1.0
-idiom or cliche:::present tense:::1:::1:::15:::1.0:::0.06666666666666667
-idiom or cliche:::time measured as persona's age:::1:::1:::1:::1.0:::1.0
-idiom or cliche:::figureOrImage, animal:::1:::1:::1:::1.0:::1.0
-idiom or cliche:::self-promoting or showy:::1:::1:::1:::1.0:::1.0
-idiom or cliche:::childish:::1:::1:::1:::1.0:::1.0
-idiom or cliche:::ambitious:::1:::1:::1:::1.0:::1.0
-idiom or cliche:::humorous, unintentionally:::1:::1:::1:::1.0:::1.0
-idiom or cliche:::character as destiny, career foretold:::1:::1:::1:::1.0:::1.0
-idiom or cliche:::family, genetic heritage of persona:::1:::1:::2:::1.0:::0.5
-present tense:::childhood anecdote, character predicted:::1:::15:::1:::0.06666666666666667:::1.0
-time measured as persona's age:::childhood anecdote, character predicted:::1:::1:::1:::1.0:::1.0
-figureOrImage, animal:::childhood anecdote, character predicted:::1:::1:::1:::1.0:::1.0
-self-promoting or showy:::childhood anecdote, character predicted:::1:::1:::1:::1.0:::1.0
-childish:::childhood anecdote, character predicted:::1:::1:::1:::1.0:::1.0
-ambitious:::childhood anecdote, character predicted:::1:::1:::1:::1.0:::1.0
-humorous, unintentionally:::childhood anecdote, character predicted:::1:::1:::1:::1.0:::1.0
-character as destiny, career foretold:::childhood anecdote, character predicted:::1:::1:::1:::1.0:::1.0
-family, genetic heritage of persona:::childhood anecdote, character predicted:::1:::2:::1:::0.5:::1.0
-present tense:::time measured as persona's age:::1:::15:::1:::0.06666666666666667:::1.0
-figureOrImage, animal:::present tense:::1:::1:::15:::1.0:::0.06666666666666667
-present tense:::self-promoting or showy:::1:::15:::1:::0.06666666666666667:::1.0
-childish:::present tense:::1:::1:::15:::1.0:::0.06666666666666667
-present tense:::ambitious:::1:::15:::1:::0.06666666666666667:::1.0
-humorous, unintentionally:::present tense:::1:::1:::15:::1.0:::0.06666666666666667
-present tense:::character as destiny, career foretold:::1:::15:::1:::0.06666666666666667:::1.0
-present tense:::family, genetic heritage of persona:::2:::15:::2:::0.13333333333333333:::1.0
-figureOrImage, animal:::time measured as persona's age:::1:::1:::1:::1.0:::1.0
-self-promoting or showy:::time measured as persona's age:::1:::1:::1:::1.0:::1.0
-childish:::time measured as persona's age:::1:::1:::1:::1.0:::1.0
-ambitious:::time measured as persona's age:::1:::1:::1:::1.0:::1.0
-humorous, unintentionally:::time measured as persona's age:::1:::1:::1:::1.0:::1.0
-character as destiny, career foretold:::time measured as persona's age:::1:::1:::1:::1.0:::1.0
-family, genetic heritage of persona:::time measured as persona's age:::1:::2:::1:::0.5:::1.0
-figureOrImage, animal:::self-promoting or showy:::1:::1:::1:::1.0:::1.0
-figureOrImage, animal:::childish:::1:::1:::1:::1.0:::1.0
-figureOrImage, animal:::ambitious:::1:::1:::1:::1.0:::1.0
-figureOrImage, animal:::humorous, unintentionally:::1:::1:::1:::1.0:::1.0
-figureOrImage, animal:::character as destiny, career foretold:::1:::1:::1:::1.0:::1.0
-figureOrImage, animal:::family, genetic heritage of persona:::1:::1:::2:::1.0:::0.5
-childish:::self-promoting or showy:::1:::1:::1:::1.0:::1.0
-ambitious:::self-promoting or showy:::1:::1:::1:::1.0:::1.0
-humorous, unintentionally:::self-promoting or showy:::1:::1:::1:::1.0:::1.0
-character as destiny, career foretold:::self-promoting or showy:::1:::1:::1:::1.0:::1.0
-self-promoting or showy:::family, genetic heritage of persona:::1:::1:::2:::1.0:::0.5
-childish:::ambitious:::1:::1:::1:::1.0:::1.0
-childish:::humorous, unintentionally:::1:::1:::1:::1.0:::1.0
-childish:::character as destiny, career foretold:::1:::1:::1:::1.0:::1.0
-childish:::family, genetic heritage of persona:::1:::1:::2:::1.0:::0.5
-humorous, unintentionally:::ambitious:::1:::1:::1:::1.0:::1.0
-character as destiny, career foretold:::ambitious:::1:::1:::1:::1.0:::1.0
-ambitious:::family, genetic heritage of persona:::1:::1:::2:::1.0:::0.5
-humorous, unintentionally:::character as destiny, career foretold:::1:::1:::1:::1.0:::1.0
-humorous, unintentionally:::family, genetic heritage of persona:::1:::1:::2:::1.0:::0.5
-character as destiny, career foretold:::family, genetic heritage of persona:::1:::1:::2:::1.0:::0.5
-childhood or upbringing:::calling or vocation choice, considered:::1:::3:::1:::0.3333333333333333:::1.0
-narrator's negativity:::calling or vocation choice, considered:::1:::2:::1:::0.5:::1.0
-direct address, use of we:::calling or vocation choice, considered:::1:::9:::1:::0.1111111111111111:::1.0
-present tense:::calling or vocation choice, considered:::1:::15:::1:::0.06666666666666667:::1.0
-quotation, persona writings fiction:::calling or vocation choice, considered:::1:::2:::1:::0.5:::1.0
-calling or vocation choice, considered:::rhetorical question:::1:::1:::3:::1.0:::0.3333333333333333
-lonely:::calling or vocation choice, considered:::1:::1:::1:::1.0:::1.0
-faith, doubting or lacking:::calling or vocation choice, considered:::1:::1:::1:::1.0:::1.0
-calling or vocation choice, considered:::talent wasted in limited position:::1:::1:::2:::1.0:::0.5
-calling or vocation choice, considered:::gender restricts activity:::1:::1:::1:::1.0:::1.0
-family restricts vocation:::calling or vocation choice, considered:::1:::2:::1:::0.5:::1.0
-genius:::calling or vocation choice, considered:::1:::2:::1:::0.5:::1.0
-captivity:::calling or vocation choice, considered:::1:::1:::1:::1.0:::1.0
-narrator's negativity:::childhood or upbringing:::1:::2:::3:::0.5:::0.3333333333333333
-direct address, use of we:::childhood or upbringing:::1:::9:::3:::0.1111111111111111:::0.3333333333333333
-quotation, persona writings fiction:::childhood or upbringing:::1:::2:::3:::0.5:::0.3333333333333333
-childhood or upbringing:::lonely:::1:::3:::1:::0.3333333333333333:::1.0
-childhood or upbringing:::faith, doubting or lacking:::1:::3:::1:::0.3333333333333333:::1.0
-childhood or upbringing:::talent wasted in limited position:::1:::3:::2:::0.3333333333333333:::0.5
-childhood or upbringing:::gender restricts activity:::1:::3:::1:::0.3333333333333333:::1.0
-family restricts vocation:::childhood or upbringing:::1:::2:::3:::0.5:::0.3333333333333333
-genius:::childhood or upbringing:::1:::2:::3:::0.5:::0.3333333333333333
-captivity:::childhood or upbringing:::1:::1:::3:::1.0:::0.3333333333333333
-direct address, use of we:::narrator's negativity:::2:::9:::2:::0.2222222222222222:::1.0
-narrator's negativity:::present tense:::2:::2:::15:::1.0:::0.13333333333333333
-quotation, persona writings fiction:::narrator's negativity:::1:::2:::2:::0.5:::0.5
-narrator's negativity:::rhetorical question:::1:::2:::3:::0.5:::0.3333333333333333
-narrator's negativity:::lonely:::1:::2:::1:::0.5:::1.0
-narrator's negativity:::faith, doubting or lacking:::1:::2:::1:::0.5:::1.0
-narrator's negativity:::talent wasted in limited position:::1:::2:::2:::0.5:::0.5
-narrator's negativity:::gender restricts activity:::1:::2:::1:::0.5:::1.0
-narrator's negativity:::family restricts vocation:::1:::2:::2:::0.5:::0.5
-narrator's negativity:::genius:::1:::2:::2:::0.5:::0.5
-captivity:::narrator's negativity:::1:::1:::2:::1.0:::0.5
-quotation, persona writings fiction:::direct address, use of we:::1:::2:::9:::0.5:::0.1111111111111111
-direct address, use of we:::rhetorical question:::2:::9:::3:::0.2222222222222222:::0.6666666666666666
-direct address, use of we:::lonely:::1:::9:::1:::0.1111111111111111:::1.0
-direct address, use of we:::faith, doubting or lacking:::1:::9:::1:::0.1111111111111111:::1.0
-direct address, use of we:::talent wasted in limited position:::1:::9:::2:::0.1111111111111111:::0.5
-direct address, use of we:::gender restricts activity:::1:::9:::1:::0.1111111111111111:::1.0
-direct address, use of we:::family restricts vocation:::1:::9:::2:::0.1111111111111111:::0.5
-direct address, use of we:::genius:::2:::9:::2:::0.2222222222222222:::1.0
-captivity:::direct address, use of we:::1:::1:::9:::1.0:::0.1111111111111111
-quotation, persona writings fiction:::present tense:::1:::2:::15:::0.5:::0.06666666666666667
-present tense:::lonely:::1:::15:::1:::0.06666666666666667:::1.0
-present tense:::faith, doubting or lacking:::1:::15:::1:::0.06666666666666667:::1.0
-present tense:::talent wasted in limited position:::2:::15:::2:::0.13333333333333333:::1.0
-present tense:::gender restricts activity:::1:::15:::1:::0.06666666666666667:::1.0
-present tense:::family restricts vocation:::1:::15:::2:::0.06666666666666667:::0.5
-present tense:::genius:::2:::15:::2:::0.13333333333333333:::1.0
-captivity:::present tense:::1:::1:::15:::1.0:::0.06666666666666667
-quotation, persona writings fiction:::rhetorical question:::1:::2:::3:::0.5:::0.3333333333333333
-quotation, persona writings fiction:::lonely:::1:::2:::1:::0.5:::1.0
-quotation, persona writings fiction:::faith, doubting or lacking:::1:::2:::1:::0.5:::1.0
-quotation, persona writings fiction:::talent wasted in limited position:::1:::2:::2:::0.5:::0.5
-quotation, persona writings fiction:::gender restricts activity:::1:::2:::1:::0.5:::1.0
-quotation, persona writings fiction:::family restricts vocation:::1:::2:::2:::0.5:::0.5
-quotation, persona writings fiction:::genius:::1:::2:::2:::0.5:::0.5
-captivity:::quotation, persona writings fiction:::1:::1:::2:::1.0:::0.5
-lonely:::rhetorical question:::1:::1:::3:::1.0:::0.3333333333333333
-faith, doubting or lacking:::rhetorical question:::1:::1:::3:::1.0:::0.3333333333333333
-talent wasted in limited position:::rhetorical question:::1:::2:::3:::0.5:::0.3333333333333333
-gender restricts activity:::rhetorical question:::1:::1:::3:::1.0:::0.3333333333333333
-family restricts vocation:::rhetorical question:::1:::2:::3:::0.5:::0.3333333333333333
-genius:::rhetorical question:::1:::2:::3:::0.5:::0.3333333333333333
-captivity:::rhetorical question:::1:::1:::3:::1.0:::0.3333333333333333
-faith, doubting or lacking:::lonely:::1:::1:::1:::1.0:::1.0
-lonely:::talent wasted in limited position:::1:::1:::2:::1.0:::0.5
-lonely:::gender restricts activity:::1:::1:::1:::1.0:::1.0
-family restricts vocation:::lonely:::1:::2:::1:::0.5:::1.0
-genius:::lonely:::1:::2:::1:::0.5:::1.0
-captivity:::lonely:::1:::1:::1:::1.0:::1.0
-faith, doubting or lacking:::talent wasted in limited position:::1:::1:::2:::1.0:::0.5
-faith, doubting or lacking:::gender restricts activity:::1:::1:::1:::1.0:::1.0
-family restricts vocation:::faith, doubting or lacking:::1:::2:::1:::0.5:::1.0
-genius:::faith, doubting or lacking:::1:::2:::1:::0.5:::1.0
-captivity:::faith, doubting or lacking:::1:::1:::1:::1.0:::1.0
-gender restricts activity:::talent wasted in limited position:::1:::1:::2:::1.0:::0.5
-family restricts vocation:::talent wasted in limited position:::1:::2:::2:::0.5:::0.5
-genius:::talent wasted in limited position:::1:::2:::2:::0.5:::0.5
-captivity:::talent wasted in limited position:::1:::1:::2:::1.0:::0.5
-family restricts vocation:::gender restricts activity:::1:::2:::1:::0.5:::1.0
-genius:::gender restricts activity:::1:::2:::1:::0.5:::1.0
-captivity:::gender restricts activity:::1:::1:::1:::1.0:::1.0
-family restricts vocation:::genius:::1:::2:::2:::0.5:::0.5
-captivity:::family restricts vocation:::1:::1:::2:::1.0:::0.5
-captivity:::genius:::1:::1:::2:::1.0:::0.5
-wedding:::death or loss of mother:::1:::3:::1:::0.3333333333333333:::1.0
-wedding:::service to family, housekeeping:::1:::3:::1:::0.3333333333333333:::1.0
-wedding:::focalization, attributing motives:::1:::3:::1:::0.3333333333333333:::1.0
-wedding:::quotation, unidentified:::1:::3:::4:::0.3333333333333333:::0.25
-wedding:::emphasis in typeface, punctuation:::2:::3:::12:::0.6666666666666666:::0.16666666666666666
-wedding:::family restricts vocation:::1:::3:::2:::0.3333333333333333:::0.5
-death or loss of mother:::service to family, housekeeping:::1:::1:::1:::1.0:::1.0
-death or loss of mother:::focalization, attributing motives:::1:::1:::1:::1.0:::1.0
-death or loss of mother:::quotation, unidentified:::1:::1:::4:::1.0:::0.25
-death or loss of mother:::emphasis in typeface, punctuation:::1:::1:::12:::1.0:::0.08333333333333333
-death or loss of mother:::family restricts vocation:::1:::1:::2:::1.0:::0.5
-service to family, housekeeping:::focalization, attributing motives:::1:::1:::1:::1.0:::1.0
-service to family, housekeeping:::quotation, unidentified:::1:::1:::4:::1.0:::0.25
-emphasis in typeface, punctuation:::service to family, housekeeping:::1:::12:::1:::0.08333333333333333:::1.0
-family restricts vocation:::service to family, housekeeping:::1:::2:::1:::0.5:::1.0
-focalization, attributing motives:::quotation, unidentified:::1:::1:::4:::1.0:::0.25
-emphasis in typeface, punctuation:::focalization, attributing motives:::1:::12:::1:::0.08333333333333333:::1.0
-family restricts vocation:::focalization, attributing motives:::1:::2:::1:::0.5:::1.0
-family restricts vocation:::quotation, unidentified:::1:::2:::4:::0.5:::0.25
-emphasis in typeface, punctuation:::family restricts vocation:::1:::12:::2:::0.08333333333333333:::0.5
-writing other:::work accomplished, writing:::1:::1:::2:::1.0:::0.5
-direct address, use of you:::work accomplished, writing:::1:::1:::2:::1.0:::0.5
-emphasis in typeface, punctuation:::work accomplished, writing:::2:::12:::2:::0.16666666666666666:::1.0
-focalization, attributing feelings:::work accomplished, writing:::1:::1:::2:::1.0:::0.5
-work accomplished, writing:::quotation, unidentified:::1:::2:::4:::0.5:::0.25
-allusion to historical man:::work accomplished, writing:::2:::3:::2:::0.6666666666666666:::1.0
-summary, more, much or all life in less prose:::work accomplished, writing:::1:::5:::2:::0.2:::0.5
-present tense:::work accomplished, writing:::1:::15:::2:::0.06666666666666667:::0.5
-inexperienced:::work accomplished, writing:::1:::1:::2:::1.0:::0.5
-naive:::work accomplished, writing:::1:::1:::2:::1.0:::0.5
-genius or talented:::work accomplished, writing:::1:::4:::2:::0.25:::0.5
-talent wasted in limited position:::work accomplished, writing:::1:::2:::2:::0.5:::0.5
-writing other:::direct address, use of you:::1:::1:::1:::1.0:::1.0
-emphasis in typeface, punctuation:::writing other:::1:::12:::1:::0.08333333333333333:::1.0
-focalization, attributing feelings:::writing other:::1:::1:::1:::1.0:::1.0
-writing other:::quotation, unidentified:::1:::1:::4:::1.0:::0.25
-allusion to historical man:::writing other:::1:::3:::1:::0.3333333333333333:::1.0
-writing other:::summary, more, much or all life in less prose:::1:::1:::5:::1.0:::0.2
-present tense:::writing other:::1:::15:::1:::0.06666666666666667:::1.0
-inexperienced:::writing other:::1:::1:::1:::1.0:::1.0
-naive:::writing other:::1:::1:::1:::1.0:::1.0
-genius or talented:::writing other:::1:::4:::1:::0.25:::1.0
-writing other:::talent wasted in limited position:::1:::1:::2:::1.0:::0.5
-emphasis in typeface, punctuation:::direct address, use of you:::1:::12:::1:::0.08333333333333333:::1.0
-focalization, attributing feelings:::direct address, use of you:::1:::1:::1:::1.0:::1.0
-direct address, use of you:::quotation, unidentified:::1:::1:::4:::1.0:::0.25
-allusion to historical man:::direct address, use of you:::1:::3:::1:::0.3333333333333333:::1.0
-direct address, use of you:::summary, more, much or all life in less prose:::1:::1:::5:::1.0:::0.2
-present tense:::direct address, use of you:::1:::15:::1:::0.06666666666666667:::1.0
-inexperienced:::direct address, use of you:::1:::1:::1:::1.0:::1.0
-naive:::direct address, use of you:::1:::1:::1:::1.0:::1.0
-genius or talented:::direct address, use of you:::1:::4:::1:::0.25:::1.0
-direct address, use of you:::talent wasted in limited position:::1:::1:::2:::1.0:::0.5
-focalization, attributing feelings:::emphasis in typeface, punctuation:::1:::1:::12:::1.0:::0.08333333333333333
-allusion to historical man:::emphasis in typeface, punctuation:::2:::3:::12:::0.6666666666666666:::0.16666666666666666
-emphasis in typeface, punctuation:::inexperienced:::1:::12:::1:::0.08333333333333333:::1.0
-naive:::emphasis in typeface, punctuation:::1:::1:::12:::1.0:::0.08333333333333333
-emphasis in typeface, punctuation:::genius or talented:::2:::12:::4:::0.16666666666666666:::0.5
-emphasis in typeface, punctuation:::talent wasted in limited position:::1:::12:::2:::0.08333333333333333:::0.5
-focalization, attributing feelings:::quotation, unidentified:::1:::1:::4:::1.0:::0.25
-allusion to historical man:::focalization, attributing feelings:::1:::3:::1:::0.3333333333333333:::1.0
-focalization, attributing feelings:::summary, more, much or all life in less prose:::1:::1:::5:::1.0:::0.2
-focalization, attributing feelings:::present tense:::1:::1:::15:::1.0:::0.06666666666666667
-focalization, attributing feelings:::inexperienced:::1:::1:::1:::1.0:::1.0
-focalization, attributing feelings:::naive:::1:::1:::1:::1.0:::1.0
-focalization, attributing feelings:::genius or talented:::1:::1:::4:::1.0:::0.25
-focalization, attributing feelings:::talent wasted in limited position:::1:::1:::2:::1.0:::0.5
-allusion to historical man:::quotation, unidentified:::2:::3:::4:::0.6666666666666666:::0.5
-summary, more, much or all life in less prose:::quotation, unidentified:::1:::5:::4:::0.2:::0.25
-inexperienced:::quotation, unidentified:::1:::1:::4:::1.0:::0.25
-naive:::quotation, unidentified:::1:::1:::4:::1.0:::0.25
-genius or talented:::quotation, unidentified:::2:::4:::4:::0.5:::0.5
-talent wasted in limited position:::quotation, unidentified:::1:::2:::4:::0.5:::0.25
-allusion to historical man:::summary, more, much or all life in less prose:::1:::3:::5:::0.3333333333333333:::0.2
-allusion to historical man:::present tense:::1:::3:::15:::0.3333333333333333:::0.06666666666666667
-allusion to historical man:::inexperienced:::1:::3:::1:::0.3333333333333333:::1.0
-allusion to historical man:::naive:::1:::3:::1:::0.3333333333333333:::1.0
-allusion to historical man:::genius or talented:::2:::3:::4:::0.6666666666666666:::0.5
-allusion to historical man:::talent wasted in limited position:::1:::3:::2:::0.3333333333333333:::0.5
-present tense:::summary, more, much or all life in less prose:::3:::15:::5:::0.2:::0.6
-inexperienced:::summary, more, much or all life in less prose:::1:::1:::5:::1.0:::0.2
-naive:::summary, more, much or all life in less prose:::1:::1:::5:::1.0:::0.2
-genius or talented:::summary, more, much or all life in less prose:::1:::4:::5:::0.25:::0.2
-summary, more, much or all life in less prose:::talent wasted in limited position:::1:::5:::2:::0.2:::0.5
-present tense:::inexperienced:::1:::15:::1:::0.06666666666666667:::1.0
-naive:::present tense:::1:::1:::15:::1.0:::0.06666666666666667
-present tense:::genius or talented:::3:::15:::4:::0.2:::0.75
-naive:::inexperienced:::1:::1:::1:::1.0:::1.0
-inexperienced:::genius or talented:::1:::1:::4:::1.0:::0.25
-inexperienced:::talent wasted in limited position:::1:::1:::2:::1.0:::0.5
-naive:::genius or talented:::1:::1:::4:::1.0:::0.25
-naive:::talent wasted in limited position:::1:::1:::2:::1.0:::0.5
-genius or talented:::talent wasted in limited position:::1:::4:::2:::0.25:::0.5
-wedding:::summary, more, much or all life in less prose:::1:::3:::5:::0.3333333333333333:::0.2
-wedding:::romance:::1:::3:::1:::0.3333333333333333:::1.0
-wedding:::talent discovered in new activity:::1:::3:::1:::0.3333333333333333:::1.0
-summary, more, much or all life in less prose:::romance:::1:::5:::1:::0.2:::1.0
-talent discovered in new activity:::summary, more, much or all life in less prose:::1:::1:::5:::1.0:::0.2
-emphasis in typeface, punctuation:::romance:::1:::12:::1:::0.08333333333333333:::1.0
-talent discovered in new activity:::emphasis in typeface, punctuation:::1:::1:::12:::1.0:::0.08333333333333333
-talent discovered in new activity:::romance:::1:::1:::1:::1.0:::1.0
-work accomplished, writing:::writing novel:::1:::2:::1:::0.5:::1.0
-writing novel:::publication:::1:::1:::3:::1.0:::0.3333333333333333
-emphasis in typeface, punctuation:::writing novel:::1:::12:::1:::0.08333333333333333:::1.0
-allusion to historical man:::writing novel:::1:::3:::1:::0.3333333333333333:::1.0
-quotation, agent's speech, unique:::writing novel:::1:::2:::1:::0.5:::1.0
-focalization, attributing perception:::writing novel:::1:::1:::1:::1.0:::1.0
-foreign phrase:::writing novel:::1:::2:::1:::0.5:::1.0
-gender as persona's encounter with others:::writing novel:::1:::2:::1:::0.5:::1.0
-work accomplished, writing:::publication:::1:::2:::3:::0.5:::0.3333333333333333
-quotation, agent's speech, unique:::work accomplished, writing:::1:::2:::2:::0.5:::0.5
-focalization, attributing perception:::work accomplished, writing:::1:::1:::2:::1.0:::0.5
-foreign phrase:::work accomplished, writing:::1:::2:::2:::0.5:::0.5
-gender as persona's encounter with others:::work accomplished, writing:::1:::2:::2:::0.5:::0.5
-emphasis in typeface, punctuation:::publication:::1:::12:::3:::0.08333333333333333:::0.3333333333333333
-allusion to historical man:::publication:::1:::3:::3:::0.3333333333333333:::0.3333333333333333
-quotation, agent's speech, unique:::publication:::1:::2:::3:::0.5:::0.3333333333333333
-focalization, attributing perception:::publication:::1:::1:::3:::1.0:::0.3333333333333333
-foreign phrase:::publication:::1:::2:::3:::0.5:::0.3333333333333333
-gender as persona's encounter with others:::publication:::1:::2:::3:::0.5:::0.3333333333333333
-emphasis in typeface, punctuation:::focalization, attributing perception:::1:::12:::1:::0.08333333333333333:::1.0
-emphasis in typeface, punctuation:::foreign phrase:::1:::12:::2:::0.08333333333333333:::0.5
-gender as persona's encounter with others:::emphasis in typeface, punctuation:::1:::2:::12:::0.5:::0.08333333333333333
-allusion to historical man:::quotation, agent's speech, unique:::1:::3:::2:::0.3333333333333333:::0.5
-allusion to historical man:::focalization, attributing perception:::1:::3:::1:::0.3333333333333333:::1.0
-allusion to historical man:::foreign phrase:::1:::3:::2:::0.3333333333333333:::0.5
-allusion to historical man:::gender as persona's encounter with others:::1:::3:::2:::0.3333333333333333:::0.5
-focalization, attributing perception:::quotation, agent's speech, unique:::1:::1:::2:::1.0:::0.5
-foreign phrase:::quotation, agent's speech, unique:::1:::2:::2:::0.5:::0.5
-gender as persona's encounter with others:::quotation, agent's speech, unique:::1:::2:::2:::0.5:::0.5
-focalization, attributing perception:::foreign phrase:::1:::1:::2:::1.0:::0.5
-gender as persona's encounter with others:::focalization, attributing perception:::1:::2:::1:::0.5:::1.0
-gender as persona's encounter with others:::foreign phrase:::2:::2:::2:::1.0:::1.0
-present tense:::publication:::2:::15:::3:::0.13333333333333333:::0.6666666666666666
-summary, more, much or all life in less prose:::publication:::1:::5:::3:::0.2:::0.3333333333333333
-travel due to illness:::music, effect, response to:::1:::1:::2:::1.0:::0.5
-emphasis in typeface, punctuation:::travel due to illness:::1:::12:::1:::0.08333333333333333:::1.0
-sickly:::travel due to illness:::1:::1:::1:::1.0:::1.0
-sickly:::music, effect, response to:::1:::1:::2:::1.0:::0.5
-sickly:::emphasis in typeface, punctuation:::1:::1:::12:::1.0:::0.08333333333333333
-direct address, use of we:::writing diary:::1:::9:::2:::0.1111111111111111:::0.5
-present tense:::writing diary:::2:::15:::2:::0.13333333333333333:::1.0
-writing diary:::quotation, persona writings about self:::2:::2:::2:::1.0:::1.0
-direct address, use of we:::quotation, persona writings about self:::1:::9:::2:::0.1111111111111111:::0.5
-present tense:::quotation, persona writings about self:::2:::15:::2:::0.13333333333333333:::1.0
-direct address, use of we:::publication:::1:::9:::3:::0.1111111111111111:::0.3333333333333333
-literary analysis:::publication:::1:::3:::3:::0.3333333333333333:::0.3333333333333333
-narrator's negativity:::publication:::1:::2:::3:::0.5:::0.3333333333333333
-fame in lifetime:::publication:::1:::5:::3:::0.2:::0.3333333333333333
-direct address, use of we:::literary analysis:::1:::9:::3:::0.1111111111111111:::0.3333333333333333
-fame in lifetime:::direct address, use of we:::4:::5:::9:::0.8:::0.4444444444444444
-present tense:::literary analysis:::2:::15:::3:::0.13333333333333333:::0.6666666666666666
-fame in lifetime:::present tense:::2:::5:::15:::0.4:::0.13333333333333333
-narrator's negativity:::literary analysis:::1:::2:::3:::0.5:::0.3333333333333333
-fame in lifetime:::literary analysis:::1:::5:::3:::0.2:::0.3333333333333333
-fame in lifetime:::narrator's negativity:::1:::5:::2:::0.2:::0.5
-emphasis in typeface, punctuation:::writing diary:::1:::12:::2:::0.08333333333333333:::0.5
-emphasis in typeface, punctuation:::quotation, persona writings about self:::1:::12:::2:::0.08333333333333333:::0.5
-wedding:::speculation, alternative outcomes, "if":::1:::3:::1:::0.3333333333333333:::1.0
-wedding:::fame, posthumous:::1:::3:::3:::0.3333333333333333:::0.3333333333333333
-speculation, alternative outcomes, "if":::fame, posthumous:::1:::1:::3:::1.0:::0.3333333333333333
-death, persona's:::illness, persona's:::1:::1:::1:::1.0:::1.0
-figureOrImage, ghost or spirit:::illness, persona's:::1:::1:::1:::1.0:::1.0
-metaphor, extended:::illness, persona's:::1:::1:::1:::1.0:::1.0
-death, persona's:::figureOrImage, ghost or spirit:::1:::1:::1:::1.0:::1.0
-metaphor, extended:::death, persona's:::1:::1:::1:::1.0:::1.0
-metaphor, extended:::figureOrImage, ghost or spirit:::1:::1:::1:::1.0:::1.0
-present tense:::precepts:::1:::15:::2:::0.06666666666666667:::0.5
-present tense:::evidence missing, gap in record:::1:::15:::1:::0.06666666666666667:::1.0
-present tense:::attachment, family bonding or not:::1:::15:::1:::0.06666666666666667:::1.0
-speculation, possible motives or causes:::literary analysis:::1:::3:::3:::0.3333333333333333:::0.3333333333333333
-speculation, possible motives or causes:::precepts:::1:::3:::2:::0.3333333333333333:::0.5
-speculation, possible motives or causes:::evidence missing, gap in record:::1:::3:::1:::0.3333333333333333:::1.0
-speculation, possible motives or causes:::genius or talented:::1:::3:::4:::0.3333333333333333:::0.25
-speculation, possible motives or causes:::attachment, family bonding or not:::1:::3:::1:::0.3333333333333333:::1.0
-speculation, possible motives or causes:::family, genetic heritage of persona:::1:::3:::2:::0.3333333333333333:::0.5
-emphasis in typeface, punctuation:::literary analysis:::1:::12:::3:::0.08333333333333333:::0.3333333333333333
-emphasis in typeface, punctuation:::precepts:::1:::12:::2:::0.08333333333333333:::0.5
-emphasis in typeface, punctuation:::evidence missing, gap in record:::1:::12:::1:::0.08333333333333333:::1.0
-emphasis in typeface, punctuation:::attachment, family bonding or not:::1:::12:::1:::0.08333333333333333:::1.0
-literary analysis:::precepts:::2:::3:::2:::0.6666666666666666:::1.0
-evidence missing, gap in record:::literary analysis:::1:::1:::3:::1.0:::0.3333333333333333
-genius or talented:::literary analysis:::1:::4:::3:::0.25:::0.3333333333333333
-attachment, family bonding or not:::literary analysis:::1:::1:::3:::1.0:::0.3333333333333333
-literary analysis:::family, genetic heritage of persona:::1:::3:::2:::0.3333333333333333:::0.5
-evidence missing, gap in record:::precepts:::1:::1:::2:::1.0:::0.5
-genius or talented:::precepts:::1:::4:::2:::0.25:::0.5
-attachment, family bonding or not:::precepts:::1:::1:::2:::1.0:::0.5
-family, genetic heritage of persona:::precepts:::1:::2:::2:::0.5:::0.5
-genius or talented:::evidence missing, gap in record:::1:::4:::1:::0.25:::1.0
-attachment, family bonding or not:::evidence missing, gap in record:::1:::1:::1:::1.0:::1.0
-evidence missing, gap in record:::family, genetic heritage of persona:::1:::1:::2:::1.0:::0.5
-attachment, family bonding or not:::genius or talented:::1:::1:::4:::1.0:::0.25
-genius or talented:::family, genetic heritage of persona:::1:::4:::2:::0.25:::0.5
-attachment, family bonding or not:::family, genetic heritage of persona:::1:::1:::2:::1.0:::0.5
-figureOrImage, other:::precepts:::1:::4:::2:::0.25:::0.5
-artistic:::precepts:::1:::1:::2:::1.0:::0.5
-figureOrImage, other:::literary analysis:::1:::4:::3:::0.25:::0.3333333333333333
-artistic:::literary analysis:::1:::1:::3:::1.0:::0.3333333333333333
-artistic:::figureOrImage, other:::1:::1:::4:::1.0:::0.25
-figureOrImage, other:::summary, more, much or all life in less prose:::1:::4:::5:::0.25:::0.2
-figureOrImage, water:::figureOrImage, other:::1:::1:::4:::1.0:::0.25
-figureOrImage, other:::present tense:::3:::4:::15:::0.75:::0.2
-figureOrImage, other:::evaluation:::1:::4:::2:::0.25:::0.5
-direct address, use of we:::figureOrImage, other:::3:::9:::4:::0.3333333333333333:::0.75
-figureOrImage, other:::genius:::1:::4:::2:::0.25:::0.5
-figureOrImage, other:::temptation of pleasure or love:::1:::4:::1:::0.25:::1.0
-figureOrImage, other:::despair:::1:::4:::1:::0.25:::1.0
-figureOrImage, water:::summary, more, much or all life in less prose:::1:::1:::5:::1.0:::0.2
-summary, more, much or all life in less prose:::evaluation:::1:::5:::2:::0.2:::0.5
-direct address, use of we:::summary, more, much or all life in less prose:::1:::9:::5:::0.1111111111111111:::0.2
-genius:::summary, more, much or all life in less prose:::1:::2:::5:::0.5:::0.2
-summary, more, much or all life in less prose:::temptation of pleasure or love:::1:::5:::1:::0.2:::1.0
-summary, more, much or all life in less prose:::despair:::1:::5:::1:::0.2:::1.0
-figureOrImage, water:::present tense:::1:::1:::15:::1.0:::0.06666666666666667
-figureOrImage, water:::evaluation:::1:::1:::2:::1.0:::0.5
-figureOrImage, water:::direct address, use of we:::1:::1:::9:::1.0:::0.1111111111111111
-figureOrImage, water:::genius:::1:::1:::2:::1.0:::0.5
-figureOrImage, water:::temptation of pleasure or love:::1:::1:::1:::1.0:::1.0
-figureOrImage, water:::despair:::1:::1:::1:::1.0:::1.0
-present tense:::evaluation:::2:::15:::2:::0.13333333333333333:::1.0
-present tense:::temptation of pleasure or love:::1:::15:::1:::0.06666666666666667:::1.0
-present tense:::despair:::1:::15:::1:::0.06666666666666667:::1.0
-direct address, use of we:::evaluation:::1:::9:::2:::0.1111111111111111:::0.5
-genius:::evaluation:::1:::2:::2:::0.5:::0.5
-temptation of pleasure or love:::evaluation:::1:::1:::2:::1.0:::0.5
-despair:::evaluation:::1:::1:::2:::1.0:::0.5
-direct address, use of we:::temptation of pleasure or love:::1:::9:::1:::0.1111111111111111:::1.0
-direct address, use of we:::despair:::1:::9:::1:::0.1111111111111111:::1.0
-genius:::temptation of pleasure or love:::1:::2:::1:::0.5:::1.0
-genius:::despair:::1:::2:::1:::0.5:::1.0
-despair:::temptation of pleasure or love:::1:::1:::1:::1.0:::1.0
-allusion literary, reference:::direct address, use of we:::1:::1:::9:::1.0:::0.1111111111111111
-direct address, use of we:::foreign phrase:::1:::9:::2:::0.1111111111111111:::0.5
-direct address, use of we:::superior to men:::1:::9:::2:::0.1111111111111111:::0.5
-direct address, use of we:::superior to other women:::1:::9:::2:::0.1111111111111111:::0.5
-gender as persona's encounter with others:::direct address, use of we:::1:::2:::9:::0.5:::0.1111111111111111
-allusion literary, reference:::foreign phrase:::1:::1:::2:::1.0:::0.5
-allusion literary, reference:::superior to men:::1:::1:::2:::1.0:::0.5
-allusion literary, reference:::superior to other women:::1:::1:::2:::1.0:::0.5
-allusion literary, reference:::fame in lifetime:::1:::1:::5:::1.0:::0.2
-allusion literary, reference:::gender as persona's encounter with others:::1:::1:::2:::1.0:::0.5
-superior to men:::foreign phrase:::1:::2:::2:::0.5:::0.5
-foreign phrase:::superior to other women:::1:::2:::2:::0.5:::0.5
-fame in lifetime:::foreign phrase:::1:::5:::2:::0.2:::0.5
-superior to men:::superior to other women:::2:::2:::2:::1.0:::1.0
-fame in lifetime:::superior to men:::1:::5:::2:::0.2:::0.5
-gender as persona's encounter with others:::superior to men:::1:::2:::2:::0.5:::0.5
-fame in lifetime:::superior to other women:::1:::5:::2:::0.2:::0.5
-gender as persona's encounter with others:::superior to other women:::1:::2:::2:::0.5:::0.5
-gender as persona's encounter with others:::fame in lifetime:::1:::2:::5:::0.5:::0.2
-allusion to historical man:::quotation, group, often said:::1:::3:::1:::0.3333333333333333:::1.0
-allusion to historical man:::figureOrImage, music:::1:::3:::1:::0.3333333333333333:::1.0
-allusion to historical man:::direct address, use of we:::1:::3:::9:::0.3333333333333333:::0.1111111111111111
-allusion to historical man:::rhetorical question:::1:::3:::3:::0.3333333333333333:::0.3333333333333333
-allusion to historical man:::self-doubting, diffident:::1:::3:::1:::0.3333333333333333:::1.0
-allusion to historical man:::honest:::1:::3:::1:::0.3333333333333333:::1.0
-allusion to historical man:::fame in lifetime:::1:::3:::5:::0.3333333333333333:::0.2
-figureOrImage, music:::quotation, group, often said:::1:::1:::1:::1.0:::1.0
-quotation, group, often said:::quotation, unidentified:::1:::1:::4:::1.0:::0.25
-direct address, use of we:::quotation, group, often said:::1:::9:::1:::0.1111111111111111:::1.0
-quotation, group, often said:::rhetorical question:::1:::1:::3:::1.0:::0.3333333333333333
-quotation, group, often said:::genius or talented:::1:::1:::4:::1.0:::0.25
-quotation, group, often said:::self-doubting, diffident:::1:::1:::1:::1.0:::1.0
-quotation, group, often said:::honest:::1:::1:::1:::1.0:::1.0
-fame in lifetime:::quotation, group, often said:::1:::5:::1:::0.2:::1.0
-figureOrImage, music:::quotation, unidentified:::1:::1:::4:::1.0:::0.25
-figureOrImage, music:::direct address, use of we:::1:::1:::9:::1.0:::0.1111111111111111
-figureOrImage, music:::rhetorical question:::1:::1:::3:::1.0:::0.3333333333333333
-figureOrImage, music:::genius or talented:::1:::1:::4:::1.0:::0.25
-figureOrImage, music:::self-doubting, diffident:::1:::1:::1:::1.0:::1.0
-figureOrImage, music:::honest:::1:::1:::1:::1.0:::1.0
-figureOrImage, music:::fame in lifetime:::1:::1:::5:::1.0:::0.2
-direct address, use of we:::quotation, unidentified:::1:::9:::4:::0.1111111111111111:::0.25
-self-doubting, diffident:::quotation, unidentified:::1:::1:::4:::1.0:::0.25
-honest:::quotation, unidentified:::1:::1:::4:::1.0:::0.25
-fame in lifetime:::quotation, unidentified:::1:::5:::4:::0.2:::0.25
-direct address, use of we:::genius or talented:::1:::9:::4:::0.1111111111111111:::0.25
-direct address, use of we:::self-doubting, diffident:::1:::9:::1:::0.1111111111111111:::1.0
-direct address, use of we:::honest:::1:::9:::1:::0.1111111111111111:::1.0
-genius or talented:::rhetorical question:::1:::4:::3:::0.25:::0.3333333333333333
-self-doubting, diffident:::rhetorical question:::1:::1:::3:::1.0:::0.3333333333333333
-honest:::rhetorical question:::1:::1:::3:::1.0:::0.3333333333333333
-fame in lifetime:::rhetorical question:::1:::5:::3:::0.2:::0.3333333333333333
-genius or talented:::self-doubting, diffident:::1:::4:::1:::0.25:::1.0
-genius or talented:::honest:::1:::4:::1:::0.25:::1.0
-fame in lifetime:::genius or talented:::1:::5:::4:::0.2:::0.25
-self-doubting, diffident:::honest:::1:::1:::1:::1.0:::1.0
-fame in lifetime:::self-doubting, diffident:::1:::5:::1:::0.2:::1.0
-fame in lifetime:::honest:::1:::5:::1:::0.2:::1.0
-influence, emotional effect on peers:::present tense:::2:::2:::15:::1.0:::0.13333333333333333
-emphasis in typeface, punctuation:::figureOrImage, other:::1:::12:::4:::0.08333333333333333:::0.25
-emphasis in typeface, punctuation:::direct address, use of we:::1:::12:::9:::0.08333333333333333:::0.1111111111111111
-influence, emotional effect on peers:::emphasis in typeface, punctuation:::1:::2:::12:::0.5:::0.08333333333333333
-influence, emotional effect on peers:::figureOrImage, other:::1:::2:::4:::0.5:::0.25
-influence, emotional effect on peers:::direct address, use of we:::1:::2:::9:::0.5:::0.1111111111111111
-present tense:::great:::1:::15:::2:::0.06666666666666667:::0.5
-intelligent:::present tense:::1:::2:::15:::0.5:::0.06666666666666667
-present tense:::learned, languages:::1:::15:::1:::0.06666666666666667:::1.0
-present tense:::superior to other women:::1:::15:::2:::0.06666666666666667:::0.5
-present tense:::superior to men:::1:::15:::2:::0.06666666666666667:::0.5
-genius or talented:::great:::1:::4:::2:::0.25:::0.5
-learned, languages:::great:::1:::1:::2:::1.0:::0.5
-superior to other women:::great:::1:::2:::2:::0.5:::0.5
-superior to men:::great:::1:::2:::2:::0.5:::0.5
-influence, emotional effect on peers:::great:::1:::2:::2:::0.5:::0.5
-intelligent:::genius or talented:::1:::2:::4:::0.5:::0.25
-learned, languages:::genius or talented:::1:::1:::4:::1.0:::0.25
-genius or talented:::superior to other women:::1:::4:::2:::0.25:::0.5
-superior to men:::genius or talented:::1:::2:::4:::0.5:::0.25
-influence, emotional effect on peers:::genius or talented:::1:::2:::4:::0.5:::0.25
-intelligent:::learned, languages:::1:::2:::1:::0.5:::1.0
-intelligent:::superior to other women:::1:::2:::2:::0.5:::0.5
-intelligent:::superior to men:::1:::2:::2:::0.5:::0.5
-intelligent:::influence, emotional effect on peers:::1:::2:::2:::0.5:::0.5
-learned, languages:::superior to other women:::1:::1:::2:::1.0:::0.5
+war, international:::personification, one sex or gender:::1:::1:::1:::1.0:::1.0
+description of a kind of people or society (not individual):::war, international:::1:::1:::1:::1.0:::1.0
+prospective or foreshadowing:::war, international:::1:::1:::1:::1.0:::1.0
+famous:::war, international:::1:::1:::1:::1.0:::1.0
+war, international:::gender as narrator's generalization:::1:::1:::1:::1.0:::1.0
+war, international:::race as narrator's generalization:::1:::1:::1:::1.0:::1.0
+war, international:::patriotism:::1:::1:::1:::1.0:::1.0
+war, international:::civil rights:::1:::1:::2:::1.0:::0.5
+war, international:::influence, changing peers' action:::1:::1:::1:::1.0:::1.0
+description of a kind of people or society (not individual):::personification, one sex or gender:::1:::1:::1:::1.0:::1.0
+prospective or foreshadowing:::personification, one sex or gender:::1:::1:::1:::1.0:::1.0
+famous:::personification, one sex or gender:::1:::1:::1:::1.0:::1.0
+gender as narrator's generalization:::personification, one sex or gender:::1:::1:::1:::1.0:::1.0
+race as narrator's generalization:::personification, one sex or gender:::1:::1:::1:::1.0:::1.0
+patriotism:::personification, one sex or gender:::1:::1:::1:::1.0:::1.0
+civil rights:::personification, one sex or gender:::1:::2:::1:::0.5:::1.0
+influence, changing peers' action:::personification, one sex or gender:::1:::1:::1:::1.0:::1.0
+prospective or foreshadowing:::description of a kind of people or society (not individual):::1:::1:::1:::1.0:::1.0
+famous:::description of a kind of people or society (not individual):::1:::1:::1:::1.0:::1.0
+description of a kind of people or society (not individual):::gender as narrator's generalization:::1:::1:::1:::1.0:::1.0
+description of a kind of people or society (not individual):::race as narrator's generalization:::1:::1:::1:::1.0:::1.0
+description of a kind of people or society (not individual):::patriotism:::1:::1:::1:::1.0:::1.0
+description of a kind of people or society (not individual):::civil rights:::1:::1:::2:::1.0:::0.5
+description of a kind of people or society (not individual):::influence, changing peers' action:::1:::1:::1:::1.0:::1.0
+famous:::prospective or foreshadowing:::1:::1:::1:::1.0:::1.0
+prospective or foreshadowing:::gender as narrator's generalization:::1:::1:::1:::1.0:::1.0
+prospective or foreshadowing:::race as narrator's generalization:::1:::1:::1:::1.0:::1.0
+prospective or foreshadowing:::patriotism:::1:::1:::1:::1.0:::1.0
+prospective or foreshadowing:::civil rights:::1:::1:::2:::1.0:::0.5
+prospective or foreshadowing:::influence, changing peers' action:::1:::1:::1:::1.0:::1.0
+famous:::gender as narrator's generalization:::1:::1:::1:::1.0:::1.0
+famous:::race as narrator's generalization:::1:::1:::1:::1.0:::1.0
+famous:::patriotism:::1:::1:::1:::1.0:::1.0
+famous:::civil rights:::1:::1:::2:::1.0:::0.5
+famous:::influence, changing peers' action:::1:::1:::1:::1.0:::1.0
+gender as narrator's generalization:::race as narrator's generalization:::1:::1:::1:::1.0:::1.0
+gender as narrator's generalization:::patriotism:::1:::1:::1:::1.0:::1.0
+gender as narrator's generalization:::civil rights:::1:::1:::2:::1.0:::0.5
+gender as narrator's generalization:::influence, changing peers' action:::1:::1:::1:::1.0:::1.0
+race as narrator's generalization:::patriotism:::1:::1:::1:::1.0:::1.0
+race as narrator's generalization:::civil rights:::1:::1:::2:::1.0:::0.5
+race as narrator's generalization:::influence, changing peers' action:::1:::1:::1:::1.0:::1.0
+patriotism:::civil rights:::1:::1:::2:::1.0:::0.5
+patriotism:::influence, changing peers' action:::1:::1:::1:::1.0:::1.0
+influence, changing peers' action:::civil rights:::1:::1:::2:::1.0:::0.5
+public speaking, nonreligious:::debate:::1:::4:::1:::0.25:::1.0
+public speaking, nonreligious:::meeting, public:::1:::4:::1:::0.25:::1.0
+public speaking, nonreligious:::travel, international:::1:::4:::2:::0.25:::0.5
+public speaking, nonreligious:::quotation, agent's speech, unique:::2:::4:::2:::0.5:::1.0
+public speaking, nonreligious:::learned, languages:::1:::4:::1:::0.25:::1.0
+public speaking, nonreligious:::superior to men:::1:::4:::2:::0.25:::0.5
+public speaking, nonreligious:::superior to other women:::1:::4:::2:::0.25:::0.5
+public speaking, nonreligious:::faith, confident in:::1:::4:::1:::0.25:::1.0
+dignified:::public speaking, nonreligious:::1:::1:::4:::1.0:::0.25
+faith:::public speaking, nonreligious:::1:::1:::4:::1.0:::0.25
+claim to higher status:::public speaking, nonreligious:::1:::1:::4:::1.0:::0.25
+public speaking, nonreligious:::gender as persona's encounter with others:::1:::4:::1:::0.25:::1.0
+public speaking, nonreligious:::race re persona:::1:::4:::1:::0.25:::1.0
+debate:::meeting, public:::1:::1:::1:::1.0:::1.0
+debate:::travel, international:::1:::1:::2:::1.0:::0.5
+debate:::quotation, agent's speech, unique:::1:::1:::2:::1.0:::0.5
+debate:::learned, languages:::1:::1:::1:::1.0:::1.0
+debate:::superior to men:::1:::1:::2:::1.0:::0.5
+debate:::superior to other women:::1:::1:::2:::1.0:::0.5
+debate:::faith, confident in:::1:::1:::1:::1.0:::1.0
+dignified:::debate:::1:::1:::1:::1.0:::1.0
+faith:::debate:::1:::1:::1:::1.0:::1.0
+claim to higher status:::debate:::1:::1:::1:::1.0:::1.0
+debate:::gender as persona's encounter with others:::1:::1:::1:::1.0:::1.0
+debate:::race re persona:::1:::1:::1:::1.0:::1.0
+travel, international:::meeting, public:::1:::2:::1:::0.5:::1.0
+quotation, agent's speech, unique:::meeting, public:::1:::2:::1:::0.5:::1.0
+learned, languages:::meeting, public:::1:::1:::1:::1.0:::1.0
+superior to men:::meeting, public:::1:::2:::1:::0.5:::1.0
+superior to other women:::meeting, public:::1:::2:::1:::0.5:::1.0
+faith, confident in:::meeting, public:::1:::1:::1:::1.0:::1.0
+dignified:::meeting, public:::1:::1:::1:::1.0:::1.0
+faith:::meeting, public:::1:::1:::1:::1.0:::1.0
+claim to higher status:::meeting, public:::1:::1:::1:::1.0:::1.0
+gender as persona's encounter with others:::meeting, public:::1:::1:::1:::1.0:::1.0
+race re persona:::meeting, public:::1:::1:::1:::1.0:::1.0
+quotation, agent's speech, unique:::travel, international:::1:::2:::2:::0.5:::0.5
+learned, languages:::travel, international:::1:::1:::2:::1.0:::0.5
+superior to men:::travel, international:::1:::2:::2:::0.5:::0.5
+superior to other women:::travel, international:::1:::2:::2:::0.5:::0.5
+faith, confident in:::travel, international:::1:::1:::2:::1.0:::0.5
+dignified:::travel, international:::1:::1:::2:::1.0:::0.5
+faith:::travel, international:::1:::1:::2:::1.0:::0.5
+claim to higher status:::travel, international:::1:::1:::2:::1.0:::0.5
+gender as persona's encounter with others:::travel, international:::1:::1:::2:::1.0:::0.5
+race re persona:::travel, international:::1:::1:::2:::1.0:::0.5
+learned, languages:::quotation, agent's speech, unique:::1:::1:::2:::1.0:::0.5
+superior to men:::quotation, agent's speech, unique:::1:::2:::2:::0.5:::0.5
+superior to other women:::quotation, agent's speech, unique:::1:::2:::2:::0.5:::0.5
+faith, confident in:::quotation, agent's speech, unique:::1:::1:::2:::1.0:::0.5
+dignified:::quotation, agent's speech, unique:::1:::1:::2:::1.0:::0.5
+faith:::quotation, agent's speech, unique:::1:::1:::2:::1.0:::0.5
+claim to higher status:::quotation, agent's speech, unique:::1:::1:::2:::1.0:::0.5
+gender as persona's encounter with others:::quotation, agent's speech, unique:::1:::1:::2:::1.0:::0.5
+race re persona:::quotation, agent's speech, unique:::1:::1:::2:::1.0:::0.5
 superior to men:::learned, languages:::1:::2:::1:::0.5:::1.0
-influence, emotional effect on peers:::learned, languages:::1:::2:::1:::0.5:::1.0
-influence, emotional effect on peers:::superior to other women:::1:::2:::2:::0.5:::0.5
-influence, emotional effect on peers:::superior to men:::1:::2:::2:::0.5:::0.5
-free indirect:::present tense:::1:::1:::15:::1.0:::0.06666666666666667
-present tense:::narrator's research noted:::1:::15:::1:::0.06666666666666667:::1.0
-free indirect:::figureOrImage, other:::1:::1:::4:::1.0:::0.25
-free indirect:::direct address, use of we:::1:::1:::9:::1.0:::0.1111111111111111
-free indirect:::narrator's research noted:::1:::1:::1:::1.0:::1.0
-free indirect:::fame in lifetime:::1:::1:::5:::1.0:::0.2
-free indirect:::fame, posthumous:::1:::1:::3:::1.0:::0.3333333333333333
-figureOrImage, other:::narrator's research noted:::1:::4:::1:::0.25:::1.0
-fame in lifetime:::figureOrImage, other:::1:::5:::4:::0.2:::0.25
-figureOrImage, other:::fame, posthumous:::1:::4:::3:::0.25:::0.3333333333333333
-direct address, use of we:::narrator's research noted:::1:::9:::1:::0.1111111111111111:::1.0
-fame in lifetime:::narrator's research noted:::1:::5:::1:::0.2:::1.0
-narrator's research noted:::fame, posthumous:::1:::1:::3:::1.0:::0.3333333333333333
-fame in lifetime:::fame, posthumous:::1:::5:::3:::0.2:::0.3333333333333333
+superior to other women:::learned, languages:::1:::2:::1:::0.5:::1.0
+learned, languages:::faith, confident in:::1:::1:::1:::1.0:::1.0
+dignified:::learned, languages:::1:::1:::1:::1.0:::1.0
+faith:::learned, languages:::1:::1:::1:::1.0:::1.0
+claim to higher status:::learned, languages:::1:::1:::1:::1.0:::1.0
+gender as persona's encounter with others:::learned, languages:::1:::1:::1:::1.0:::1.0
+race re persona:::learned, languages:::1:::1:::1:::1.0:::1.0
+superior to men:::superior to other women:::2:::2:::2:::1.0:::1.0
+superior to men:::faith, confident in:::1:::2:::1:::0.5:::1.0
+dignified:::superior to men:::1:::1:::2:::1.0:::0.5
+faith:::superior to men:::1:::1:::2:::1.0:::0.5
+claim to higher status:::superior to men:::1:::1:::2:::1.0:::0.5
+superior to men:::gender as persona's encounter with others:::1:::2:::1:::0.5:::1.0
+superior to men:::race re persona:::1:::2:::1:::0.5:::1.0
+superior to other women:::faith, confident in:::1:::2:::1:::0.5:::1.0
+dignified:::superior to other women:::1:::1:::2:::1.0:::0.5
+faith:::superior to other women:::1:::1:::2:::1.0:::0.5
+claim to higher status:::superior to other women:::1:::1:::2:::1.0:::0.5
+superior to other women:::gender as persona's encounter with others:::1:::2:::1:::0.5:::1.0
+superior to other women:::race re persona:::1:::2:::1:::0.5:::1.0
+dignified:::faith, confident in:::1:::1:::1:::1.0:::1.0
+faith:::faith, confident in:::1:::1:::1:::1.0:::1.0
+claim to higher status:::faith, confident in:::1:::1:::1:::1.0:::1.0
+gender as persona's encounter with others:::faith, confident in:::1:::1:::1:::1.0:::1.0
+race re persona:::faith, confident in:::1:::1:::1:::1.0:::1.0
+dignified:::faith:::1:::1:::1:::1.0:::1.0
+dignified:::claim to higher status:::1:::1:::1:::1.0:::1.0
+dignified:::gender as persona's encounter with others:::1:::1:::1:::1.0:::1.0
+dignified:::race re persona:::1:::1:::1:::1.0:::1.0
+claim to higher status:::faith:::1:::1:::1:::1.0:::1.0
+faith:::gender as persona's encounter with others:::1:::1:::1:::1.0:::1.0
+faith:::race re persona:::1:::1:::1:::1.0:::1.0
+claim to higher status:::gender as persona's encounter with others:::1:::1:::1:::1.0:::1.0
+claim to higher status:::race re persona:::1:::1:::1:::1.0:::1.0
+gender as persona's encounter with others:::race re persona:::1:::1:::1:::1.0:::1.0
+education, attending boarding school:::birth:::1:::1:::1:::1.0:::1.0
+teaching adults:::birth:::1:::1:::1:::1.0:::1.0
+teaching children:::birth:::1:::1:::1:::1.0:::1.0
+birth:::travel, international:::1:::1:::2:::1.0:::0.5
+birth:::travel for calling or work:::1:::1:::1:::1.0:::1.0
+birth:::learning language:::1:::1:::1:::1.0:::1.0
+return to previous home:::birth:::1:::1:::1:::1.0:::1.0
+assignment or new responsibility:::birth:::1:::3:::1:::0.3333333333333333:::1.0
+working as paid occupation:::birth:::1:::1:::1:::1.0:::1.0
+quitting or resigning job:::birth:::1:::1:::1:::1.0:::1.0
+marriage, voluntary:::birth:::1:::1:::1:::1.0:::1.0
+teaching adults:::education, attending boarding school:::1:::1:::1:::1.0:::1.0
+education, attending boarding school:::teaching children:::1:::1:::1:::1.0:::1.0
+education, attending boarding school:::travel, international:::1:::1:::2:::1.0:::0.5
+education, attending boarding school:::travel for calling or work:::1:::1:::1:::1.0:::1.0
+education, attending boarding school:::learning language:::1:::1:::1:::1.0:::1.0
+education, attending boarding school:::return to previous home:::1:::1:::1:::1.0:::1.0
+education, attending boarding school:::assignment or new responsibility:::1:::1:::3:::1.0:::0.3333333333333333
+education, attending boarding school:::working as paid occupation:::1:::1:::1:::1.0:::1.0
+quitting or resigning job:::education, attending boarding school:::1:::1:::1:::1.0:::1.0
+marriage, voluntary:::education, attending boarding school:::1:::1:::1:::1.0:::1.0
+teaching adults:::teaching children:::1:::1:::1:::1.0:::1.0
+teaching adults:::travel, international:::1:::1:::2:::1.0:::0.5
+teaching adults:::travel for calling or work:::1:::1:::1:::1.0:::1.0
+teaching adults:::learning language:::1:::1:::1:::1.0:::1.0
+teaching adults:::return to previous home:::1:::1:::1:::1.0:::1.0
+teaching adults:::assignment or new responsibility:::1:::1:::3:::1.0:::0.3333333333333333
+teaching adults:::working as paid occupation:::1:::1:::1:::1.0:::1.0
+teaching adults:::quitting or resigning job:::1:::1:::1:::1.0:::1.0
+teaching adults:::marriage, voluntary:::1:::1:::1:::1.0:::1.0
+teaching children:::travel, international:::1:::1:::2:::1.0:::0.5
+teaching children:::travel for calling or work:::1:::1:::1:::1.0:::1.0
+teaching children:::learning language:::1:::1:::1:::1.0:::1.0
+return to previous home:::teaching children:::1:::1:::1:::1.0:::1.0
+teaching children:::assignment or new responsibility:::1:::1:::3:::1.0:::0.3333333333333333
+teaching children:::working as paid occupation:::1:::1:::1:::1.0:::1.0
+quitting or resigning job:::teaching children:::1:::1:::1:::1.0:::1.0
+marriage, voluntary:::teaching children:::1:::1:::1:::1.0:::1.0
+travel for calling or work:::travel, international:::1:::1:::2:::1.0:::0.5
+learning language:::travel, international:::1:::1:::2:::1.0:::0.5
+return to previous home:::travel, international:::1:::1:::2:::1.0:::0.5
+assignment or new responsibility:::travel, international:::1:::3:::2:::0.3333333333333333:::0.5
+working as paid occupation:::travel, international:::1:::1:::2:::1.0:::0.5
+quitting or resigning job:::travel, international:::1:::1:::2:::1.0:::0.5
+marriage, voluntary:::travel, international:::1:::1:::2:::1.0:::0.5
+learning language:::travel for calling or work:::1:::1:::1:::1.0:::1.0
+return to previous home:::travel for calling or work:::1:::1:::1:::1.0:::1.0
+assignment or new responsibility:::travel for calling or work:::1:::3:::1:::0.3333333333333333:::1.0
+working as paid occupation:::travel for calling or work:::1:::1:::1:::1.0:::1.0
+quitting or resigning job:::travel for calling or work:::1:::1:::1:::1.0:::1.0
+marriage, voluntary:::travel for calling or work:::1:::1:::1:::1.0:::1.0
+return to previous home:::learning language:::1:::1:::1:::1.0:::1.0
+assignment or new responsibility:::learning language:::1:::3:::1:::0.3333333333333333:::1.0
+working as paid occupation:::learning language:::1:::1:::1:::1.0:::1.0
+quitting or resigning job:::learning language:::1:::1:::1:::1.0:::1.0
+marriage, voluntary:::learning language:::1:::1:::1:::1.0:::1.0
+return to previous home:::assignment or new responsibility:::1:::1:::3:::1.0:::0.3333333333333333
+return to previous home:::working as paid occupation:::1:::1:::1:::1.0:::1.0
+quitting or resigning job:::return to previous home:::1:::1:::1:::1.0:::1.0
+marriage, voluntary:::return to previous home:::1:::1:::1:::1.0:::1.0
+assignment or new responsibility:::working as paid occupation:::1:::3:::1:::0.3333333333333333:::1.0
+quitting or resigning job:::assignment or new responsibility:::1:::1:::3:::1.0:::0.3333333333333333
+marriage, voluntary:::assignment or new responsibility:::1:::1:::3:::1.0:::0.3333333333333333
+quitting or resigning job:::working as paid occupation:::1:::1:::1:::1.0:::1.0
+marriage, voluntary:::working as paid occupation:::1:::1:::1:::1.0:::1.0
+quitting or resigning job:::marriage, voluntary:::1:::1:::1:::1.0:::1.0
+festival or celebration:::writing essay or educational text:::1:::1:::1:::1.0:::1.0
+writing essay or educational text:::election:::1:::1:::1:::1.0:::1.0
+writing essay or educational text:::assignment or new responsibility:::1:::1:::3:::1.0:::0.3333333333333333
+public speaking, nonreligious:::writing essay or educational text:::1:::4:::1:::0.25:::1.0
+recognition, written praise:::writing essay or educational text:::1:::1:::1:::1.0:::1.0
+writing essay or educational text:::quotation, documentary source, persona's lifetime:::1:::1:::1:::1.0:::1.0
+writing essay or educational text:::quotation, agent's writing about persona:::1:::1:::1:::1.0:::1.0
+allusion to historical woman:::writing essay or educational text:::1:::1:::1:::1.0:::1.0
+writing essay or educational text:::civil rights:::1:::1:::2:::1.0:::0.5
+fame in lifetime:::writing essay or educational text:::1:::1:::1:::1.0:::1.0
+writing essay or educational text:::race as persona's encounter with others:::1:::1:::2:::1.0:::0.5
+triumph as fulfilled goal or ambition:::writing essay or educational text:::1:::1:::1:::1.0:::1.0
+writing essay or educational text:::triumph as overcoming adversity or opposition:::1:::1:::1:::1.0:::1.0
+festival or celebration:::election:::1:::1:::1:::1.0:::1.0
+festival or celebration:::assignment or new responsibility:::1:::1:::3:::1.0:::0.3333333333333333
+public speaking, nonreligious:::festival or celebration:::1:::4:::1:::0.25:::1.0
+recognition, written praise:::festival or celebration:::1:::1:::1:::1.0:::1.0
+festival or celebration:::quotation, documentary source, persona's lifetime:::1:::1:::1:::1.0:::1.0
+festival or celebration:::quotation, agent's writing about persona:::1:::1:::1:::1.0:::1.0
+festival or celebration:::allusion to historical woman:::1:::1:::1:::1.0:::1.0
+festival or celebration:::civil rights:::1:::1:::2:::1.0:::0.5
+fame in lifetime:::festival or celebration:::1:::1:::1:::1.0:::1.0
+festival or celebration:::race as persona's encounter with others:::1:::1:::2:::1.0:::0.5
+festival or celebration:::triumph as fulfilled goal or ambition:::1:::1:::1:::1.0:::1.0
+festival or celebration:::triumph as overcoming adversity or opposition:::1:::1:::1:::1.0:::1.0
+assignment or new responsibility:::election:::1:::3:::1:::0.3333333333333333:::1.0
+public speaking, nonreligious:::election:::1:::4:::1:::0.25:::1.0
+recognition, written praise:::election:::1:::1:::1:::1.0:::1.0
+quotation, documentary source, persona's lifetime:::election:::1:::1:::1:::1.0:::1.0
+quotation, agent's writing about persona:::election:::1:::1:::1:::1.0:::1.0
+allusion to historical woman:::election:::1:::1:::1:::1.0:::1.0
+election:::civil rights:::1:::1:::2:::1.0:::0.5
+fame in lifetime:::election:::1:::1:::1:::1.0:::1.0
+race as persona's encounter with others:::election:::1:::2:::1:::0.5:::1.0
+triumph as fulfilled goal or ambition:::election:::1:::1:::1:::1.0:::1.0
+triumph as overcoming adversity or opposition:::election:::1:::1:::1:::1.0:::1.0
+public speaking, nonreligious:::assignment or new responsibility:::1:::4:::3:::0.25:::0.3333333333333333
+recognition, written praise:::assignment or new responsibility:::1:::1:::3:::1.0:::0.3333333333333333
+assignment or new responsibility:::quotation, documentary source, persona's lifetime:::1:::3:::1:::0.3333333333333333:::1.0
+assignment or new responsibility:::quotation, agent's writing about persona:::1:::3:::1:::0.3333333333333333:::1.0
+allusion to historical woman:::assignment or new responsibility:::1:::1:::3:::1.0:::0.3333333333333333
+assignment or new responsibility:::civil rights:::1:::3:::2:::0.3333333333333333:::0.5
+fame in lifetime:::assignment or new responsibility:::1:::1:::3:::1.0:::0.3333333333333333
+assignment or new responsibility:::race as persona's encounter with others:::1:::3:::2:::0.3333333333333333:::0.5
+triumph as fulfilled goal or ambition:::assignment or new responsibility:::1:::1:::3:::1.0:::0.3333333333333333
+assignment or new responsibility:::triumph as overcoming adversity or opposition:::1:::3:::1:::0.3333333333333333:::1.0
+recognition, written praise:::public speaking, nonreligious:::1:::1:::4:::1.0:::0.25
+public speaking, nonreligious:::quotation, documentary source, persona's lifetime:::1:::4:::1:::0.25:::1.0
+public speaking, nonreligious:::quotation, agent's writing about persona:::1:::4:::1:::0.25:::1.0
+public speaking, nonreligious:::allusion to historical woman:::1:::4:::1:::0.25:::1.0
+public speaking, nonreligious:::civil rights:::1:::4:::2:::0.25:::0.5
+fame in lifetime:::public speaking, nonreligious:::1:::1:::4:::1.0:::0.25
+public speaking, nonreligious:::race as persona's encounter with others:::1:::4:::2:::0.25:::0.5
+public speaking, nonreligious:::triumph as fulfilled goal or ambition:::1:::4:::1:::0.25:::1.0
+public speaking, nonreligious:::triumph as overcoming adversity or opposition:::1:::4:::1:::0.25:::1.0
+recognition, written praise:::quotation, documentary source, persona's lifetime:::1:::1:::1:::1.0:::1.0
+recognition, written praise:::quotation, agent's writing about persona:::1:::1:::1:::1.0:::1.0
+recognition, written praise:::allusion to historical woman:::1:::1:::1:::1.0:::1.0
+recognition, written praise:::civil rights:::1:::1:::2:::1.0:::0.5
+recognition, written praise:::fame in lifetime:::1:::1:::1:::1.0:::1.0
+recognition, written praise:::race as persona's encounter with others:::1:::1:::2:::1.0:::0.5
+recognition, written praise:::triumph as fulfilled goal or ambition:::1:::1:::1:::1.0:::1.0
+recognition, written praise:::triumph as overcoming adversity or opposition:::1:::1:::1:::1.0:::1.0
+quotation, documentary source, persona's lifetime:::quotation, agent's writing about persona:::1:::1:::1:::1.0:::1.0
+allusion to historical woman:::quotation, documentary source, persona's lifetime:::1:::1:::1:::1.0:::1.0
+quotation, documentary source, persona's lifetime:::civil rights:::1:::1:::2:::1.0:::0.5
+fame in lifetime:::quotation, documentary source, persona's lifetime:::1:::1:::1:::1.0:::1.0
+quotation, documentary source, persona's lifetime:::race as persona's encounter with others:::1:::1:::2:::1.0:::0.5
+triumph as fulfilled goal or ambition:::quotation, documentary source, persona's lifetime:::1:::1:::1:::1.0:::1.0
+quotation, documentary source, persona's lifetime:::triumph as overcoming adversity or opposition:::1:::1:::1:::1.0:::1.0
+allusion to historical woman:::quotation, agent's writing about persona:::1:::1:::1:::1.0:::1.0
+quotation, agent's writing about persona:::civil rights:::1:::1:::2:::1.0:::0.5
+fame in lifetime:::quotation, agent's writing about persona:::1:::1:::1:::1.0:::1.0
+race as persona's encounter with others:::quotation, agent's writing about persona:::1:::2:::1:::0.5:::1.0
+triumph as fulfilled goal or ambition:::quotation, agent's writing about persona:::1:::1:::1:::1.0:::1.0
+triumph as overcoming adversity or opposition:::quotation, agent's writing about persona:::1:::1:::1:::1.0:::1.0
+allusion to historical woman:::civil rights:::1:::1:::2:::1.0:::0.5
+fame in lifetime:::allusion to historical woman:::1:::1:::1:::1.0:::1.0
+allusion to historical woman:::race as persona's encounter with others:::1:::1:::2:::1.0:::0.5
+allusion to historical woman:::triumph as fulfilled goal or ambition:::1:::1:::1:::1.0:::1.0
+allusion to historical woman:::triumph as overcoming adversity or opposition:::1:::1:::1:::1.0:::1.0
+fame in lifetime:::civil rights:::1:::1:::2:::1.0:::0.5
+race as persona's encounter with others:::civil rights:::1:::2:::2:::0.5:::0.5
+triumph as fulfilled goal or ambition:::civil rights:::1:::1:::2:::1.0:::0.5
+triumph as overcoming adversity or opposition:::civil rights:::1:::1:::2:::1.0:::0.5
+fame in lifetime:::race as persona's encounter with others:::1:::1:::2:::1.0:::0.5
+fame in lifetime:::triumph as fulfilled goal or ambition:::1:::1:::1:::1.0:::1.0
+fame in lifetime:::triumph as overcoming adversity or opposition:::1:::1:::1:::1.0:::1.0
+triumph as fulfilled goal or ambition:::race as persona's encounter with others:::1:::1:::2:::1.0:::0.5
+triumph as overcoming adversity or opposition:::race as persona's encounter with others:::1:::1:::2:::1.0:::0.5
+triumph as fulfilled goal or ambition:::triumph as overcoming adversity or opposition:::1:::1:::1:::1.0:::1.0
+quitting or resigning group:::treaty, peace, or alliance:::1:::1:::1:::1.0:::1.0
+assignment or new responsibility:::treaty, peace, or alliance:::1:::3:::1:::0.3333333333333333:::1.0
+recognition, event in honor:::treaty, peace, or alliance:::1:::2:::1:::0.5:::1.0
+intelligent:::treaty, peace, or alliance:::1:::1:::1:::1.0:::1.0
+commanding, able to lead:::treaty, peace, or alliance:::1:::1:::1:::1.0:::1.0
+work as social service:::treaty, peace, or alliance:::1:::1:::1:::1.0:::1.0
+influence, changing behavior of superiors:::treaty, peace, or alliance:::1:::1:::1:::1.0:::1.0
+assignment or new responsibility:::quitting or resigning group:::1:::3:::1:::0.3333333333333333:::1.0
+recognition, event in honor:::quitting or resigning group:::1:::2:::1:::0.5:::1.0
+intelligent:::quitting or resigning group:::1:::1:::1:::1.0:::1.0
+commanding, able to lead:::quitting or resigning group:::1:::1:::1:::1.0:::1.0
+work as social service:::quitting or resigning group:::1:::1:::1:::1.0:::1.0
+quitting or resigning group:::influence, changing behavior of superiors:::1:::1:::1:::1.0:::1.0
+recognition, event in honor:::assignment or new responsibility:::1:::2:::3:::0.5:::0.3333333333333333
+intelligent:::assignment or new responsibility:::1:::1:::3:::1.0:::0.3333333333333333
+commanding, able to lead:::assignment or new responsibility:::1:::1:::3:::1.0:::0.3333333333333333
+work as social service:::assignment or new responsibility:::1:::1:::3:::1.0:::0.3333333333333333
+assignment or new responsibility:::influence, changing behavior of superiors:::1:::3:::1:::0.3333333333333333:::1.0
+intelligent:::recognition, event in honor:::1:::1:::2:::1.0:::0.5
+commanding, able to lead:::recognition, event in honor:::1:::1:::2:::1.0:::0.5
+work as social service:::recognition, event in honor:::1:::1:::2:::1.0:::0.5
+recognition, event in honor:::influence, changing behavior of superiors:::1:::2:::1:::0.5:::1.0
+intelligent:::commanding, able to lead:::1:::1:::1:::1.0:::1.0
+intelligent:::work as social service:::1:::1:::1:::1.0:::1.0
+intelligent:::influence, changing behavior of superiors:::1:::1:::1:::1.0:::1.0
+commanding, able to lead:::work as social service:::1:::1:::1:::1.0:::1.0
+commanding, able to lead:::influence, changing behavior of superiors:::1:::1:::1:::1.0:::1.0
+work as social service:::influence, changing behavior of superiors:::1:::1:::1:::1.0:::1.0
+public speaking, nonreligious:::recognition, spoken praise:::1:::4:::1:::0.25:::1.0
+public speaking, nonreligious:::recognition, event in honor:::1:::4:::2:::0.25:::0.5
+public speaking, nonreligious:::hosting by agents:::1:::4:::1:::0.25:::1.0
+public speaking, nonreligious:::focalization, attributing feelings:::1:::4:::1:::0.25:::1.0
+recognition, event in honor:::recognition, spoken praise:::1:::2:::1:::0.5:::1.0
+hosting by agents:::recognition, spoken praise:::1:::1:::1:::1.0:::1.0
+quotation, agent's speech, unique:::recognition, spoken praise:::1:::2:::1:::0.5:::1.0
+focalization, attributing feelings:::recognition, spoken praise:::1:::1:::1:::1.0:::1.0
+recognition, event in honor:::hosting by agents:::1:::2:::1:::0.5:::1.0
+recognition, event in honor:::quotation, agent's speech, unique:::1:::2:::2:::0.5:::0.5
+recognition, event in honor:::focalization, attributing feelings:::1:::2:::1:::0.5:::1.0
+quotation, agent's speech, unique:::hosting by agents:::1:::2:::1:::0.5:::1.0
+hosting by agents:::focalization, attributing feelings:::1:::1:::1:::1.0:::1.0
+quotation, agent's speech, unique:::focalization, attributing feelings:::1:::2:::1:::0.5:::1.0
+narrating, dramatized:::public speaking, nonreligious:::1:::1:::4:::1.0:::0.25
+public speaking, nonreligious:::influence, emotional effect on peers:::1:::4:::1:::0.25:::1.0
+narrating, dramatized:::influence, emotional effect on peers:::1:::1:::1:::1.0:::1.0
+evaluation:::figureOrImage, ghost or spirit:::1:::1:::1:::1.0:::1.0
+superior to other women:::figureOrImage, ghost or spirit:::1:::2:::1:::0.5:::1.0
+superior to men:::figureOrImage, ghost or spirit:::1:::2:::1:::0.5:::1.0
+skillful:::figureOrImage, ghost or spirit:::1:::1:::1:::1.0:::1.0
+energetic or untiring:::figureOrImage, ghost or spirit:::1:::1:::1:::1.0:::1.0
+charming:::figureOrImage, ghost or spirit:::1:::1:::1:::1.0:::1.0
+sad:::figureOrImage, ghost or spirit:::1:::1:::1:::1.0:::1.0
+brave:::figureOrImage, ghost or spirit:::1:::1:::1:::1.0:::1.0
+hopeful:::figureOrImage, ghost or spirit:::1:::1:::1:::1.0:::1.0
+superior to other women:::evaluation:::1:::2:::1:::0.5:::1.0
+superior to men:::evaluation:::1:::2:::1:::0.5:::1.0
+skillful:::evaluation:::1:::1:::1:::1.0:::1.0
+energetic or untiring:::evaluation:::1:::1:::1:::1.0:::1.0
+charming:::evaluation:::1:::1:::1:::1.0:::1.0
+sad:::evaluation:::1:::1:::1:::1.0:::1.0
+brave:::evaluation:::1:::1:::1:::1.0:::1.0
+hopeful:::evaluation:::1:::1:::1:::1.0:::1.0
+superior to other women:::skillful:::1:::2:::1:::0.5:::1.0
+superior to other women:::energetic or untiring:::1:::2:::1:::0.5:::1.0
+superior to other women:::charming:::1:::2:::1:::0.5:::1.0
+superior to other women:::sad:::1:::2:::1:::0.5:::1.0
+brave:::superior to other women:::1:::1:::2:::1.0:::0.5
+superior to other women:::hopeful:::1:::2:::1:::0.5:::1.0
+superior to men:::skillful:::1:::2:::1:::0.5:::1.0
+superior to men:::energetic or untiring:::1:::2:::1:::0.5:::1.0
+superior to men:::charming:::1:::2:::1:::0.5:::1.0
+superior to men:::sad:::1:::2:::1:::0.5:::1.0
+brave:::superior to men:::1:::1:::2:::1.0:::0.5
+superior to men:::hopeful:::1:::2:::1:::0.5:::1.0
+skillful:::energetic or untiring:::1:::1:::1:::1.0:::1.0
+skillful:::charming:::1:::1:::1:::1.0:::1.0
+sad:::skillful:::1:::1:::1:::1.0:::1.0
+brave:::skillful:::1:::1:::1:::1.0:::1.0
+skillful:::hopeful:::1:::1:::1:::1.0:::1.0
+energetic or untiring:::charming:::1:::1:::1:::1.0:::1.0
+sad:::energetic or untiring:::1:::1:::1:::1.0:::1.0
+brave:::energetic or untiring:::1:::1:::1:::1.0:::1.0
+energetic or untiring:::hopeful:::1:::1:::1:::1.0:::1.0
+sad:::charming:::1:::1:::1:::1.0:::1.0
+brave:::charming:::1:::1:::1:::1.0:::1.0
+charming:::hopeful:::1:::1:::1:::1.0:::1.0
+brave:::sad:::1:::1:::1:::1.0:::1.0
+sad:::hopeful:::1:::1:::1:::1.0:::1.0
+brave:::hopeful:::1:::1:::1:::1.0:::1.0
+narrator's positive orientation:::race as persona's encounter with others:::1:::1:::2:::1.0:::0.5

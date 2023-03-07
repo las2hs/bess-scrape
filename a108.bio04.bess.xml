@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../../../xml/schema/BESS.rng" type="xml"?>
+
+<BESS>
+	<textAnalyzed>
+		<collectionID>a108</collectionID>
+		<biographyID>04</biographyID>
+		<URI>a108.bio04.bess.xml</URI>
+		<author>Benjamin Griffith Brawley</author>
+		<title>Meta Warwick Fuller</title>
+		<personaName>Meta Warwick Fuller</personaName>
+	</textAnalyzed>
+	
+	<analysis>
+		<personaType>Arts</personaType>
+		
+		<!-- Begin Stage of Life -->
+		<stageOfLife>
+			<textUnitRangeReference>
+				<start>1</start>
+				<end>11</end>
+			</textUnitRangeReference>
+			<name>middle</name>
+		</stageOfLife>
+		
+		<stageOfLife>
+			<textUnitReference>5</textUnitReference>
+			<name>beginning</name>
+		</stageOfLife>
+		
+		
+		<!-- Begin Events -->
+		
+		<event>
+			<textUnitReference>3</textUnitReference>
+			<type> needlework or sewing, necessary</type>
+			<type>cooking</type>
+		</event>
+		
+		<event>
+			<textUnitReference>3</textUnitReference>
+			<type> service to family, housekeeping</type>
+			<agentType> husband</agentType>
+		</event>
+		
+		<event>
+			<textUnitReference>4</textUnitReference>
+			<type> sculpting</type>
+		</event>
+		
+		<event>
+			<textUnitReference>5</textUnitReference>
+			<type>birth</type>
+			<dateSingle standardDate="1877-06-09">June 9, 1877</dateSingle>
+		</event>
+		<event>
+			<textUnitReference>5</textUnitReference>
+			<type>education, arts</type>
+			<type>sculpting</type>
+			<type>recognition, receiving award or prize</type>
+			<dateSingle standardDate="1898">1898</dateSingle>
+		</event>
+		
+		<event>
+			<textUnitReference>5</textUnitReference>
+			<type>renaming of persona, proper name</type>
+			<type>travel for calling or work</type>
+			<type>travel, international</type>
+			<type>education, arts</type>
+			<locationSetting>France</locationSetting>
+			<dateSingle standardDate="1899">1899</dateSingle>
+		</event>
+		
+		<event>
+			<textUnitReference>5</textUnitReference>
+			<type>introduction, first social encounter</type>
+			<type>recognition, spoken praise</type>
+			<agentType>famous man</agentType>
+		</event>
+		
+		<event>
+			<textUnitReference>5</textUnitReference>
+			<type>work accomplished, art</type>
+			<type>recognition, event in honor</type>
+			<dateSingle standardDate="1903">1903</dateSingle>
+		</event>
+		
+		<event>
+			<textUnitReference>5</textUnitReference>
+			<type>accident harming persona</type>
+			<dateSingle standardDate="1904">1904</dateSingle>
+		</event>
+		
+		<event>
+			<textUnitReference>6</textUnitReference>
+			<type>recognition, spoken praise</type>
+		</event>
+		
+		<event>
+			<textUnitReference>7</textUnitReference>
+			<type>education, arts</type>
+			<type>recognition, receiving award or prize</type>
+			<dateSingle standardDate="1904">1904</dateSingle>
+		</event>
+		<event>
+			<textUnitReference>7</textUnitReference>
+			<type>work accomplished, art</type>
+			<type>sculpting</type>
+			<dateSingle standardDate="1907">1907</dateSingle>
+		</event>
+		
+		<event>
+			<textUnitReference>7</textUnitReference>
+			<type>marriage, voluntary</type>
+			<dateSingle standardDate="1909">1909</dateSingle>
+		</event>
+		
+		<event>
+			<textUnitReference>7</textUnitReference>
+			<type>fire</type>
+			<dateSingle standardDate="1910">1910</dateSingle>
+		</event>
+		
+		<event>
+			<textUnitReference>7</textUnitReference>
+			<type> hosting by persona</type>
+			<type>work accomplished, art</type>
+			<dateSingle standardDate="1914">1914</dateSingle>
+		</event>
+		
+		<event>
+			<textUnitReference>9</textUnitReference>
+			<type>recognition, receiving award or prize</type>
+			<dateSingle standardDate="1917-05">May, 1917</dateSingle>
+		</event>
+		
+		<!-- Begin Persona Description -->
+		<personaDescription>
+			<textUnitReference>2</textUnitReference>
+			<type>superior to other women</type>
+			<type>superior to men</type>
+		</personaDescription>
+		
+		<personaDescription>
+			<textUnitReference>3</textUnitReference>
+			<type> happy</type>
+		</personaDescription>
+		
+		<personaDescription>
+			<textUnitReference>5</textUnitReference>
+			<type> genius or talented</type>
+		</personaDescription>
+		
+		<personaDescription>
+			<textUnitReference>6</textUnitReference>
+			<type>famous</type>
+		</personaDescription>
+		
+		<personaDescription>
+			<textUnitReference>11</textUnitReference>
+			<type>dedicated or devoted</type>
+			<type>methodical or disciplined</type>
+			<type>superior to other women</type>
+			<type>skilled, domestic</type>
+		</personaDescription>
+		
+		
+		<!-- Begin Topos -->
+		
+		<topos>
+			<textUnitReference>3</textUnitReference>
+			<type> attachment, family bonding or not</type>
+		</topos>
+		
+		<topos>
+			<textUnitReference>5</textUnitReference>
+			<type> association with great man or men</type>
+			<type>despair</type>
+		</topos>
+		
+		<topos>
+			<textUnitReference>6</textUnitReference>
+			<type>recognition or tribute</type>
+		</topos>
+		
+		<topos>
+			<textUnitReference>8</textUnitReference>
+			<type>turning point</type>
+			<type>motherhood</type>
+			<type>temptation of pleasure or love</type>
+		</topos>
+		
+		<topos>
+			<textUnitReference>11</textUnitReference>
+			<type>race re persona</type>
+			<type>motherhood</type>
+		</topos>
+		
+		
+		<!-- Begin Discourse -->
+		<discourse>
+			<textUnitReference>1</textUnitReference>
+			<type>description of environment</type>
+			<type>allusion literary, reference</type>
+			<type>allusion to historical man</type>
+			<type>allusion to historical woman</type>
+			<type>perspective or point of view</type>
+			<note>
+				<p> I changed "direct address, use of I or one" to "perspective or point of view," though I'm not sure if the latter is a good description either. But it seems like the narrator is projecting the hypothetical experience of a traveller?</p>
+			</note>
+		</discourse>
+		
+		<discourse>
+			<textUnitReference>3</textUnitReference>
+			<type>present tense</type>
+			<type>free indirect</type>
+			<type>narrating, dramatized</type>
+		</discourse>
+		
+		<discourse>
+			<textUnitReference>4</textUnitReference>
+			<type> focalization, attributing feelings</type>
+		</discourse>
+		
+		<discourse>
+			<textUnitReference>5</textUnitReference>
+			<type> figureOrImage, other</type>
+			<type> quotation, agent's speech, unique</type>
+			<type> allusion, biblical</type>
+			<type> analogy to mythic character, female</type>
+		</discourse>
+		
+		<discourse>
+			<textUnitReference>6</textUnitReference>
+			<type>allusion to male literary character</type>
+			<type>free indirect</type>
+			<type>expansion, more discourse than life time</type>
+			<type>evaluation</type>
+			<type>narrator's positive orientation</type>
+		</discourse>
+		
+		<discourse>
+			<textUnitReference>8</textUnitReference>
+			<type>speculation, possible motives or causes</type>
+			<type>personification, community</type>
+		</discourse>
+		
+		<discourse>
+			<textUnitReference>9</textUnitReference>
+			<type>personification, concept or value</type>
+			<type>figureOrImage, animal</type>
+		</discourse>
+		
+		<discourse>
+			<textUnitReference>10</textUnitReference>
+			<type>evaluation</type>
+			<type>allusion, biblical</type>
+			<type>narrator's positive orientation</type>
+		</discourse>
+		
+		<discourse>
+			<textUnitReference>11</textUnitReference>
+			<type>direct address, use of we</type>
+			<type>present tense</type>
+			<type>periods or times compared</type>
+		</discourse>
+		
+	</analysis>
+</BESS>
+

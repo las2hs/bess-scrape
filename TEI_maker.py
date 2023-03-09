@@ -19,10 +19,12 @@ for i, para in enumerate(paragraphs):
     p = ET.SubElement(root, 'p', {'n': str(i+1)})
     p.text = para.strip()
 
+    # Add a newline after each <p> element
+    if i != len(paragraphs) - 1:
+        p.tail = '\n'
+
 # Create the XML tree
 tree = ET.ElementTree(root)
 
 # Write the XML to standard output with each p element on its own line
 tree.write('output.xml', encoding='utf-8', xml_declaration=True, method='xml')
-
-#to use this, you need to make the first argument your .txt file: this should have each paragraph separated out as you want, with a blank line between each of them

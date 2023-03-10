@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<root><event>
+		<textUnitReference>1</textUnitReference>
+		<type>marriage</type>
+	</event>
+	<event>
+		<textUnitReference>4</textUnitReference>
+		<type>marriage</type>
+	</event>
+	<event>
+		<textUnitReference>8</textUnitReference>
+		<type>conversation</type>
+	</event>
+	<discourse>
+		<textUnitReference>2</textUnitReference>
+		<type>personification</type>
+	</discourse>
+	<discourse>
+		<textUnitReference>5</textUnitReference>
+		<type>figureOrImage, water</type>
+	</discourse>
+	<discourse>
+		<textUnitReference>77</textUnitReference>
+		<type>emphasis in typeface, punctuation</type>
+	</discourse>
+	<personaDescription>
+		<textUnitReference>2</textUnitReference>
+		<type>good</type>
+	</personaDescription>
+	<topos>
+		<textUnitReference>66</textUnitReference>
+		<type>handling "romance"</type>
+	</topos>
+	</root>

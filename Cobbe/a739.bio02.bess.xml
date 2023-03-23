@@ -1,0 +1,291 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../../../xml/schema/BESS.rng" type="xml"?>
+
+<BESS>
+    <textAnalyzed>
+        <collectionID>a739</collectionID>
+        <biographyID>bio02</biographyID>
+        <URI>a739.bio02.bess.xml</URI>
+        <author>Rose Somerville</author>
+        <title>Frances Power Cobbe</title>
+        <personaName>Frances Power Cobbe</personaName>
+    </textAnalyzed>
+    <analysis>
+        <personaType>Reformer, political</personaType>
+        <stageOfLife>
+            <textUnitReference>1</textUnitReference>
+            <name>beginning</name>
+        </stageOfLife>
+        <stageOfLife>
+            <textUnitRangeReference>
+                <start>2</start>
+                <end>6</end>
+            </textUnitRangeReference>
+            <name>middle</name>
+        </stageOfLife>
+        <stageOfLife>
+            <textUnitRangeReference>
+                <start>7</start>
+                <end>8</end>
+            </textUnitRangeReference>
+            <name>culmination</name>
+        </stageOfLife>
+        <stageOfLife>
+            <textUnitRangeReference>
+                <start>9</start>
+                <end>10</end>
+            </textUnitRangeReference>
+            <name>middle</name>
+        </stageOfLife>
+        <event>
+            <textUnitReference>1</textUnitReference>
+            <type>birth</type>
+            <type>writing poetry</type>
+            <type>praying</type>
+            <agentType>father</agentType>
+            <agentType>mother</agentType>
+            <locationSetting>Ireland</locationSetting>
+            <timeOfDay>dawn</timeOfDay>
+            <note>
+                <p>writing religious verses</p>
+            </note>
+        </event>
+        <event>
+            <textUnitReference>2</textUnitReference>
+            <type>education, secondary</type>
+            <agentType>girls, unrelated, named group</agentType>
+            <locationSetting>England, as traveler or immigrant</locationSetting>
+            <locationStructure>school, boarding</locationStructure>
+        </event>
+        <event>
+            <textUnitReference>2</textUnitReference>
+            <type>food, feeding or eating</type>
+            <type>holidays, religious other than Christmas</type>
+        </event>
+        <event>
+            <textUnitReference>3</textUnitReference>
+            <type>working as paid occupation</type>
+            <type>writing journalism</type>
+            <type>consultation, advice</type>
+        </event>
+        <event>
+            <textUnitReference>4</textUnitReference>
+            <type>death or loss of father</type>
+            <type>travel, recreational</type>
+            <locationSetting>Europe or Continent</locationSetting>
+        </event>
+        <event>
+            <textUnitReference>4</textUnitReference>
+            <type>move to new city, town, or village</type>
+            <type>project, reform or new system</type>
+            <type>visiting by persona</type>
+            <type>conversation</type>
+            <agentType>female peer, contemporary</agentType>
+            <agentType>male objects</agentType>
+            <agentType>female objects</agentType>
+            <locationSetting>city</locationSetting>
+        </event>
+        <event>
+            <textUnitReference>5</textUnitReference>
+            <type>writing journalism</type>
+            <type>project, reform or new system</type>
+            <type>publicity</type>
+        </event>
+        <event>
+            <textUnitReference>6</textUnitReference>
+            <type>charity, personal action</type>
+            <agentType>patients, unspecified</agentType>
+            <agentType>female professional, unnamed</agentType>
+            <locationSetting>European country, other named</locationSetting>
+            <locationStructure>hospital</locationStructure>
+        </event>
+        <event>
+            <textUnitReference>7</textUnitReference>
+            <type>conversation</type>
+            <type>writing journalism</type>
+            <type>public speaking, nonreligious</type>
+            <type>political movement, women or gender</type>
+            <type>research, scholarly inquiry</type>
+            <type>lobbying</type>
+            <type>legislation</type>
+            <agentType>clergyman or clergy</agentType>
+            <agentType>male superior, named</agentType>
+            <locationSetting>city</locationSetting>
+            <dateSingle standardDate="1878">1878</dateSingle>
+        </event>
+        <event>
+            <textUnitReference>8</textUnitReference>
+            <type>project, reform or new system</type>
+            <type>writing essay or educational text</type>
+            <type>writing other</type>
+            <agentType>male professional, named</agentType>
+            <dateSingle standardDate="1863">1863</dateSingle>
+        </event>
+        <event>
+            <textUnitReference>8</textUnitReference>
+            <type>founding organization</type>
+            <type>lobbying</type>
+            <type>controversy in politics</type>
+            <agentType>clergyman or clergy</agentType>
+            <agentType>male superior, named</agentType>
+            <agentType>male professional, named</agentType>
+            <agentType>people of occupational type</agentType>
+            <dateSingle standardDate="1876">1876</dateSingle>
+        </event>
+        <event>
+            <textUnitReference>9</textUnitReference>
+            <type>writing journalism</type>
+            <type>writing essay or educational text</type>
+            <type>project, reform or new system</type>
+        </event>
+        <event>
+            <textUnitReference>10</textUnitReference>
+            <type>dinner, invited event</type>
+        </event>
+        <personaDescription>
+            <textUnitReference>1</textUnitReference>
+            <type>cheerful</type>
+            <type>religious in practice, observant</type>
+        </personaDescription>
+        <personaDescription>
+            <textUnitReference>3</textUnitReference>
+            <type>intelligent</type>
+            <type>energetic or untiring</type>
+            <type>skilled, in occupation</type>
+            <type>socially daring</type>
+        </personaDescription>
+        <personaDescription>
+            <textUnitReference>8</textUnitReference>
+            <type>resentful</type>
+            <type>sad</type>
+        </personaDescription>
+        <personaDescription>
+            <textUnitReference>10</textUnitReference>
+            <type>happy</type>
+            <type>pleasure seeking</type>
+        </personaDescription>
+        <discourse>
+            <textUnitReference>1</textUnitReference>
+            <type>direct address, use of we</type>
+            <type>focalization, attributing thoughts</type>
+            <type>personification, concept or value</type>
+            <type>evidence questioned, agent's</type>
+            <type>evaluation</type>
+            <type>analogy to mythic character, female</type>
+            <type>description of environment</type>
+            <type>description of agent or identified set of agents</type>
+            <type>prospective or foreshadowing</type>
+            <type>figureOrImage, water</type>
+        </discourse>
+        <discourse>
+            <textUnitReference>2</textUnitReference>
+            <type>emphasis in typeface, punctuation</type>
+            <type>evaluation</type>
+            <type>quotation, persona writings about self</type>
+            <type>allusion, biblical</type>
+            <type>figureOrImage, angel</type>
+        </discourse>
+        <discourse>
+            <textUnitReference>3</textUnitReference>
+            <type>focalization, attributing thoughts</type>
+            <type>quotation, persona writings about self</type>
+            <type>personification, inanimate object</type>
+            <type>emphasis in typeface, punctuation</type>
+            <type>evaluation</type>
+        </discourse>
+        <discourse>
+            <textUnitReference>4</textUnitReference>
+            <type>description of environment</type>
+            <type>evaluation</type>
+            <type>quotation, agent's speech, unique</type>
+            <type>emphasis in typeface, punctuation</type>
+            <type>description of agent or identified set of agents</type>
+        </discourse>
+        <discourse>
+            <textUnitReference>5</textUnitReference>
+            <type>evaluation</type>
+            <type>quotation, persona writings advocacy or reform</type>
+        </discourse>
+        <discourse>
+            <textUnitReference>6</textUnitReference>
+            <type>description of agent or identified set of agents</type>
+            <type>description of environment</type>
+            <type>quotation, agent's speech, unique</type>
+        </discourse>
+        <discourse>
+            <textUnitReference>7</textUnitReference>
+            <type>quotation, unidentified</type>
+            <type>personification, inanimate object</type>
+            <type>emphasis in typeface, punctuation</type>
+            <type>quotation, persona writings advocacy or reform</type>
+            <type>focalization, attributing thoughts</type>
+        </discourse>
+        <discourse>
+            <textUnitReference>8</textUnitReference>
+            <type>focalization, attributing perception</type>
+            <type>personification, concept or value</type>
+            <type>emphasis in typeface, punctuation</type>
+            <type>historiography, narration of historical events</type>
+            <type>personification, community</type>
+            <type>evidence questioned, agent's</type>
+            <type>present tense</type>
+            <type>quotation, persona speech, unique</type>
+        </discourse>
+        <discourse>
+            <textUnitReference>9</textUnitReference>
+            <type>focalization, attributing thoughts</type>
+            <type>present tense</type>
+            <type>emphasis in typeface, punctuation</type>
+            <type>quotation, persona writings advocacy or reform</type>
+            <type>evaluation</type>
+            <type>focalization, attributing feelings</type>
+            <type>personification, concept or value</type>
+        </discourse>
+        <discourse>
+            <textUnitReference>10</textUnitReference>
+            <type>focalization, attributing thoughts</type>
+            <type>time measured as persona's age</type>
+            <type>quotation, persona writings about self</type>
+            <type>emphasis in typeface, punctuation</type>
+        </discourse>
+        <topos>
+            <textUnitReference>1</textUnitReference>
+            <type>doubt of faith</type>
+        </topos>
+        <topos>
+            <textUnitReference>2</textUnitReference>
+            <type>gender as narrator's generalization</type>
+            <type>gender as persona's encounter with others</type>
+        </topos>
+        <topos>
+            <textUnitReference>4</textUnitReference>
+            <type>education advocacy</type>
+            <type>charity</type>
+        </topos>
+        <topos>
+            <textUnitReference>6</textUnitReference>
+            <type>disillusionment</type>
+        </topos>
+        <topos>
+            <textUnitReference>7</textUnitReference>
+            <type>influence, changing behavior of superiors</type>
+            <type>triumph as fulfilled goal or ambition</type>
+        </topos>
+        <topos>
+            <textUnitReference>8</textUnitReference>
+            <type>adversity</type>
+            <type>failure as outcome, tragedy</type>
+            <type>disillusionment</type>
+        </topos>
+        <topos>
+            <textUnitReference>9</textUnitReference>
+            <type>lesson, learning by experience</type>
+        </topos>
+        <topos>
+            <textUnitReference>10</textUnitReference>
+            <type>spinsterhood,</type>
+            <type>gender as persona's encounter with others</type>
+            <type>gender as narrator's generalization</type>
+        </topos>
+    </analysis>
+</BESS>

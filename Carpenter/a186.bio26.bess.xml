@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../../../xml/schema/BESS.rng" type="xml"?>
+<BESS>
+	<textAnalyzed>
+		<collectionID>a186</collectionID>
+		<biographyID>bio26</biographyID>
+		<URI>a186.bio26.bess.xml</URI>
+		<author>Robert Cochrane</author>
+		<title>Mary Carpenter</title>
+		<personaName>Mary Carpenter</personaName>
+	</textAnalyzed>
+	
+	<analysis>
+		<personaType>Philanthropy</personaType>
+		
+		<!-- Begin Stage of Life -->
+		
+		<stageOfLife>
+			<textUnitReference>1</textUnitReference>
+			<name>beginning</name>
+		</stageOfLife>
+		
+		<stageOfLife>
+			<textUnitReference>1</textUnitReference>
+			<name>middle</name>
+		</stageOfLife>
+		
+		<stageOfLife>
+			<textUnitReference>1</textUnitReference>
+			<name>end</name>
+		</stageOfLife>
+		
+		<!-- Begin Events -->
+		
+		<event>
+			<textUnitReference>1</textUnitReference>
+			<type>birth</type>
+			<dateSingle>1807-04-03</dateSingle>
+			<locationSetting>city</locationSetting>
+		</event>
+		
+		<event>
+			<textUnitReference>1</textUnitReference>
+			<type>training, professional school or program</type>
+			<!-- doesn't specify how she was trained, professional or not -->
+			<type>hired for job</type>
+		</event>
+		
+		<event>
+			<textUnitReference>1</textUnitReference>
+			<type>writing poetry</type>
+		</event>
+		
+		<event>
+			<textUnitReference>1</textUnitReference>
+			<type>campaign</type>
+			<type>writing other</type>
+			<agentType>children, unrelated, unspecified</agentType>
+		</event>
+		
+		<event>
+			<textUnitReference>1</textUnitReference>
+			<type>founding organization</type>
+			<type>managing</type>
+			<agentType>girls, unrelated, unnamed group</agentType>
+			<locationStructure>home, convalescent or institutional</locationStructure>
+		</event>
+		
+		<event>
+			<textUnitReference>1</textUnitReference>
+			<type>founding organization</type>
+			<type>working as paid occupation</type>
+			<!-- paid? not specified -->
+			<dateSingle>1835</dateSingle>
+		</event>
+		
+		<event>
+			<textUnitReference>1</textUnitReference>
+			<type>meeting of committee</type>
+			<type>public speaking, nonreligious</type>
+			<dateSingle>1852</dateSingle>
+		</event>
+		
+		<event>
+			<textUnitReference>1</textUnitReference>
+			<type>founding organization</type>
+			<locationStructure>school, other</locationStructure>
+			<locationSetting>city</locationSetting>
+		</event>
+		
+		<event>
+			<textUnitReference>1</textUnitReference>
+			<type>mission, social, women</type>
+			<type>recognition, spoken praise</type>
+			<locationSetting>India</locationSetting>
+			<agentType>people, the, nation or region</agentType>
+		</event>
+		
+		<event>
+			<textUnitReference>1</textUnitReference>
+			<type>travel for calling or work</type>
+			<locationSetting>India</locationSetting>
+		</event>
+		
+		<event>
+			<textUnitReference>1</textUnitReference>
+			<type>interview</type>
+			<type>recognition, audience with ruler or leader</type>
+			<agentType>sovereign, female</agentType>
+			<dateSingle>1868</dateSingle>
+		</event>
+		
+		<event>
+			<textUnitReference>1</textUnitReference>
+			<type>legislation</type>
+			<agentType>corporate, government</agentType>
+		</event>
+		
+		<event>
+			<textUnitReference>1</textUnitReference>
+			<type>death, persona's</type>
+			<dateSingle>1877-06-14</dateSingle>
+		</event>
+		
+		<!-- Begin Persona Description -->
+		
+		<personaDescription>
+			<textUnitReference>1</textUnitReference>
+			<type>artistic</type>
+			<type>faith, doubting or lacking</type>
+			<type>beloved</type>
+			<type>kind</type>
+			<type>generous</type>
+		</personaDescription>
+		
+		<!-- Begin Topos -->
+		
+		<topos>
+			<textUnitReference>1</textUnitReference>
+			<type>charity</type>
+			<type>doubt of faith</type>
+			<type>test or trial, spiritual</type>
+			<type>youthful desire for vocation or work</type>
+			<type>fame in lifetime</type>
+		</topos>
+		
+		<!-- Begin Discourse -->
+		
+		<discourse>
+			<textUnitReference>1</textUnitReference>
+			<type>quotation, persona speech, unique</type>
+			<type>emphasis in typeface, punctuation</type>
+			<type>allusion literary, reference</type>
+			<type>speculation, possible motives or causes</type>
+			<type>allusion to previous biographer</type>
+		</discourse>
+		
+	</analysis>
+</BESS>

@@ -1,0 +1,550 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../../../xml/schema/BESS.rng" type="xml"?>
+<BESS>
+	<textAnalyzed>
+		<collectionID>a282</collectionID>
+		<biographyID>bio02</biographyID>
+		<URI>a282.bio02.bess.xml</URI>
+		<author>Millicent Garrett Fawcett and Steuart Beatrice</author>
+		<title> Mary Carpenter</title>
+		<personaName>Mary Carpenter</personaName>
+	</textAnalyzed>
+
+	<analysis>
+		<personaType>Reformer, political</personaType>
+
+		<!-- Begin Stage of Life -->
+		<stageOfLife>
+			<textUnitReference>2</textUnitReference>
+			<name>middle</name>
+		</stageOfLife>
+		<stageOfLife>
+			<textUnitReference>3</textUnitReference>
+			<name>after</name>
+		</stageOfLife>
+		<stageOfLife>
+			<textUnitReference>4</textUnitReference>
+			<name>middle</name>
+		</stageOfLife>
+		<stageOfLife>
+			<textUnitReference>5</textUnitReference>
+			<name>beginning</name>
+		</stageOfLife>
+		<stageOfLife>
+			<textUnitRangeReference>
+				<start>5</start>
+				<end>7</end>
+			</textUnitRangeReference>
+			<name>middle</name>
+		</stageOfLife>
+		<stageOfLife>
+			<textUnitReference>8</textUnitReference>
+			<name>beginning</name>
+		</stageOfLife>
+		<stageOfLife>
+			<textUnitReference>8</textUnitReference>
+			<name>culmination</name>
+		</stageOfLife>
+		<stageOfLife>
+			<textUnitRangeReference>
+				<start>9</start>
+				<end>13</end>
+			</textUnitRangeReference>
+			<name>middle</name>
+		</stageOfLife>
+		<stageOfLife>
+			<textUnitReference>14</textUnitReference>
+			<name>end</name>
+		</stageOfLife>
+
+
+		<!-- Begin Events -->
+		<event>
+			<textUnitReference>2</textUnitReference>
+			<type>death, nonfamily, woman</type>
+			<agentType>famous woman</agentType>
+			<dateSingle>1845</dateSingle>
+		</event>
+		<event>
+			<textUnitReference>4</textUnitReference>
+			<type>mission, social, children</type>
+			<type>project, reform or new system</type>
+		</event>
+		<event>
+			<textUnitReference>4</textUnitReference>
+			<type>writing letter</type>
+			<dateSingle>1850</dateSingle>
+		</event>
+		<event>
+			<textUnitReference>5</textUnitReference>
+			<type>birth</type>
+			<locationSetting>city</locationSetting>
+			<dateSingle>1807</dateSingle>
+		</event>
+		<event>
+			<textUnitReference>5</textUnitReference>
+			<type>childhood or upbringing</type>
+			<type>games, playing</type>
+			<note>
+				<p>playing with dolls</p>
+			</note>
+		</event>
+		<event>
+			<textUnitReference>5</textUnitReference>
+			<type>renaming of persona, nickname</type>
+			<agentType>foreigner</agentType>
+		</event>
+		<event>
+			<textUnitReference>5</textUnitReference>
+			<type>adoption of child</type>
+			<agentType>girl, unrelated, unnamed</agentType>
+			<dateSingle>1858</dateSingle>
+		</event>
+		<event>
+			<textUnitReference>6</textUnitReference>
+			<type>conversation</type>
+			<agentType>boy, unrelated, unnamed</agentType>
+			<agentType>clergyman or clergy</agentType>
+		</event>
+		<event>
+			<textUnitReference>6</textUnitReference>
+			<type>imprisonment of agent</type>
+			<type>visiting by persona</type>
+			<agentType>boy, unrelated, unnamed</agentType>
+			<locationStructure>prison</locationStructure>
+			<locationSetting>city</locationSetting>
+		</event>
+		<event>
+			<textUnitReference>7</textUnitReference>
+			<type>return to previous home</type>
+			<agentType>boy, unrelated, unnamed</agentType>
+		</event>
+		<event>
+			<textUnitReference>8</textUnitReference>
+			<type>education, attending day school</type>
+			<type>learning language</type>
+			<agentType>sister</agentType>
+			<agentType>father</agentType>
+			<agentType>boys, unrelated, unnamed group</agentType>
+			<locationSetting>city</locationSetting>
+		</event>
+		<event>
+			<textUnitReference>8</textUnitReference>
+			<type>illness, recurrent or epidemic</type>
+			<locationSetting>city</locationSetting>
+			<dateSingle>1832</dateSingle>
+		</event>
+		<event>
+			<textUnitReference>8</textUnitReference>
+			<type>calling or vocation choice, decision</type>
+			<type>writing diary</type>
+			<dateSingle standardDate="1832-03-31">31 March 1832</dateSingle>
+		</event>
+		<event>
+			<textUnitReference>9</textUnitReference>
+			<type>school, founding</type>
+			<agentType>female coworker, unnamed</agentType>
+			<agentType>male coworker, named</agentType>
+			<agentType>noblewoman, named</agentType>
+			<locationSetting>province</locationSetting>
+		</event>
+		<event>
+			<textUnitReference>9</textUnitReference>
+			<type>visiting by persona</type>
+			<type>teaching children</type>
+			<type>gift giving</type>
+			<type>managing</type>
+			<agentType>children, unrelated, unspecified</agentType>
+			<agentType>animal, farm</agentType>
+			<locationStructure>school, reformatory</locationStructure>
+		</event>
+		<event>
+			<textUnitReference>10</textUnitReference>
+			<type>project, reform or new system</type>
+			<agentType>nobleman, named</agentType>
+			<agentType>corporate, government</agentType>
+		</event>
+		<event>
+			<textUnitReference>10</textUnitReference>
+			<type>permission granted</type>
+			<type>legislation</type>
+			<dateSingle>1854</dateSingle>
+		</event>
+		<event>
+			<textUnitReference>11</textUnitReference>
+			<type>public speaking, nonreligious</type>
+			<agentType>corporate, government</agentType>
+			<dateSingle>1851</dateSingle>
+		</event>
+		<event>
+			<textUnitReference>11</textUnitReference>
+			<type>public speaking, nonreligious</type>
+			<agentType>corporate, government</agentType>
+			<dateSingle>1852</dateSingle>
+		</event>
+		<event>
+			<textUnitReference>11</textUnitReference>
+			<type>meeting of committee</type>
+			<type>public speaking, nonreligious</type>
+			<type>reading</type>
+			<agentType>male group</agentType>
+			<locationStructure>lecture hall</locationStructure>
+			<dateSingle>1860</dateSingle>
+			<season>summer</season>
+		</event>
+		<event>
+			<textUnitReference>12</textUnitReference>
+			<type>permission refused</type>
+			<type>persecution, religious</type>
+			<agentType>bureaucrat or bourgeois</agentType>
+			<dateSingle>1856</dateSingle>
+		</event>
+		<event>
+			<textUnitReference>12</textUnitReference>
+			<type>writing essay or educational text</type>
+			<type>recognition, written praise</type>
+			<agentType>male professional, unnamed</agentType>
+			<agentType>foreigner</agentType>
+		</event>
+		<event>
+			<textUnitReference>12</textUnitReference>
+			<type>recognition, title</type>
+			<agentType>clergyman or clergy</agentType>
+			<note>
+				<p>put on Catholic list of forbidden works by Pope</p>
+			</note>
+		</event>
+		<event>
+			<textUnitReference>13</textUnitReference>
+			<type>travel, international</type>
+			<type>mission, social, women</type>
+			<locationSetting>India</locationSetting>
+		</event>
+		<event>
+			<textUnitReference>13</textUnitReference>
+			<type>travel, international</type>
+			<locationSetting>United States, as traveler or immigrant</locationSetting>
+		</event>
+		<event>
+			<textUnitReference>13</textUnitReference>
+			<type>political movement, women or gender</type>
+			<type>legislation</type>
+			<dateSingle>1877</dateSingle>
+		</event>
+		<event>
+			<textUnitReference>14</textUnitReference>
+			<type>death, persona's</type>
+			<dateSingle>1877</dateSingle>
+			<season>spring</season>
+		</event>
+		<!-- Begin Persona Description -->
+		<personaDescription>
+			<textUnitReference>4</textUnitReference>
+			<type>patient or enduring</type>
+		</personaDescription>
+		<personaDescription>
+			<textUnitReference>5</textUnitReference>
+			<type>maternal or nurturing</type>
+			<type>patient or enduring</type>
+		</personaDescription>
+		<personaDescription>
+			<textUnitReference>6</textUnitReference>
+			<type>maternal or nurturing</type>
+		</personaDescription>
+		<personaDescription>
+			<textUnitReference>7</textUnitReference>
+			<type>humor, good sense of</type>
+		</personaDescription>
+		<personaDescription>
+			<textUnitReference>8</textUnitReference>
+			<type>intelligent</type>
+			<type>learned, languages</type>
+			<type>learned, mathematics</type>
+			<type>learned, science</type>
+		</personaDescription>
+		<personaDescription>
+			<textUnitReference>10</textUnitReference>
+			<type>liberal</type>
+		</personaDescription>
+		<personaDescription>
+			<textUnitReference>11</textUnitReference>
+			<type>shy</type>
+			<type>self-effacing</type>
+			<type>dedicated or devoted</type>
+		</personaDescription>
+		<personaDescription>
+			<textUnitReference>12</textUnitReference>
+			<type>religious in practice, observant</type>
+		</personaDescription>
+		<personaDescription>
+			<textUnitReference>13</textUnitReference>
+			<type>energetic or untiring</type>
+			<type>curious</type>
+		</personaDescription>
+		
+		<!-- Begin Discourse -->
+		<discourse>
+			<textUnitReference>1</textUnitReference>
+			<type>quotation, unidentified</type>
+			<type>epigraph or quotation not in body of text</type>
+			<type>allusion, biblical</type>
+		</discourse>
+		<discourse>
+			<textUnitReference>2</textUnitReference>
+			<type>time measured as persona's age</type>
+			<type>allusion to female, persona's contemporary</type>
+			<type>direct address, use of we</type>
+			<type>narrator's research noted</type>
+			<type>description of agent or identified set of agents</type>
+			<type>evaluation</type>
+		</discourse>
+		<discourse>
+			<textUnitReference>3</textUnitReference>
+			<type>present tense</type>
+			<type>evaluation</type>
+			<type>quotation, persona speech, unique</type>
+			<type>focalization, attributing motives</type>
+			<type>summary, more, much or all life in less prose</type>
+			<type>iterative, repeating or persistent</type>
+		</discourse>
+		<discourse>
+			<textUnitReference>4</textUnitReference>
+			<type>present tense</type>
+			<type>evaluation</type>
+			<type>narrator's positive orientation</type>
+			<type>summary, more, much or all life in less prose</type>
+			<type>description of a kind of people or society (not individual)</type>
+			<type>description of environment</type>
+			<type>periods or times compared</type>
+			<type>speculation, alternative outcomes, &quot;if&quot;</type>
+			<type>figureOrImage, animal</type>
+			<type>quotation, persona letters</type>
+			<type>emphasis in typeface, punctuation</type>
+			<type>figureOrImage, fire</type>
+			<type>quotation, agent's speech, often said</type>
+			<type>figureOrImage, warrior</type>
+			<note>
+				<p>figureOrImage, knight</p>
+			</note>
+		</discourse>
+		<discourse>
+			<textUnitReference>5</textUnitReference>
+			<type>paraphrase of writing</type>
+			<type>hyperbole, overstatement</type>
+			<type>description of a kind of people or society (not individual)</type>
+			<type>evaluation</type>
+			<type>emphasis in typeface, punctuation</type>
+			<type>quotation, persona letters</type>
+			<type>allusion, biblical</type>
+			<type>speech, reported not quoted</type>
+		</discourse>
+		<discourse>
+			<textUnitReference>6</textUnitReference>
+			<type>evaluation</type>
+			<type>focalization, attributing thoughts</type>
+			<type>description of agent or identified set of agents</type>
+			<type>speech, reported not quoted</type>
+			<type>emphasis in typeface, punctuation</type>
+			<type>quotation, agent's speech, unique</type>
+		</discourse>
+		<discourse>
+			<textUnitReference>7</textUnitReference>
+			<type>figureOrImage, other</type>
+			<type>evaluation</type>
+			<type>quotation, persona writings advocacy or reform</type>
+			<type>humor</type>
+			<note>
+				<p>figureOrImage, thread</p>
+			</note>
+		</discourse>
+		<discourse>
+			<textUnitReference>8</textUnitReference>
+			<type>foreign phrase</type>
+			<type>emphasis in typeface, punctuation</type>
+			<type>allusion to male, persona's contemporary</type>
+			<type>prospective or foreshadowing</type>
+			<type>focalization, attributing feelings</type>
+			<type>quotation, persona writings about self</type>
+			<type>evaluation</type>
+			<type>present tense</type>
+			<type>speculation, possible motives or causes</type>
+			<type>narrator's research noted</type>
+			<type>digression or pause in life time</type>
+			<type>figureOrImage, warrior</type>
+			<note>
+				<p>figureOrImage, knight</p>
+			</note>
+		</discourse>
+		<discourse>
+			<textUnitReference>9</textUnitReference>
+			<type>periods or times compared</type>
+			<type>description of agent or identified set of agents</type>
+			<type>focalization, attributing thoughts</type>
+			<type>description of environment</type>
+			<type>focalization, attributing perception</type>
+			<type>present tense</type>
+			<type>iterative, repeating or persistent</type>
+			<type>allusion to historical man</type>
+			<type>quotation, agent's writing about persona</type>
+			<type>list or parataxis</type>
+			<type>focalization, attributing feelings</type>
+			<type>quotation, persona writings advocacy or reform</type>
+			<type>emphasis in typeface, punctuation</type>
+			<type>evaluation</type>
+			<note>
+				<p>agent writing, not about persona</p>
+			</note>
+		</discourse>
+		<discourse>
+			<textUnitReference>10</textUnitReference>
+			<type>figureOrImage, devil</type>
+			<type>prospective or foreshadowing</type>
+			<type>present tense</type>
+			<type>narrator's research noted</type>
+			<type>allusion to previous biographer</type>
+			<type>focalization, attributing feelings</type>
+			<type>quotation, persona speech, unique</type>
+			<type>emphasis in typeface, punctuation</type>
+		</discourse>
+		<discourse>
+			<textUnitReference>11</textUnitReference>
+			<type>present tense</type>
+			<type>evaluation</type>
+			<type>paraphrase of writing</type>
+			<type>allusion to previous biographer</type>
+			<type>periods or times compared</type>
+			<type>focalization, attributing feelings</type>
+			<type>focalization, attributing motives</type>
+			<type>speculation, possible motives or causes</type>
+			<type>summary, more, much or all life in less prose</type>
+			<type>emphasis in typeface, punctuation</type>
+			<type>quotation, agent's writing about persona</type>
+			<type>epigraph or quotation not in body of text</type>
+		</discourse>
+		<discourse>
+			<textUnitReference>12</textUnitReference>
+			<type>gap, more than usual omission in telling life</type>
+			<type>narrator's research noted</type>
+			<type>narrating, dramatized</type>
+			<type>quotation, unidentified</type>
+			<type>allusion, biblical</type>
+			<type>narrator's positive orientation</type>
+			<type>hyperbole, overstatement</type>
+			<type>focalization, attributing thoughts</type>
+			<type>foreign phrase</type>
+			<type>emphasis in typeface, punctuation</type>
+			<type>focalization, attributing feelings</type>
+		</discourse>
+		<discourse>
+			<textUnitReference>13</textUnitReference>
+			<type>hyperbole, overstatement</type>
+			<type>time measured as persona's age</type>
+			<type>focalization, attributing motives</type>
+			<type>focalization, attributing thoughts</type>
+			<type>description of agent or identified set of agents</type>
+			<type>retrospective</type>
+			<type>digression or pause in life time</type>
+		</discourse>
+		<discourse>
+			<textUnitReference>14</textUnitReference>
+			<type>euphemism</type>
+			<type>direct address, use of we</type>
+			<type>narrator's positive orientation</type>
+		</discourse>
+		<!-- Begin Topos -->
+		<topos>
+			<textUnitReference>2</textUnitReference>
+			<type>family, occupation of parents or ancestors</type>
+			<note>
+				<p>in this case, not biological ancestor</p>
+			</note>
+		</topos>
+		<topos>
+			<textUnitReference>3</textUnitReference>
+			<type>education advocacy</type>
+		</topos>
+		<topos>
+			<textUnitReference>4</textUnitReference>
+			<type>influence on children, gender unspecified</type>
+		</topos>
+		<topos>
+			<textUnitReference>5</textUnitReference>
+			<type>character as destiny, career foretold</type>
+			<type>motherhood</type>
+		</topos>
+		<topos>
+			<textUnitReference>6</textUnitReference>
+			<type>charity</type>
+			<type>lady braving dark space</type>
+			<type>influence on boys</type>
+		</topos>
+		<topos>
+			<textUnitReference>8</textUnitReference>
+			<type>gender as persona's encounter with others</type>
+			<type>calling or vocation</type>
+		</topos>
+		<topos>
+			<textUnitReference>9</textUnitReference>
+			<type>education advocacy</type>
+			<type>influence on girls</type>
+			<type>influence on boys</type>
+		</topos>
+		<topos>
+			<textUnitReference>10</textUnitReference>
+			<type>adversity</type>
+			<type>triumph as fulfilled goal or ambition</type>
+			<type>influence, changing behavior of superiors</type>
+		</topos>
+		<topos>
+			<textUnitReference>11</textUnitReference>
+			<type>gender as narrator's generalization</type>
+			<type>gender performance, role changed</type>
+			<type>education advocacy</type>
+			<type>test or trial other than physical or spiritual</type>
+			<type>elocution, correct or proper language</type>
+			<type>duty</type>
+		</topos>
+		<topos>
+			<textUnitReference>12</textUnitReference>
+			<type>religion, prejudice or hostility against Protestants</type>
+			<type>recognition or tribute</type>
+		</topos>
+		<topos>
+			<textUnitReference>13</textUnitReference>
+			<type>influence, emotional effect on superiors</type>
+			<type>influence, changing behavior of working women</type>
+		</topos>
+		<topos>
+			<textUnitReference>14</textUnitReference>
+			<type>memory</type>
+		</topos>
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	</analysis>
+</BESS>

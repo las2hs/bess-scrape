@@ -1,0 +1,644 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../../../xml/schema/BESS.rng" type="xml"?>
+
+<BESS>
+	<textAnalyzed>
+		<collectionID>a824</collectionID>
+		<biographyID>10</biographyID>
+		<URI>a824.bio10.bess.xml</URI>
+		<author>Sarah A. Francis Underwood</author>
+		<title>Frances Power Cobbe</title>
+		<personaName>Frances Power Cobbe</personaName>
+	</textAnalyzed>
+	
+	<analysis>
+		<personaType>Reformer, political</personaType>
+		
+		<!-- Begin Stage of Life -->
+		<stageOfLife>
+			<textUnitRangeReference>
+				<start>1</start>
+				<end>2</end>
+			</textUnitRangeReference>
+			<name>culmination</name>
+		</stageOfLife>
+		
+		<stageOfLife>
+			<textUnitRangeReference>
+				<start>3</start>
+				<end>18</end>
+			</textUnitRangeReference>
+			<name>middle</name>
+		</stageOfLife>
+		
+		
+		<!-- Begin Events -->
+		<event>
+			<textUnitReference>1</textUnitReference>
+			<type>controversy of religious practice or affiliation</type>
+			<type>publication</type>
+			<type>work accomplished, writing</type>
+		</event>
+		
+		<event>
+			<textUnitReference>1</textUnitReference>
+			<type>friendship with male</type>
+			<agentType>clergyman or clergy</agentType>
+			<agentType>famous man</agentType>
+			<agentType>mentor</agentType>
+			<agentType>friend</agentType>
+		</event>
+		
+		<event>
+			<textUnitReference>2</textUnitReference>
+			<type>writing biography</type>
+			<type>writing journalism</type>
+			<type>recognition, written praise</type>
+			<agentType>journalist</agentType>
+			<agentType>biographer other than narrator</agentType>
+		</event>
+		
+		<event>
+			<textUnitReference>3</textUnitReference>
+			<type>reading</type>
+			<type>controversy of religious practice or affiliation</type>
+			<type>conversion</type>
+		</event>
+		
+		<event>
+			<textUnitReference>4</textUnitReference>
+			<type>writing letter</type>
+			<type>sending letter or message</type>
+			<type>receiving letter or message</type>
+			<agentType>clergyman or clergy</agentType>
+			<agentType>famous man</agentType>
+			<agentType>mentor</agentType>
+		</event>
+		
+		<event>
+			<textUnitRangeReference>
+				<start>4</start>
+				<end>6</end>
+			</textUnitRangeReference>
+			<type>death, nonfamily, man</type>
+			<agentType>mentor</agentType>
+			<agentType>friend</agentType>
+			<agentType>famous man</agentType>
+			<agentType>clergyman or clergy</agentType>
+		</event>
+		
+		<event>
+			<textUnitReference>5</textUnitReference>
+			<type>travel, international</type>
+			<locationSetting>Europe or Continent</locationSetting>
+			<agentType>famous man</agentType>
+		</event>
+		
+		<event>
+			<textUnitReference>5</textUnitReference>
+			<type>travel, international</type>
+			<locationSetting>Europe or Continent</locationSetting>
+		</event>
+		
+		<event>
+			<textUnitReference>5</textUnitReference>
+			<type>visiting by persona</type>
+			<type>introduction, first social encounter</type>
+			<type>conversation</type>
+			<type>teaching, religious</type>
+			<type>interview</type>
+			<type>gift giving</type>
+			<type>gift receiving</type>
+			<agentType>mentor</agentType>
+			<agentType>friend</agentType>
+			<agentType>famous man</agentType>
+			<agentType>clergyman or clergy</agentType>
+			<locationSetting>city</locationSetting>
+			<locationSetting>Italy</locationSetting>
+		</event>
+		
+		<event>
+			<textUnitReference>6</textUnitReference>
+			<type>funeral</type>
+			<type>burial</type>
+			<agentType>mentor</agentType>
+			<agentType>friend</agentType>
+			<agentType>famous man</agentType>
+			<agentType>clergyman or clergy</agentType>
+			<locationSetting>city</locationSetting>
+			<locationStructure>cemetery</locationStructure>
+		</event>
+		
+		<event>
+			<textUnitReference>6</textUnitReference>
+			<type>grieving</type>
+			<type>procession or parade</type>
+			<agentType>fans or admirers without personal access</agentType>
+			<agentType>devotees, posthumous</agentType>
+			<locationStructure>cemetery</locationStructure>
+			<locationSetting>city</locationSetting>
+		</event>
+		
+		<event>
+			<textUnitReference>6</textUnitReference>
+			<type>writing other</type>
+		</event>
+		
+		<event>
+			<textUnitRangeReference>
+				<start>7</start>
+				<end>8</end>
+			</textUnitRangeReference>
+			<type> recognition, written praise</type>
+			<type>writing letter</type>
+			<agentType>mentor</agentType>
+			<agentType>friend</agentType>
+			<agentType>famous man</agentType>
+			<agentType>clergyman or clergy</agentType>
+		</event>
+		
+		<event>
+			<textUnitReference>7</textUnitReference>
+			<type>festival or celebration</type>
+			<type>recognition, event in honor</type>
+			<type>drinking alcohol by agents</type>
+			<agentType>mentor</agentType>
+			<agentType>friend</agentType>
+			<agentType>famous man</agentType>
+			<agentType>clergyman or clergy</agentType>
+			<dateSingle>Each 4th of December</dateSingle>
+		</event>
+		
+		<event>
+			<textUnitReference>9</textUnitReference>
+			<type>friendship with male</type>
+			<type>friendship with female</type>
+		</event>
+		
+		<event>
+			<textUnitReference>10</textUnitReference>
+			<type>conversation</type>
+			<type>laughing</type>
+			<agentType>biographer other than narrator</agentType>
+			<agentType>admirers with access</agentType>
+			<agentType>girls, unrelated, unnamed group</agentType>
+			<agentType>boys, unrelated, unnamed group</agentType>
+		</event>
+		
+		<event>
+			<textUnitRangeReference>
+				<start>12</start>
+				<end>13</end>
+			</textUnitRangeReference>
+			<type>work accomplished, writing</type>
+			<type>writing essay or educational text</type>
+			<type>writing philosophy</type>
+			<type>controversy of religious practice or affiliation</type>
+		</event>
+		
+		<event>
+			<textUnitReference>12</textUnitReference>
+			<type>reading</type>
+			<type>controversy of religious practice or affiliation</type>
+			<agentType>public, the</agentType>
+		</event>
+		
+		<!-- Begin Persona Description -->
+		<personaDescription>
+			<textUnitReference>1</textUnitReference>
+			<type>brave</type>
+			<type>dedicated or devoted</type>
+			<type>devout</type>
+			<type>liberal</type>
+			<type>faith, confident in</type>
+			<type>intelligent</type>
+			<type>great</type>
+			<type>independent</type>
+			<type>noble in character</type>
+		</personaDescription>
+		
+		<personaDescription>
+			<textUnitReference>2</textUnitReference>
+			<type>famous</type>
+		</personaDescription>
+		
+		<personaDescription>
+			<textUnitReference>3</textUnitReference>
+			<type>intelligent</type>
+			<type>open-minded or tolerant</type>
+			<type>generous</type>
+			<type>good</type>
+			<type>kind</type>
+			<type>ladylike</type>
+			<type>learned, languages</type>
+			<type>observant</type>
+			<type>well_bred or brought up</type>
+			<type>studious</type>
+			<type>sympathetic</type>
+			<type>wise</type>
+		</personaDescription>
+		
+		<personaDescription>
+			<textUnitReference>4</textUnitReference>
+			<type>loving</type>
+			<type>dedicated or devoted</type>
+			<type>dutiful</type>
+			<type>idealistic or unmaterialistic</type>
+		</personaDescription>
+		
+		<personaDescription>
+			<textUnitReference>5</textUnitReference>
+			<type>sympathetic</type>
+			<type>dutiful</type>
+		</personaDescription>
+		
+		<personaDescription>
+			<textUnitReference>6</textUnitReference>
+			<type>honest</type>
+			<type>dedicated or devoted</type>
+			<type>dutiful</type>
+			<type>idealistic or unmaterialistic</type>
+			<type>loyal</type>
+			<type>dutiful</type>
+		</personaDescription>
+		
+		<personaDescription>
+			<textUnitRangeReference>
+				<start>7</start>
+				<end>9</end>
+			</textUnitRangeReference>
+			<type>beloved</type>
+		</personaDescription>
+		
+		<personaDescription>
+			<textUnitReference>7</textUnitReference>
+			<type>intelligent</type>
+			<type>good</type>
+		</personaDescription>
+		
+		<personaDescription>
+			<textUnitRangeReference>
+				<start>9</start>
+				<end>10</end>
+			</textUnitRangeReference>
+			<type>polite</type>
+			<type>kind</type>
+			<type>cheerful</type>
+		</personaDescription>
+		
+		<personaDescription>
+			<textUnitReference>10</textUnitReference>
+			<type>fat</type>
+			<type>large</type>
+			<type>humor, good sense of</type>
+			<type>humorous, witty</type>
+			<type>disabled physically</type>
+			<type>sympathetic</type>
+			<type>charming</type>
+			<type>observant</type>
+			<type>beautiful</type>
+		</personaDescription>
+		
+		<personaDescription>
+			<textUnitReference>12</textUnitReference>
+			<type>kind</type>
+			<type>lively</type>
+			<type>dedicated or devoted</type>
+		</personaDescription>
+		
+		<personaDescription>
+			<textUnitReference>12</textUnitReference>
+			<type>brave</type>
+			<type>devout</type>
+			<type>well_bred or brought up</type>
+			<type>liberal</type>
+			<type>great</type>
+			<type>intelligent</type>
+			<type>innovative, pioneering</type>
+		</personaDescription>
+		
+		<personaDescription>
+			<textUnitReference>13</textUnitReference>
+			<type>skilled, in occupation</type>
+			<type>loving</type>
+		</personaDescription>
+		
+		<!-- Begin Topos -->
+		<topos>
+			<textUnitReference>1</textUnitReference>
+			<type>conversion</type>
+			<type>association with great man or men</type>
+			<type>custom or tradition</type>
+			<type>defiance of authority, nonfamily</type>
+			<type>faith</type>
+			<type>recognition or tribute</type>
+			<type>religion, prejudice or hostility between sects of same</type>
+		</topos>
+		
+		<topos>
+			<textUnitReference>2</textUnitReference>
+			<type>fame in lifetime</type>
+		</topos>
+		
+		<topos>
+			<textUnitRangeReference>
+				<start>3</start>
+				<end>8</end>
+			</textUnitRangeReference>
+			<type>association with great man or men</type>
+		</topos>
+		
+		<topos>
+			<textUnitReference>3</textUnitReference>
+			<type>class re persona</type>
+			<type>class as narrator's generalization</type>
+			<type>calling or vocation</type>
+			<type>character as destiny, career foretold</type>
+			<type>custom or tradition</type>
+			<type>conversion</type>
+			<type>damnation</type>
+			<type>faith</type>
+			<type>inspiration, literary or artistic</type>
+			<type>national character, persona's birth country</type>
+			<type>religion, prejudice or hostility between sects of same</type>
+			<type>turning point</type>
+		</topos>
+		
+		<topos>
+			<textUnitReference>4</textUnitReference>
+			<type>liberalism</type>
+			<type>faith</type>
+		</topos>
+		
+		<topos>
+			<textUnitReference>5</textUnitReference>
+			<type>turning point</type>
+			<type>inspiration, literary or artistic</type>
+			<type>memory</type>
+			<type>dying or deathbed</type>
+		</topos>
+		
+		<topos>
+			<textUnitRangeReference>
+				<start>6</start>
+				<end>8</end>
+			</textUnitRangeReference>
+			<type>recognition or tribute</type>
+			<type>influence, emotional effect on superiors</type>
+			<type>influence, emotional effect on peers</type>
+		</topos>
+		
+		<topos>
+			<textUnitReference>10</textUnitReference>
+			<type>disability</type>
+			<type>influence on girls</type>
+			<type>influence on boys</type>
+			<type>beauty as effect on others</type>
+		</topos>
+		
+		<topos>
+			<textUnitReference>12</textUnitReference>
+			<type>influence, converting others to faith</type>
+			<type>education advocacy</type>
+			<type>freedom</type>
+			<type>custom or tradition</type>
+			<type>defiance of authority, nonfamily</type>
+			<type>doubt of faith</type>
+			<type>liberalism</type>
+			<type>character as destiny, career foretold</type>
+			<type>attachment or caring between the people and persona</type>
+		</topos>
+		
+		<topos>
+			<textUnitRangeReference>
+				<start>14</start>
+				<end>18</end>
+			</textUnitRangeReference>
+			<type>faith</type>
+			<type>doubt of faith</type>
+		</topos>
+		
+		<topos>
+			<textUnitRangeReference>
+				<start>14</start>
+				<end>15</end>
+			</textUnitRangeReference>
+			<type>nature, response to</type>
+			<type>damnation</type>
+		</topos>
+		
+		<topos>
+			<textUnitRangeReference>
+				<start>16</start>
+				<end>17</end>
+			</textUnitRangeReference>
+			<type>religion, prejudice or hostility against non-Christians</type>
+			<type>religion, prejudice or hostility between sects of same</type>
+		</topos>
+		
+		<topos>
+			<textUnitReference>18</textUnitReference>
+			<type>charity</type>
+			<type>sacrifice or renunciation of self-interest or desire</type>
+		</topos>
+		
+		<!-- Begin Discourse -->
+		<discourse>
+			<textUnitReference>1</textUnitReference>
+			<type>analogy to other women, unnamed</type>
+			<type>description of agent or identified set of agents</type>
+			<type>evaluation</type>
+			<type>expansion, more discourse than life time</type>
+			<type>narrator's positive orientation</type>
+			<type>allusion to male, persona's contemporary</type>
+		</discourse>
+		
+		<discourse>
+			<textUnitRangeReference>
+				<start>1</start>
+				<end>3</end>
+			</textUnitRangeReference>
+			<type> direct address, use of I or one</type>
+		</discourse>
+		
+		<discourse>
+			<textUnitRangeReference>
+				<start>2</start>
+				<end>3</end>
+			</textUnitRangeReference>
+			<type>allusion to previous biographer</type>
+			<type>narrator's research noted</type>
+			<type>evidence of life missing</type>
+			<type>speculation, possible motives or causes</type>
+		</discourse>
+		
+		<discourse>
+			<textUnitRangeReference>
+				<start>3</start>
+				<end>4</end>
+			</textUnitRangeReference>
+			<type>allusion to male, persona's contemporary</type>
+		</discourse>
+		
+		<discourse>
+			<textUnitReference>3</textUnitReference>
+			<type>figureOrImage, hell</type>
+			<type>figureOrImage, heart</type>
+		</discourse>
+		
+		<discourse>
+			<textUnitRangeReference>
+				<start>2</start>
+				<end>13</end>
+			</textUnitRangeReference>
+			<type>narrator's positive orientation</type>
+		</discourse>
+		
+		<discourse>
+			<textUnitReference>5</textUnitReference>
+			<type>OneDay occasion stated</type>
+			<type>example, explicit illustration of claim</type>
+			<type>figureOrImage, flower</type>
+		</discourse>
+		
+		<discourse>
+			<textUnitReference>6</textUnitReference>
+			<type>direct address, use of I or one</type>
+			<type>speculation, possible motives or causes</type>
+			<type>figureOrImage, heart</type>
+		</discourse>
+		
+		<discourse>
+			<textUnitReference>7</textUnitReference>
+			<type>paraphrase of writing</type>
+			<type>evaluation</type>
+		</discourse>
+		
+		<discourse>
+			<textUnitReference>8</textUnitReference>
+			<type>quotation, agent's writing about persona</type>
+			<type>hyperbole, overstatement</type>
+		</discourse>
+		
+		<discourse>
+			<textUnitReference>9</textUnitReference>
+			<type>evaluation</type>
+			<type>figureOrImage, heart</type>
+			<type>speculation, possible motives or causes</type>
+		</discourse>
+		
+		<discourse>
+			<textUnitReference>10</textUnitReference>
+			<type>direct address, use of I or one</type>
+			<type>hyperbole, overstatement</type>
+			<type>idiom or cliche</type>
+			<type>metaphor, extended</type>
+			<type>figureOrImage, synecdoche or metonymy</type>
+			<type>figureOrImage, sound or noise</type>
+			<type>irony</type>
+			<type>present tense</type>
+		</discourse>
+		
+		<discourse>
+			<textUnitRangeReference>
+				<start>10</start>
+				<end>11</end>
+			</textUnitRangeReference>
+			<type>allusion to previous biographer</type>
+			<type>quotation, agent's writing about persona</type>
+		</discourse>
+		
+		<discourse>
+			<textUnitRangeReference>
+				<start>10</start>
+				<end>13</end>
+			</textUnitRangeReference>
+			<type>evaluation</type>
+		</discourse>
+		
+		<discourse>
+			<textUnitReference>12</textUnitReference>
+			<type>direct address, use of I or one</type>
+			<type>perspective or point of view</type>
+			<type>literary analysis</type>
+			<type>allusion literary, paraphrase</type>
+			<type>figureOrImage, dark</type>
+			<type>figureOrImage, light</type>
+			<type>narrator's negativity</type>
+			<type>personification, concept or value</type>
+			<type>metaphor, extended</type>
+			<type>prospective or foreshadowing</type>
+		</discourse>
+		
+		<discourse>
+			<textUnitRangeReference>
+				<start>12</start>
+				<end>13</end>
+			</textUnitRangeReference>
+			<type>direct address, use of we</type>
+			<type>example, explicit illustration of claim</type>
+		</discourse>
+		
+		<discourse>
+			<textUnitRangeReference>
+				<start>14</start>
+				<end>18</end>
+			</textUnitRangeReference>
+			<type>quotation, persona writings advocacy or reform</type>
+			<type>present tense</type>
+		</discourse>
+		
+		<discourse>
+			<textUnitRangeReference>
+				<start>14</start>
+				<end>15</end>
+			</textUnitRangeReference>
+			<type>metaphor, extended</type>
+			<type>figureOrImage, light</type>
+			<type>figureOrImage, dark</type>
+			<type>figureOrImage, day</type>
+			<type>figureOrImage, night</type>
+			<type>direct address, use of we</type>
+		</discourse>
+		
+		<discourse>
+			<textUnitReference>14</textUnitReference>
+			<type>hyperbole, overstatement</type>
+			<type>analogy to mythic character, male</type>
+			<type>figureOrImage, devil</type>
+		</discourse>
+		
+		<discourse>
+			<textUnitReference>15</textUnitReference>
+			<type>figureOrImage, hell</type>
+			<type>figureOrImage, heaven</type>
+			<type>figureOrImage, weather</type>
+			<type>description of a kind of people or society (not individual)</type>
+		</discourse>
+		
+		<discourse>
+			<textUnitReference>16</textUnitReference>
+			<type>description of a kind of people or society (not individual)</type>
+		</discourse>
+		
+		<discourse>
+			<textUnitReference>17</textUnitReference>
+			<type>allusion literary, reference</type>
+			<type>allusion to historical man</type>
+			<type>emphasis in typeface, punctuation</type>
+			<type>description of a kind of people or society (not individual)</type>
+			<type>narrator's negativity</type>
+		</discourse>
+		
+		<discourse>
+			<textUnitReference>18</textUnitReference>
+			<type>direct address, use of we</type>
+			<type>irony</type>
+			<type>emphasis in typeface, punctuation</type>
+			<type>example, explicit illustration of claim</type>
+			<type>figureOrImage, heaven</type>
+		</discourse>
+		
+	</analysis>
+</BESS>
+

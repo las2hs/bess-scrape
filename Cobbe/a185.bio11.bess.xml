@@ -1,0 +1,454 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../../../xml/schema/BESS.rng" type="xml"?>
+<BESS>
+	<textAnalyzed>
+		<collectionID>a185</collectionID>
+		<biographyID>bio11</biographyID>
+		<URI>a185.bio11.bess.xml</URI>
+		<author>Jeanie Douglas Cochrane</author>
+		<title>Frances Power Cobbe, The Friend of Woman</title>
+		<personaName>Frances Power Cobbe</personaName>
+	</textAnalyzed>
+
+	<analysis>
+		<personaType>Writer</personaType>
+
+		<!-- Begin Stage of Life -->
+		<stageOfLife>
+			<textUnitReference>1</textUnitReference>
+			<name>beginning</name>
+		</stageOfLife>
+		<stageOfLife>
+			<textUnitRangeReference>
+				<start>2</start>
+				<end>20</end>
+			</textUnitRangeReference>
+			<name>middle</name>
+		</stageOfLife>
+		<stageOfLife>
+			<textUnitReference>21</textUnitReference>
+			<name>end</name>
+		</stageOfLife>
+		<stageOfLife>
+			<textUnitReference>22</textUnitReference>
+			<name>middle</name>
+		</stageOfLife>
+		<stageOfLife>
+			<textUnitRangeReference>
+				<start>23</start>
+				<end>25</end>
+			</textUnitRangeReference>
+			<name>after</name>
+		</stageOfLife>
+		
+		<!-- Begin Events -->
+		<event>
+			<textUnitReference>1</textUnitReference>
+			<type>birth</type>
+			<locationSetting>Ireland</locationSetting>
+			<locationSetting>city</locationSetting>
+			<dateSingle standardDate="1822-12-04">04 December 1822</dateSingle>
+		</event>
+		<event>
+			<textUnitReference>1</textUnitReference>
+			<type>childhood or upbringing</type>
+			<agentType>father</agentType>
+			<agentType>mother</agentType>
+			<agentType>siblings</agentType>
+		</event>
+		<event>
+			<textUnitReference>1</textUnitReference>
+			<type>education, attending boarding school</type>
+			<locationSetting>England, as traveler or immigrant</locationSetting>
+		</event>
+		<event>
+			<textUnitReference>2</textUnitReference>
+			<type>research, scholarly inquiry</type>
+			<type>reading</type>
+		</event>
+		<event>
+			<textUnitReference>3</textUnitReference>
+			<type>discovery or contribution to science</type>
+			<type>conversation</type>
+			<agentType>father</agentType>
+			<dateSingle>1835</dateSingle>
+			<note>
+				<p>Cobbe did not make an actual contribution to science, but she did discover the
+					arrival of this comet of her own valition and announced this discovery to
+					family</p>
+			</note>
+		</event>
+		<event>
+			<textUnitReference>4</textUnitReference>
+			<type>gift receiving</type>
+			<type>disobedience</type>
+			<agentType>grandmother</agentType>
+		</event>
+		<event>
+			<textUnitReference>5</textUnitReference>
+			<type>calling or vocation choice, decision</type>
+		</event>
+		<event>
+			<textUnitReference>6</textUnitReference>
+			<type>travel, international</type>
+			<locationSetting>Europe or Continent</locationSetting>
+			<locationSetting>The East</locationSetting>
+		</event>
+		<event>
+			<textUnitReference>7</textUnitReference>
+			<type>return to previous home</type>
+			<type>move to new house</type>
+			<agentType>female coworker, named</agentType>
+			<agentType>famous woman</agentType>
+			<locationStructure>school, reformatory</locationStructure>
+		</event>
+		<event>
+			<textUnitReference>8</textUnitReference>
+			<type>arrival</type>
+			<type>introduction, first social encounter</type>
+			<agentType>famous woman</agentType>
+			<locationStructure>school, reformatory</locationStructure>
+		</event>
+		<event>
+			<textUnitReference>10</textUnitReference>
+			<type>praying</type>
+			<type>dining or meals, habitual</type>
+			<type>teaching children</type>
+			<locationStructure>school, reformatory</locationStructure>
+			<season>winter</season>
+			<timeOfDay>morning</timeOfDay>
+		</event>
+		<event>
+			<textUnitReference>11</textUnitReference>
+			<type>illness, persona's</type>
+			<type>rental of apartment or lodging</type>
+			<locationSetting>city</locationSetting>
+		</event>
+		<event>
+			<textUnitReference>12</textUnitReference>
+			<type>writing essay or educational text</type>
+			<type>publication</type>
+			<type>mission, social, women</type>
+		</event>
+		<event>
+			<textUnitReference>13</textUnitReference>
+			<type>writing essay or educational text</type>
+			<type>mission, social, women</type>
+		</event>
+		<event>
+			<textUnitReference>14</textUnitReference>
+			<type>public speaking, nonreligious</type>
+			<type>mission, social, women</type>
+		</event>
+		<event>
+			<textUnitReference>15</textUnitReference>
+			<type>political movement, women or gender</type>
+		</event>
+		<event>
+			<textUnitReference>16</textUnitReference>
+			<type>political movement, women or gender</type>
+			<type>legislation</type>
+			<dateSingle>1878</dateSingle>
+		</event>
+		<event>
+			<textUnitReference>17</textUnitReference>
+			<type>project, reform or new system</type>
+			<type>recognition, title</type>
+			<type>writing essay or educational text</type>
+			<agentType>female coworkers</agentType>
+			<agentType>male coworkers</agentType>
+			<agentType>animal, working</agentType>
+			<note>
+				<p>mission social, animals</p>
+			</note>
+		</event>
+		<event>
+			<textUnitReference>18</textUnitReference>
+			<type>assignment or new responsibility</type>
+			<type>writing journalism</type>
+		</event>
+		<event>
+			<textUnitReference>20</textUnitReference>
+			<type>gift receiving</type>
+			<type>recognition, written praise</type>
+			<agentType>people of occupational type</agentType>
+			<dateSingle standardDate="1902-12-22">22 December 1902</dateSingle>
+			<note>
+				<p>people, like Cobbe, who were involved in progressive movements</p>
+			</note>
+		</event>
+		<event>
+			<textUnitReference>21</textUnitReference>
+			<type>death, persona's</type>
+			<locationSetting>town</locationSetting>
+			<dateSingle>1904</dateSingle>
+			<season>spring</season>
+		</event>
+		<event>
+			<textUnitReference>22</textUnitReference>
+			<type>gift receiving</type>
+		</event>
+		<!-- Begin Persona Description -->
+		<personaDescription>
+			<textUnitReference>1</textUnitReference>
+			<type>cheerful</type>
+			<type>happy</type>
+			<type>physically strong</type>
+			<type>willful or stubborn</type>
+		</personaDescription>
+		<personaDescription>
+			<textUnitReference>2</textUnitReference>
+			<type>skillful</type>
+			<type>clever</type>
+			<type>intelligent</type>
+		</personaDescription>
+		<personaDescription>
+			<textUnitReference>3</textUnitReference>
+			<type>learned, science</type>
+		</personaDescription>
+		<personaDescription>
+			<textUnitReference>4</textUnitReference>
+			<type>small</type>
+		</personaDescription>
+		<personaDescription>
+			<textUnitReference>5</textUnitReference>
+			<type>cheerful</type>
+			<type>independent</type>
+		</personaDescription>
+		<personaDescription>
+			<textUnitReference>12</textUnitReference>
+			<type>well_bred or brought up</type>
+			<type>sympathetic</type>
+		</personaDescription>
+
+		<!-- Begin Discourse -->
+		<discourse>
+			<textUnitReference>1</textUnitReference>
+			<type>description of agent or identified set of agents</type>
+		</discourse>
+		<discourse>
+			<textUnitReference>2</textUnitReference>
+			<type>evaluation</type>
+		</discourse>
+		<discourse>
+			<textUnitReference>3</textUnitReference>
+			<type>present tense</type>
+			<type>focalization, attributing feelings</type>
+			<type>speech, reported not quoted</type>
+		</discourse>
+		<discourse>
+			<textUnitReference>4</textUnitReference>
+			<type>focalization, attributing feelings</type>
+			<type>paraphrase of writing</type>
+			<type>focalization, attributing motives</type>
+		</discourse>
+		<discourse>
+			<textUnitReference>5</textUnitReference>
+			<type>summary, more, much or all life in less prose</type>
+			<type>focalization, attributing motives</type>
+		</discourse>
+		<discourse>
+			<textUnitReference>7</textUnitReference>
+			<type>focalization, attributing motives</type>
+			<type>digression or pause in life time</type>
+			<type>description of agent or identified set of agents</type>
+		</discourse>
+		<discourse>
+			<textUnitReference>8</textUnitReference>
+			<type>present tense</type>
+		</discourse>
+		<discourse>
+			<textUnitReference>9</textUnitReference>
+			<type>quotation, persona writings about self</type>
+			<type>description of agent or identified set of agents</type>
+			<type>emphasis in typeface, punctuation</type>
+			<type>figureOrImage, agriculture</type>
+		</discourse>
+		<discourse>
+			<textUnitReference>10</textUnitReference>
+			<type>quotation, persona writings about self</type>
+		</discourse>
+		<discourse>
+			<textUnitReference>11</textUnitReference>
+			<type>focalization, attributing thoughts</type>
+		</discourse>
+		<discourse>
+			<textUnitReference>12</textUnitReference>
+			<type>personification, inanimate object</type>
+			<type>list or parataxis</type>
+			<type>retrospective</type>
+			<type>focalization, attributing feelings</type>
+			<type>focalization, attributing motives</type>
+		</discourse>
+		<discourse>
+			<textUnitReference>13</textUnitReference>
+			<type>present tense</type>
+			<type>speculation, alternative outcomes, &quot;if&quot;</type>
+			<type>emphasis in typeface, punctuation</type>
+			<type>paraphrase of writing</type>
+		</discourse>
+		<discourse>
+			<textUnitReference>14</textUnitReference>
+			<type>focalization, attributing feelings</type>
+			<type>iterative, repeating or persistent</type>
+			<type>list or parataxis</type>
+			<type>present tense</type>
+			<type>description of a kind of people or society (not individual)</type>
+		</discourse>
+		<discourse>
+			<textUnitReference>15</textUnitReference>
+			<type>summary, more, much or all life in less prose</type>
+			<type>direct address, use of we</type>
+			<type>description of agent or identified set of agents</type>
+			<type>allusion to female, persona's contemporary</type>
+		</discourse>
+		<discourse>
+			<textUnitReference>16</textUnitReference>
+			<type>periods or times compared</type>
+		</discourse>
+		<discourse>
+			<textUnitReference>17</textUnitReference>
+			<type>focalization, attributing motives</type>
+			<type>focalization, attributing perception</type>
+			<type>description of agent or identified set of agents</type>
+			<type>hyperbole, overstatement</type>
+			<type>description of a kind of people or society (not individual)</type>
+			<type>summary, more, much or all life in less prose</type>
+		</discourse>
+		<discourse>
+			<textUnitReference>18</textUnitReference>
+			<type>focalization, attributing motives</type>
+			<type>emphasis in typeface, punctuation</type>
+			<type>summary, more, much or all life in less prose</type>
+		</discourse>
+		<discourse>
+			<textUnitReference>19</textUnitReference>
+			<type>direct address, use of we</type>
+		</discourse>
+		<discourse>
+			<textUnitReference>21</textUnitReference>
+			<type>description of environment</type>
+		</discourse>
+		<discourse>
+			<textUnitReference>22</textUnitReference>
+			<type>present tense</type>
+			<type>direct address, use of we</type>
+			<type>evaluation</type>
+		</discourse>
+		<discourse>
+			<textUnitReference>23</textUnitReference>
+			<type>present tense</type>
+			<type>summary, more, much or all life in less prose</type>
+			<type>figureOrImage, conqueror</type>
+			<type>personification, concept or value</type>
+			<type>iterative, repeating or persistent</type>
+			<type>narrator's positive orientation</type>
+		</discourse>
+		<discourse>
+			<textUnitReference>24</textUnitReference>
+			<type>speculation, alternative outcomes, &quot;if&quot;</type>
+			<type>direct address, use of we</type>
+			<type>precepts</type>
+			<type>present tense</type>
+		</discourse>
+		<discourse>
+			<textUnitReference>25</textUnitReference>
+			<type>quotation, unidentified</type>
+		</discourse>
+		<!-- Begin Topos -->
+		<topos>
+			<textUnitReference>1</textUnitReference>
+			<type>family, ancestry</type>
+		</topos>
+		<topos>
+			<textUnitReference>4</textUnitReference>
+			<type>gender as narrator's generalization</type>
+			<type>defiance of family</type>
+			<type>clothing, persona's</type>
+		</topos>
+		<topos>
+			<textUnitReference>5</textUnitReference>
+			<type>gender as persona's encounter with others</type>
+			<type>calling or vocation</type>
+		</topos>
+		<topos>
+			<textUnitReference>6</textUnitReference>
+			<type>gender restricts activity</type>
+		</topos>
+		<topos>
+			<textUnitReference>7</textUnitReference>
+			<type>charity</type>
+		</topos>
+		<topos>
+			<textUnitReference>12</textUnitReference>
+			<type>gender as persona's encounter with others</type>
+		</topos>
+		<topos>
+			<textUnitReference>13</textUnitReference>
+			<type>gender performance, role changed</type>
+		</topos>
+		<topos>
+			<textUnitReference>14</textUnitReference>
+			<type>gender as persona's encounter with others</type>
+			<type>gender restricts activity</type>
+		</topos>
+		<topos>
+			<textUnitReference>15</textUnitReference>
+			<type>gender as narrator's generalization</type>
+		</topos>
+		<topos>
+			<textUnitReference>16</textUnitReference>
+			<type>influence, changing peers' action</type>
+			<type>triumph as fulfilled goal or ambition</type>
+		</topos>
+		<topos>
+			<textUnitReference>19</textUnitReference>
+			<type>duty</type>
+		</topos>
+		<topos>
+			<textUnitReference>20</textUnitReference>
+			<type>recognition or tribute</type>
+		</topos>
+		<topos>
+			<textUnitReference>22</textUnitReference>
+			<type>recognition or tribute</type>
+			<type>national character, narrator's own country</type>
+			<type>pride</type>
+		</topos>
+		<topos>
+			<textUnitReference>23</textUnitReference>
+			<type>national character, narrator's own country</type>
+			<type>gender as narrator's generalization</type>
+		</topos>
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	</analysis>
+</BESS>

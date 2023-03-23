@@ -22,10 +22,12 @@ with open(input_file, "r", encoding="utf-8", newline="") as tsvfile:
         text_unit_ref = ET.SubElement(element, "textUnitReference")
         text_unit_ref.text = row[1]
         text_unit_ref.tail = "\n\t\t"
-        # Create a "type" element and fill it with the third item in the row
-        type_elem = ET.SubElement(element, "type")
-        type_elem.text = row[2]
-        type_elem.tail = "\n\t"
+        # Create a "type" element and fill it with the remaining items in the row starting from index 2
+        for item in row[2:]:
+            if item: 
+                type_elem = ET.SubElement(element, "type")
+                type_elem.text = item
+                type_elem.tail = "\n\t\t"
 
 # Write the XML tree to a file
 tree = ET.ElementTree(root)

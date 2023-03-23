@@ -1,0 +1,45 @@
+event	1	adventure, persona innocent	recognition, grave marker or tomb	recognition, statue			
+event	2	battle	hunting	cooking	move to new country		
+event	3	human trafficking	move to new house	violence against persona			
+event	4	human trafficking	farming	assignment or new responsibility			
+event	5	human trafficking	move to new house				
+event	6	arrival	sleeping	assignment or new responsibility	talent discovered in new activity		
+event	8	childbirth	adventure, persona innocent	assignment or new responsibility	sailing		
+event	9	cooking	nursing, local amateur	cleaning house			
+event	10	hunting	cooking	meeting, public	camping	conversation	story_telling
+event	11	swimming	recognition, spoken praise				
+event	13	return to previous home	running, recreational				
+event	15	public speaking, nonreligious	meeting of committee				
+event	16	gift giving	adventure, persona innocent				
+event	17	campaign	arrival				
+event	19	campaign	adventure, persona innocent				
+event	19	education, private lessons	travel, international	hunting	war, international	assignment or new responsibilty	
+event	20	return to previous home	recognition, grave marker or tomb				
+discourse	1	present tense	speculation, possible motives or causes	focalization, attributing thoughts			
+discourse	2	time measured as persona's age	description of environment				
+discourse	3	narrating, dramatized					
+discourse	4	focalization, attributing thoughts					
+discourse	5	time measured as persona's age	evaluation				
+discourse	7	speculation, alternative outcomes, "if"	rhetorical question				
+discourse	9	free indirect					
+discourse	11	narrating, dramatized	focalization, attributing motives				
+discourse	12	rhetorical question					
+discourse	14	quotation, persona speech, unique					
+discourse	16	focalization, attributing feelings					
+discourse	17	OneDay occasion stated	evaluation	prospective or foreshadowing			
+discourse	18	evaluation	focalization, attributing feelings	quotation, persona speech, unique	focalization, attributing thoughts		
+discourse	19	summary, more, much or all life in less pros					
+discourse	20	evidence questioned, agent's	evidence missing, gap in record	versions of persona's life compared			
+personaDescription	1	noble in character					
+personaDescription	5	young	physically strong	beautiful			
+personaDescription	7	lively					
+personaDescription	9	skilled, in occupation					
+personaDescription	16	calm					
+topos	1	fame, posthumous					
+topos	4	custom or tradition					
+topos	5	romance					
+topos	6	association with great man or men					
+topos	9	talent discovered in new activity	work as social service				
+topos	11	weather, bad	adversity	test or trial, physical			
+topos	15	triumph as fulfilled goal or ambition					
+topos	17	triumph as fulfilled goal or ambition					

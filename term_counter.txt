@@ -1,67 +1,185 @@
-war, international:::1
-public speaking, nonreligious:::4
-debate:::1
-meeting, public:::1
-travel, international:::2
+charity, personal action:::2
+mission, other:::1
+calling or vocation choice, decision:::1
+mission, social, children:::3
 birth:::1
-education, attending boarding school:::1
+travel due to illness:::1
+caregiving other than nursing:::1
+death or loss of father:::1
+recognition, written praise:::3
+illness, family:::1
+teaching children:::2
+teaching, religious:::1
+visiting by persona:::3
+writing letter:::2
+school, founding:::4
+emulation of agent:::1
+visiting by agents:::4
+death, nonfamily, man:::1
+writing other:::1
+writing poetry:::1
+reading:::1
+funeral:::2
+mission, religious, foreign:::2
+mission, religious, city:::2
+founding organization:::3
+consultation, advice:::1
+research, scholarly inquiry:::1
+recognition, building:::1
+crime, other:::1
+writing essay or educational text:::2
+publication:::3
+project, reform or new system:::4
+permission request:::1
+permission refused:::1
+lobbying:::1
+victory:::3
+purchase of property, house, land:::1
+illness, persona's:::1
+recovery from illness:::1
+return to work:::1
+death or loss of mother:::1
+move to new house:::1
+training, practical experience:::2
+travel for calling or work:::3
+working as volunteer:::1
+conversion (event):::3
+money making:::1
+receiving allowance:::1
+calling or vocation choice, considered:::2
+managing:::1
+planning or plotting:::2
+recognition, spoken praise:::2
+school, managing:::1
+petition or appeal:::1
+trial in law court:::1
+meeting of committee:::5
 teaching adults:::1
-teaching children:::1
-travel for calling or work:::1
-learning language:::1
+meeting, public:::1
+controversy of policy or practice in organization:::2
 return to previous home:::1
-assignment or new responsibility:::3
-working as paid occupation:::1
-quitting or resigning job:::1
-marriage, voluntary:::1
-writing essay or educational text:::1
-festival or celebration:::1
-election:::1
-recognition, written praise:::1
-treaty, peace, or alliance:::1
-quitting or resigning group:::1
-recognition, event in honor:::2
-recognition, spoken praise:::1
-hosting by agents:::1
-personification, one sex or gender:::1
+gift receiving:::1
+invitation:::2
+assignment or new responsibility:::1
+debate:::1
+interview:::1
+public speaking, nonreligious:::1
+death or loss of brother:::1
+change of title or position:::1
+conversation:::1
+death, persona's:::1
+death or loss of sister:::1
+crowd gathering, vigil, concern for someone:::1
+epigraph or quotation not in body of text:::1
 description of a kind of people or society (not individual):::1
-prospective or foreshadowing:::1
-quotation, agent's speech, unique:::2
-quotation, documentary source, persona's lifetime:::1
-quotation, agent's writing about persona:::1
-allusion to historical woman:::1
-focalization, attributing feelings:::1
-narrating, dramatized:::1
+quotation, unidentified:::8
+figureOrImage, tree:::1
+analogy to other women, unnamed:::2
+summary, more, much or all life in less prose:::2
+speculation, possible motives or causes:::4
+description of agent or identified set of agents:::3
+childhood anecdote, character predicted:::1
+quotation, persona writings about self:::2
+childhood anecdote, talent predicted:::1
+focalization, attributing motives:::11
+example, explicit illustration of claim:::2
+quotation, agent's letter to persona:::1
+direct address, use of we:::1
+personification, concept or value:::3
+quotation, persona letters:::1
+figureOrImage, dark:::1
+quotation, persona writings poetry:::1
 figureOrImage, ghost or spirit:::1
-evaluation:::1
+focalization, attributing perception:::8
+focalization, attributing feelings:::2
+emphasis in typeface, punctuation:::5
+description of environment:::2
+quotation, group, often said:::1
+evaluation:::2
+literary analysis:::1
+digression or pause in life time:::2
+time measured as persona's age:::3
+quotation, agent's speech, unique:::2
 narrator's positive orientation:::1
-famous:::1
+direct address, use of I or one:::1
+quotation, agent's writing about persona:::1
+perspective or point of view:::1
+quotation, group, unique:::1
+quotation, previous biography of persona:::1
+figureOrImage, light:::1
+dedicated or devoted:::12
+noble in character:::6
+dutiful:::1
+young:::1
 learned, languages:::1
-superior to men:::2
-superior to other women:::2
-faith, confident in:::1
-dignified:::1
-intelligent:::1
-commanding, able to lead:::1
-skillful:::1
-energetic or untiring:::1
-charming:::1
-sad:::1
+learned, mathematics:::1
+skilled, in occupation:::2
+charitable:::3
+religious in practice, observant:::3
+faith, confident in:::3
+loving:::6
+persistent:::4
 brave:::1
-hopeful:::1
+experienced:::2
+good:::5
+ambitious:::4
+useful:::2
+humble:::2
+sympathetic:::2
+patient or enduring:::3
+maternal or nurturing:::1
+self-sacrificing:::3
+observant:::2
+intelligent:::2
+commanding, able to lead:::1
+energetic or untiring:::1
+innovative, pioneering:::1
+persuasive:::2
+open-minded or tolerant:::1
+trustworthy:::1
+genius or talented:::1
+holy or angelic:::1
+faith:::3
 gender as narrator's generalization:::1
-race as narrator's generalization:::1
-patriotism:::1
-civil rights:::2
-influence, changing peers' action:::1
-faith:::1
-claim to higher status:::1
-gender as persona's encounter with others:::1
-race re persona:::1
-fame in lifetime:::1
-race as persona's encounter with others:::2
-triumph as fulfilled goal or ambition:::1
+sacrifice or renunciation of self-interest or desire:::1
+influence on children, gender unspecified:::7
+service to Jesus:::7
+class as narrator's generalization:::1
+family, occupation of parents or ancestors:::1
+attachment, family bonding or not:::3
+memory:::1
+talent discovered in new activity:::1
+gender performance, role changed:::2
+calling or vocation:::1
+attachment or caring between the people and persona:::8
+work as social service:::8
+education advocacy:::7
+fame in lifetime:::2
+dying or deathbed:::2
+association with great man or men:::2
+inspiration, literary or artistic:::1
+character as destiny, career foretold:::1
+poverty:::2
+triumph as fulfilled goal or ambition:::5
+conversion (topos):::4
+work, unladylike, voluntary:::1
+influence, converting others to faith:::1
+turning point:::1
+test or trial, physical:::1
+lesson, learning by experience:::1
+secrecy:::1
+influence on girls:::1
+sacrifice or renunciation of family:::1
+class as persona's encounter with others:::1
+influence on boys:::2
+recognition or tribute:::5
 triumph as overcoming adversity or opposition:::1
-work as social service:::1
-influence, changing behavior of superiors:::1
-influence, emotional effect on peers:::1
+influence, changing behavior of working men:::2
+gender as persona's encounter with others:::2
+gender restricts activity:::1
+influence, emotional effect on peers:::2
+influence, emotional effect on superiors:::1
+association with great woman or women:::1
+attachment or caring between the people and agent:::1
+charity:::1
+claim to higher status:::1

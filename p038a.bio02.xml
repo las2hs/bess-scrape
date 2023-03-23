@@ -1,0 +1,234 @@
+<?xml version='1.0' encoding='utf-8'?>
+<root><event>
+		<textUnitReference>1</textUnitReference>
+		<type>adventure, persona innocent</type>
+		<type>recognition, grave marker or tomb</type>
+		<type>recognition, statue</type>
+		</event>
+	<event>
+		<textUnitReference>2</textUnitReference>
+		<type>battle</type>
+		<type>hunting</type>
+		<type>cooking</type>
+		<type>move to new country</type>
+		</event>
+	<event>
+		<textUnitReference>3</textUnitReference>
+		<type>human trafficking</type>
+		<type>move to new house</type>
+		<type>violence against persona</type>
+		</event>
+	<event>
+		<textUnitReference>4</textUnitReference>
+		<type>human trafficking</type>
+		<type>farming</type>
+		<type>assignment or new responsibility</type>
+		</event>
+	<event>
+		<textUnitReference>5</textUnitReference>
+		<type>human trafficking</type>
+		<type>move to new house</type>
+		</event>
+	<event>
+		<textUnitReference>6</textUnitReference>
+		<type>arrival</type>
+		<type>sleeping</type>
+		<type>assignment or new responsibility</type>
+		<type>talent discovered in new activity</type>
+		</event>
+	<event>
+		<textUnitReference>8</textUnitReference>
+		<type>childbirth</type>
+		<type>adventure, persona innocent</type>
+		<type>assignment or new responsibility</type>
+		<type>sailing</type>
+		</event>
+	<event>
+		<textUnitReference>9</textUnitReference>
+		<type>cooking</type>
+		<type>nursing, local amateur</type>
+		<type>cleaning house</type>
+		</event>
+	<event>
+		<textUnitReference>10</textUnitReference>
+		<type>hunting</type>
+		<type>cooking</type>
+		<type>meeting, public</type>
+		<type>camping</type>
+		<type>conversation</type>
+		<type>story_telling</type>
+		</event>
+	<event>
+		<textUnitReference>11</textUnitReference>
+		<type>swimming</type>
+		<type>recognition, spoken praise</type>
+		</event>
+	<event>
+		<textUnitReference>13</textUnitReference>
+		<type>return to previous home</type>
+		<type>running, recreational</type>
+		</event>
+	<event>
+		<textUnitReference>15</textUnitReference>
+		<type>public speaking, nonreligious</type>
+		<type>meeting of committee</type>
+		</event>
+	<event>
+		<textUnitReference>16</textUnitReference>
+		<type>gift giving</type>
+		<type>adventure, persona innocent</type>
+		</event>
+	<event>
+		<textUnitReference>17</textUnitReference>
+		<type>campaign</type>
+		<type>arrival</type>
+		</event>
+	<event>
+		<textUnitReference>19</textUnitReference>
+		<type>campaign</type>
+		<type>adventure, persona innocent</type>
+		</event>
+	<event>
+		<textUnitReference>19</textUnitReference>
+		<type>education, private lessons</type>
+		<type>travel, international</type>
+		<type>hunting</type>
+		<type>war, international</type>
+		<type>assignment or new responsibilty</type>
+		</event>
+	<event>
+		<textUnitReference>20</textUnitReference>
+		<type>return to previous home</type>
+		<type>recognition, grave marker or tomb</type>
+		</event>
+	<discourse>
+		<textUnitReference>1</textUnitReference>
+		<type>present tense</type>
+		<type>speculation, possible motives or causes</type>
+		<type>focalization, attributing thoughts</type>
+		</discourse>
+	<discourse>
+		<textUnitReference>2</textUnitReference>
+		<type>time measured as persona's age</type>
+		<type>description of environment</type>
+		</discourse>
+	<discourse>
+		<textUnitReference>3</textUnitReference>
+		<type>narrating, dramatized</type>
+		</discourse>
+	<discourse>
+		<textUnitReference>4</textUnitReference>
+		<type>focalization, attributing thoughts</type>
+		</discourse>
+	<discourse>
+		<textUnitReference>5</textUnitReference>
+		<type>time measured as persona's age</type>
+		<type>evaluation</type>
+		</discourse>
+	<discourse>
+		<textUnitReference>7</textUnitReference>
+		<type>speculation, alternative outcomes, "if"</type>
+		<type>rhetorical question</type>
+		</discourse>
+	<discourse>
+		<textUnitReference>9</textUnitReference>
+		<type>free indirect</type>
+		</discourse>
+	<discourse>
+		<textUnitReference>11</textUnitReference>
+		<type>narrating, dramatized</type>
+		<type>focalization, attributing motives</type>
+		</discourse>
+	<discourse>
+		<textUnitReference>12</textUnitReference>
+		<type>rhetorical question</type>
+		</discourse>
+	<discourse>
+		<textUnitReference>14</textUnitReference>
+		<type>quotation, persona speech, unique</type>
+		</discourse>
+	<discourse>
+		<textUnitReference>16</textUnitReference>
+		<type>focalization, attributing feelings</type>
+		</discourse>
+	<discourse>
+		<textUnitReference>17</textUnitReference>
+		<type>OneDay occasion stated</type>
+		<type>evaluation</type>
+		<type>prospective or foreshadowing</type>
+		</discourse>
+	<discourse>
+		<textUnitReference>18</textUnitReference>
+		<type>evaluation</type>
+		<type>focalization, attributing feelings</type>
+		<type>quotation, persona speech, unique</type>
+		<type>focalization, attributing thoughts</type>
+		</discourse>
+	<discourse>
+		<textUnitReference>19</textUnitReference>
+		<type>summary, more, much or all life in less pros</type>
+		</discourse>
+	<discourse>
+		<textUnitReference>20</textUnitReference>
+		<type>evidence questioned, agent's</type>
+		<type>evidence missing, gap in record</type>
+		<type>versions of persona's life compared</type>
+		</discourse>
+	<personaDescription>
+		<textUnitReference>1</textUnitReference>
+		<type>noble in character</type>
+		</personaDescription>
+	<personaDescription>
+		<textUnitReference>5</textUnitReference>
+		<type>young</type>
+		<type>physically strong</type>
+		<type>beautiful</type>
+		</personaDescription>
+	<personaDescription>
+		<textUnitReference>7</textUnitReference>
+		<type>lively</type>
+		</personaDescription>
+	<personaDescription>
+		<textUnitReference>9</textUnitReference>
+		<type>skilled, in occupation</type>
+		</personaDescription>
+	<personaDescription>
+		<textUnitReference>16</textUnitReference>
+		<type>calm</type>
+		</personaDescription>
+	<topos>
+		<textUnitReference>1</textUnitReference>
+		<type>fame, posthumous</type>
+		</topos>
+	<topos>
+		<textUnitReference>4</textUnitReference>
+		<type>custom or tradition</type>
+		</topos>
+	<topos>
+		<textUnitReference>5</textUnitReference>
+		<type>romance</type>
+		</topos>
+	<topos>
+		<textUnitReference>6</textUnitReference>
+		<type>association with great man or men</type>
+		</topos>
+	<topos>
+		<textUnitReference>9</textUnitReference>
+		<type>talent discovered in new activity</type>
+		<type>work as social service</type>
+		</topos>
+	<topos>
+		<textUnitReference>11</textUnitReference>
+		<type>weather, bad</type>
+		<type>adversity</type>
+		<type>test or trial, physical</type>
+		</topos>
+	<topos>
+		<textUnitReference>15</textUnitReference>
+		<type>triumph as fulfilled goal or ambition</type>
+		</topos>
+	<topos>
+		<textUnitReference>17</textUnitReference>
+		<type>triumph as fulfilled goal or ambition</type>
+		</topos>
+	</root>

@@ -1,0 +1,849 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../../../xml/schema/BESS.rng" type="xml"?>
+
+<BESS>
+	<textAnalyzed>
+		<collectionID>a792</collectionID>
+		<biographyID>05</biographyID>
+		<URI>a792.bio05.bess.xml</URI>
+		<author>William Makepeace Thayer</author>
+		<title>Frances Power Cobbe - The Self-Made Scholar</title>
+		<personaName>Frances Power Cobbe</personaName>
+	</textAnalyzed>
+	
+	<analysis>
+		<personaType> Reformer, political</personaType>
+		
+		<!-- Begin Stage of Life -->
+		<stageOfLife>
+			<textUnitRangeReference>
+				<start>1</start>
+				<end>1</end>
+			</textUnitRangeReference>
+			<name>culmination</name>
+		</stageOfLife>
+		
+		<stageOfLife>
+			<textUnitRangeReference>
+				<start>2</start>
+				<end>5</end>
+			</textUnitRangeReference>
+			<name>beginning</name>
+		</stageOfLife>
+		
+		
+		<!-- Begin Events -->
+		<event>
+			<textUnitReference>2</textUnitReference>
+			<type>birth</type>
+			<dateSingle>December 22, 1822</dateSingle>
+			<locationSetting>Ireland</locationSetting>
+		</event>
+		
+		<event>
+			<textUnitReference>3</textUnitReference>
+			<type>teaching, religious</type>
+			<type>praying</type>
+			<type>reading</type>
+			<type>conversation</type>
+		</event>
+		
+		<event>
+			<textUnitReference>5</textUnitReference>
+			<type>purchase of property, house, land</type>
+			<type>marriage, voluntary</type>
+			<type>move to new house</type>
+			<type>travel, other</type>
+			<type>prison visit</type>
+			<type>illness, family</type>
+			<type>visiting by agents</type>
+			<type>nursing, professional</type>
+			<type>childbirth</type>
+			<type>return to previous home</type>
+			<agentType>doctor, physician</agentType>
+		</event>
+		
+		<event>
+			<textUnitReference>6</textUnitReference>
+			<type>training, professional school or program</type>
+			<type>sending letter or message</type>
+			<dateSingle>1894</dateSingle>
+		</event>
+		
+		<event>
+			<textUnitReference>7</textUnitReference>
+			<type>recognition, written praise</type>
+			<type>travel, other</type>
+			<agentType>female adult, other</agentType>
+			<agentType>mother</agentType>
+		</event>
+		
+		<event>
+			<textUnitReference>8</textUnitReference>
+			<type>caregiving other than nursing</type>
+			<type>reading</type>
+			<type>conversation</type>
+			<agentType>governess</agentType>
+		</event>
+		
+		<event>
+			<textUnitReference>9</textUnitReference>
+			<type>recognition, written praise</type>
+		</event>
+		
+		<event>
+			<textUnitReference>10</textUnitReference>
+			<type>reading</type>
+		</event>
+		
+		<event>
+			<textUnitReference>11</textUnitReference>
+			<type>story_telling</type>
+			<type>reading</type>
+			<type>writing other</type>
+			<dateSingle>1894</dateSingle>
+		</event>
+		
+		<event>
+			<textUnitReference>12</textUnitReference>
+			<type>writing other</type>
+		</event>
+		
+		<event>
+			<textUnitReference>13</textUnitReference>
+			<type>gift giving</type>
+		</event>
+		
+		<event>
+			<textUnitReference>14</textUnitReference>
+			<type>teaching children</type>
+			<type>reading</type>
+			<agentType>governess</agentType>
+		</event>
+		
+		<event>
+			<textUnitReference>15</textUnitReference>
+			<type>reading</type>
+		</event>
+		
+		<event>
+			<textUnitReference>16</textUnitReference>
+			<type>writing poetry</type>
+		</event>
+		
+		<event>
+			<textUnitReference>18</textUnitReference>
+			<type>rage, tantrum, or outburst by persona</type>
+			<type>dream or dreaming</type>
+		</event>
+		
+		<event>
+			<textUnitReference>19</textUnitReference>
+			<type>teaching children</type>
+			<type>teaching, religious</type>
+		</event>
+		
+		<event>
+			<textUnitReference>20</textUnitReference>
+			<type>praying</type>
+			<type>punishment</type>
+			<type>crying</type>
+			<type>confession</type>
+		</event>
+		
+		<event>
+			<textUnitReference>21</textUnitReference>
+			<type>reading</type>
+		</event>
+		
+		<event>
+			<textUnitReference>22</textUnitReference>
+			<type>reading</type>
+		</event>
+		
+		<event>
+			<textUnitReference>23</textUnitReference>
+			<type>move to new city, town, or village</type>
+			<type>education, attending boarding school</type>
+		</event>
+		
+		<event>
+			<textUnitReference>27</textUnitReference>
+			<type>return to previous home</type>
+			<type>conversion</type>
+			<type>reading</type>
+		</event>
+		
+		<event>
+			<textUnitReference>28</textUnitReference>
+			<type>reading</type>
+			<type>writing essay or educational text</type>
+			<type>writing history</type>
+			<type>teaching arts or crafts</type>
+			<type>teaching literacy or reading</type>
+			<type>education, arts</type>
+			<locationStructure>library</locationStructure>
+		</event>
+		
+		<event>
+			<textUnitReference>29</textUnitReference>
+			<type>victory</type>
+			<type>sleeping</type>
+		</event>
+		
+		<event>
+			<textUnitReference>32</textUnitReference>
+			<type>return to previous home</type>
+			<type>assignment or new responsibility</type>
+			<type>care for parents other than nursing</type>
+			<type>death or loss of mother</type>
+		</event>
+		
+		<event>
+			<textUnitRangeReference>
+				<start>32</start>
+				<end>35</end>
+			</textUnitRangeReference>
+			<type>service to family, housekeeping</type>
+		</event>
+		
+		<event>
+			<textUnitReference>34</textUnitReference>
+			<type>cleaning house</type>
+			<type>decorating house</type>
+		</event>
+		
+		<event>
+			<textUnitReference>35</textUnitReference>
+			<type>visiting by agents</type>
+			<type>invitation</type>
+			<type>conversation</type>
+		</event>
+		
+		<event>
+			<textUnitReference>37</textUnitReference>
+			<type>writing journalism</type>
+			<type>visiting by persona</type>
+			<type>sending letter or message</type>
+			<type>receiving letter or message</type>
+		</event>
+		
+		<event>
+			<textUnitReference>38</textUnitReference>
+			<type>change of title or position</type>
+			<type>controversy of policy or practice in organization</type>
+			<type>campaign</type>
+			<type>legislation</type>
+			<dateSingle>1867</dateSingle>
+		</event>
+		
+		<event>
+			<textUnitReference>39</textUnitReference>
+			<type>mission, social, children</type>
+			<type>mission, social, women</type>
+			<type>political movement, women or gender</type>
+		</event>
+		
+		<event>
+			<textUnitReference>40</textUnitReference>
+			<type>reading</type>
+			<type>writing journalism</type>
+			<type>money making</type>
+		</event>
+		
+		<event>
+			<textUnitReference>41</textUnitReference>
+			<type>move to new house</type>
+			<type>change of title or position</type>
+			<type>death or loss of father</type>
+			<type>money making</type>
+		</event>
+		
+		<event>
+			<textUnitReference>42</textUnitReference>
+			<type>praying</type>
+			<type>food, feeding or eating</type>
+			<type>school, managing</type>
+			<type>sleeping</type>
+		</event>
+		
+		<event>
+			<textUnitReference>43</textUnitReference>
+			<type>receiving allowance</type>
+		</event>
+		
+		<event>
+			<textUnitReference>46</textUnitReference>
+			<type>mission, social, women</type>
+			<type>public speaking, nonreligious</type>
+			<type>work accomplished, writing</type>
+		</event>
+		
+		<event>
+			<textUnitReference>47</textUnitReference>
+			<type>publication</type>
+			<type>teaching adults</type>
+		</event>
+		
+		
+		<!-- Begin Persona Description -->
+		<personaDescription>
+			<textUnitReference>8</textUnitReference>
+			<type>undutiful</type>
+			<type>willful or stubborn</type>
+		</personaDescription>
+		
+		<personaDescription>
+			<textUnitReference>9</textUnitReference>
+			<type>good</type>
+			<type>honest</type>
+			<type>dutiful</type>
+			<type>loving</type>
+		</personaDescription>
+		
+		<personaDescription>
+			<textUnitReference>10</textUnitReference>
+			<type>good</type>
+			<type>intelligent</type>
+		</personaDescription>
+		
+		<personaDescription>
+			<textUnitReference>11</textUnitReference>
+			<type>intelligent</type>
+			<type>artistic</type>
+		</personaDescription>
+		
+		<personaDescription>
+			<textUnitReference>14</textUnitReference>
+			<type>intelligent</type>
+		</personaDescription>
+		
+		<personaDescription>
+			<textUnitReference>15</textUnitReference>
+			<type>excited</type>
+		</personaDescription>
+		
+		<personaDescription>
+			<textUnitReference>18</textUnitReference>
+			<type>lonely</type>
+		</personaDescription>
+		
+		<personaDescription>
+			<textUnitReference>19</textUnitReference>
+			<type>intelligent</type>
+			<type>energetic or untiring</type>
+			<type>self-doubting, diffident</type>
+			<type>sad</type>
+		</personaDescription>
+		
+		<personaDescription>
+			<textUnitReference>20</textUnitReference>
+			<type>tired or exhausted</type>
+		</personaDescription>
+		
+		<personaDescription>
+			<textUnitReference>21</textUnitReference>
+			<type>faith, doubting or lacking</type>
+		</personaDescription>
+		
+		<personaDescription>
+			<textUnitReference>25</textUnitReference>
+			<type>sad</type>
+		</personaDescription>
+		
+		<personaDescription>
+			<textUnitReference>28</textUnitReference>
+			<type>studious</type>
+			<type>intelligent</type>
+			<type>independent</type>
+		</personaDescription>
+		
+		<personaDescription>
+			<textUnitReference>29</textUnitReference>
+			<type>persistent</type>
+			<type>happy</type>
+		</personaDescription>
+		
+		<personaDescription>
+			<textUnitReference>30</textUnitReference>
+			<type>restless</type>
+		</personaDescription>
+		
+		<personaDescription>
+			<textUnitReference>33</textUnitReference>
+			<type>superior to other women</type>
+			<type>skilled, domestic</type>
+		</personaDescription>
+		
+		<personaDescription>
+			<textUnitReference>36</textUnitReference>
+			<type>noble in character</type>
+			<type>skilled, domestic</type>
+			<type>skilled, in occupation</type>
+		</personaDescription>
+		
+		<personaDescription>
+			<textUnitReference>37</textUnitReference>
+			<type>genius or talented</type>
+		</personaDescription>
+		
+		<personaDescription>
+			<textUnitReference>39</textUnitReference>
+			<type>brave</type>
+			<type>persistent</type>
+		</personaDescription>
+		
+		<personaDescription>
+			<textUnitReference>43</textUnitReference>
+			<type>genius or talented</type>
+			<type>generous</type>
+			<type>self-sacrificing</type>
+		</personaDescription>
+		
+		<personaDescription>
+			<textUnitReference>46</textUnitReference>
+			<type>genius or talented</type>
+		</personaDescription>
+		
+		
+		<!-- Begin Topos -->
+		<topos>
+			<textUnitReference>1</textUnitReference>
+			<type>gender as narrator's generalization</type>
+			<type>poverty</type>
+			<type>wealth</type>
+			<type>vanity of material things</type>
+		</topos>
+		
+		<topos>
+			<textUnitReference>2</textUnitReference>
+			<type>family, class or status</type>
+			<type>faith</type>
+		</topos>
+		
+		<topos>
+			<textUnitReference>3</textUnitReference>
+			<type>faith</type>
+			<type>prayer</type>
+			<type>conservatism</type>
+			<type>attachment, family bonding or not</type>
+		</topos>
+		
+		<topos>
+			<textUnitReference>5</textUnitReference>
+			<type>family, ancestry</type>
+		</topos>
+		
+		<topos>
+			<textUnitReference>6</textUnitReference>
+			<type>gender as narrator's generalization</type>
+		</topos>
+		
+		<topos>
+			<textUnitReference>7</textUnitReference>
+			<type>memory</type>
+			<type>influence, emotional effect on peers</type>
+		</topos>
+		
+		<topos>
+			<textUnitReference>9</textUnitReference>
+			<type>memory</type>
+			<type>attachment, family bonding or not</type>
+		</topos>
+		
+		<topos>
+			<textUnitReference>10</textUnitReference>
+			<type>taste</type>
+		</topos>
+		
+		<topos>
+			<textUnitReference>11</textUnitReference>
+			<type>attachment, family bonding or not</type>
+		</topos>
+		
+		<topos>
+			<textUnitRangeReference>
+				<start>11</start>
+				<end>16</end>
+			</textUnitRangeReference>
+			<type>talent discovered in new activity</type>
+		</topos>
+		
+		<topos>
+			<textUnitReference>13</textUnitReference>
+			<type>family, ancestry</type>
+			<type>test or trial other than physical or spiritual</type>
+			<type>prayer</type>
+		</topos>
+		
+		<topos>
+			<textUnitReference>18</textUnitReference>
+			<type>attachment, family bonding or not</type>
+			<type>service to Jesus</type>
+		</topos>
+		
+		<topos>
+			<textUnitReference>20</textUnitReference>
+			<type>prayer</type>
+			<type>sacrifice or renunciation of self-interest or desire</type>
+		</topos>
+		
+		<topos>
+			<textUnitRangeReference>
+				<start>21</start>
+				<end>24</end>
+			</textUnitRangeReference>
+			<type>doubt of faith</type>
+			<type>test or trial, spiritual</type>
+		</topos>
+		
+		<topos>
+			<textUnitRangeReference>
+				<start>25</start>
+				<end>26</end>
+			</textUnitRangeReference>
+			<type>test or trial other than physical or spiritual</type>
+		</topos>
+		
+		<topos>
+			<textUnitRangeReference>
+				<start>25</start>
+				<end>27</end>
+			</textUnitRangeReference>
+			<type>talent wasted in limited position</type>
+		</topos>
+		
+		<topos>
+			<textUnitReference>27</textUnitReference>
+			<type>conversion</type>
+			<type>faith</type>
+		</topos>
+		
+		<topos>
+			<textUnitReference>29</textUnitReference>
+			<type>lesson, learning by experience</type>
+		</topos>
+		
+		<topos>
+			<textUnitReference>30</textUnitReference>
+			<type>test or trial other than physical or spiritual</type>
+		</topos>
+		
+		<topos>
+			<textUnitReference>31</textUnitReference>
+			<type>solitude, loneliness</type>
+			<type>prayer</type>
+		</topos>
+		
+		<topos>
+			<textUnitReference>32</textUnitReference>
+			<type>disability</type>
+			<type>dying or deathbed</type>
+		</topos>
+		
+		<topos>
+			<textUnitReference>35</textUnitReference>
+			<type>gender restricts activity</type>
+		</topos>
+		
+		<topos>
+			<textUnitReference>36</textUnitReference>
+			<type>class re persona</type>
+		</topos>
+		
+		<topos>
+			<textUnitReference>38</textUnitReference>
+			<type>triumph as fulfilled goal or ambition</type>
+			<type>defiance of authority, nonfamily</type>
+		</topos>
+		
+		<topos>
+			<textUnitReference>39</textUnitReference>
+			<type>domestic violence</type>
+		</topos>
+		
+		<topos>
+			<textUnitRangeReference>
+				<start>39</start>
+				<end>43</end>
+			</textUnitRangeReference>
+			<type>work as social service</type>
+			<type>poverty</type>
+		</topos>
+		
+		<topos>
+			<textUnitReference>42</textUnitReference>
+			<type>prayer</type>
+		</topos>
+		
+		<topos>
+			<textUnitReference>43</textUnitReference>
+			<type>influence on children, gender unspecified</type>
+			<type>influence, changing behavior of working women</type>
+			<type>sacrifice or renunciation of self-interest or desire</type>
+		</topos>
+		
+		<topos>
+			<textUnitReference>44</textUnitReference>
+			<type>family, ancestry</type>
+		</topos>
+		
+		<topos>
+			<textUnitRangeReference>
+				<start>44</start>
+				<end>45</end>
+			</textUnitRangeReference>
+			<type>faith</type>
+		</topos>
+		
+		<topos>
+			<textUnitReference>45</textUnitReference>
+			<type>prayer</type>
+		</topos>
+		
+		<topos>
+			<textUnitReference>46</textUnitReference>
+			<type>influence on girls</type>
+			<type>influence, changing behavior of working women</type>
+			<type>influence, emotional effect on working women</type>
+			<type>education advocacy</type>
+		</topos>
+		
+		<topos>
+			<textUnitRangeReference>
+				<start>46</start>
+				<end>47</end>
+			</textUnitRangeReference>
+			<type>fame in lifetime</type>
+		</topos>
+		
+		<!-- Begin Discourse -->
+		<discourse>
+			<textUnitReference>1</textUnitReference>
+			<type>idiom or cliche</type>
+			<type>metaphor, extended</type>
+		</discourse>
+		
+		<discourse>
+			<textUnitReference>2</textUnitReference>
+			<type>direct address, use of we</type>
+		</discourse>
+		
+		<discourse>
+			<textUnitReference>3</textUnitReference>
+			<type> quotation, persona writings about self</type>
+		</discourse>
+		
+		<discourse>
+			<textUnitReference>4</textUnitReference>
+			<type>figureOrImage, water</type>
+			<type>emphasis in typeface, punctuation</type>
+			<type>evidence questioned, persona's version</type>
+		</discourse>
+		
+		<discourse>
+			<textUnitReference>5</textUnitReference>
+			<type>quotation, persona writings biography</type>
+		</discourse>
+		
+		<discourse>
+			<textUnitReference>7</textUnitReference>
+			<type>quotation, agent's letter to persona</type>
+			<type>foreign phrase</type>
+			<type>figureOrImage, angel</type>
+		</discourse>
+		
+		<discourse>
+			<textUnitReference>8</textUnitReference>
+			<type>quotation or phrase or word in modern language</type>
+			<type>emphasis in typeface, punctuation</type>
+			<type>quotation, persona writings about self</type>
+			<type>figureOrImage, bird</type>
+			<type>allusion literary, reference</type>
+			<type>dialogue</type>
+		</discourse>
+		
+		<discourse>
+			<textUnitReference>9</textUnitReference>
+			<type>quotation, persona writings biography</type>
+		</discourse>
+		
+		<discourse>
+			<textUnitReference>11</textUnitReference>
+			<type>quotation, agent's speech, unique</type>
+			<type>quotation, unidentified</type>
+			<type>quotation, persona writings about self</type>
+		</discourse>
+		
+		<discourse>
+			<textUnitReference>13</textUnitReference>
+			<type>quotation, agent's letter to persona</type>
+		</discourse>
+		
+		<discourse>
+			<textUnitReference>15</textUnitReference>
+			<type>quotation, persona writings about self</type>
+			<type>figureOrImage, night</type>
+			<type>figureOrImage, dark</type>
+			<type>figureOrImage, light</type>
+			<type>emphasis in typeface, punctuation</type>
+		</discourse>
+		
+		<discourse>
+			<textUnitReference>16</textUnitReference>
+			<type>quotation, persona writings poetry</type>
+			<type>emphasis in typeface, punctuation</type>
+			<type>figureOrImage, weather</type>
+			<type>figureOrImage, water</type>
+			<type>figureOrImage, dark</type>
+			<type>figureOrImage, king</type>
+		</discourse>
+		
+		<discourse>
+			<textUnitReference>17</textUnitReference>
+			<type>direct address, use of we</type>
+			<type>rhetorical question</type>
+		</discourse>
+		
+		<discourse>
+			<textUnitReference>18</textUnitReference>
+			<type>quotation, persona writings about self</type>
+			<type>emphasis in typeface, punctuation</type>
+		</discourse>
+		
+		<discourse>
+			<textUnitReference>20</textUnitReference>
+			<type>quotation, persona writings about self</type>
+		</discourse>
+		
+		<discourse>
+			<textUnitReference>22</textUnitReference>
+			<type>figureOrImage, night</type>
+			<type>foreign phrase</type>
+			<type>figureOrImage, fire</type>
+			<type>figureOrImage, animal</type>
+			<type>rhetorical question</type>
+			<type>emphasis in typeface, punctuation</type>
+		</discourse>
+		
+		<discourse>
+			<textUnitReference>23</textUnitReference>
+			<type>speculation, alternative outcomes, &quot;if&quot;</type>
+			<type>rhetorical question</type>
+			<type>free indirect</type>
+			<type>direct address, use of we</type>
+		</discourse>
+		
+		<discourse>
+			<textUnitReference>24</textUnitReference>
+			<type>quotation, persona writings about self</type>
+			<type>quotation, biblical</type>
+			<type>figureOrImage, weather</type>
+			<type>figureOrImage, water</type>
+			<type>figureOrImage, heart</type>
+		</discourse>
+		
+		<discourse>
+			<textUnitReference>26</textUnitReference>
+			<type>quotation, persona writings about self</type>
+		</discourse>
+		
+		<discourse>
+			<textUnitReference>27</textUnitReference>
+			<type>quotation, persona writings about self</type>
+		</discourse>
+		
+		<discourse>
+			<textUnitReference>28</textUnitReference>
+			<type>quotation, unidentified</type>
+			<type>quotation, persona writings journalism</type>
+			<type>figureOrImage, music</type>
+			<type>direct address, use of we</type>
+			<type>emphasis in typeface, punctuation</type>
+		</discourse>
+		
+		<discourse>
+			<textUnitReference>29</textUnitReference>
+			<type>quotation, persona writings about self</type>
+			<type>figureOrImage, conqueror</type>
+		</discourse>
+		
+		<discourse>
+			<textUnitReference>31</textUnitReference>
+			<type>figureOrImage, agriculture</type>
+			<type>quotation, persona writings about self</type>
+			<type>figureOrImage, warrior</type>
+		</discourse>
+		
+		<discourse>
+			<textUnitReference>31</textUnitReference>
+			<type>figureOrImage, heart</type>
+			<type>figureOrImage, conqueror</type>
+			<type>quotation, unidentified</type>
+		</discourse>
+		
+		<discourse>
+			<textUnitReference>33</textUnitReference>
+			<type>direct address, use of we</type>
+		</discourse>
+		
+		<discourse>
+			<textUnitReference>34</textUnitReference>
+			<type>quotation, persona writings about self</type>
+		</discourse>
+		
+		<discourse>
+			<textUnitReference>35</textUnitReference>
+			<type>quotation, agent's speech, unique</type>
+		</discourse>
+		
+		<discourse>
+			<textUnitReference>36</textUnitReference>
+			<type>narrator's positive orientation</type>
+			<type>emphasis in typeface, punctuation</type>
+			<type>quotation, persona writings about self</type>
+		</discourse>
+		
+		<discourse>
+			<textUnitReference>39</textUnitReference>
+			<type>quotation, persona writings advocacy or reform</type>
+		</discourse>
+		
+		<discourse>
+			<textUnitReference>40</textUnitReference>
+			<type>quotation, persona writings about self</type>
+		</discourse>
+		
+		<discourse>
+			<textUnitReference>43</textUnitReference>
+			<type>direct address, use of we</type>
+		</discourse>
+		
+		<discourse>
+			<textUnitReference>44</textUnitReference>
+			<type>emphasis in typeface, punctuation</type>
+		</discourse>
+		
+		<discourse>
+			<textUnitReference>45</textUnitReference>
+			<type>quotation, persona writings biography</type>
+			<type>figureOrImage, saint</type>
+			<type>figureOrImage, heaven</type>
+		</discourse>
+		
+		<discourse>
+			<textUnitReference>46</textUnitReference>
+			<type>direct address, use of we</type>
+		</discourse>
+		
+		<discourse>
+			<textUnitReference>48</textUnitReference>
+			<type>direct address, use of we</type>
+			<type>narrator's positive orientation</type>
+			<type>present tense</type>
+		</discourse>
+		
+		
+	</analysis>
+</BESS>
+
